@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Enhancing Audio Description
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: # /images/EAD-old-logo.png
 description: Project website for Enhancing Audio Description
 baseurl: "/enhancingaudiodescription.com" # the subpath of your site, e.g. /blog
 url: "https://khofstadter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,8 +30,9 @@ social:
 # Hero Settings
 hero:
   hero__title: Hello!
-  hero__description: This is the website for the Enhancing Audio Description project. Explore the pages and the posts, subscribe to our mailing list if you'd like to be updated with our research. 
-  hero__image: '/images/01.jpg'
+  hero__description: ‘Enhancing Audio Description’ or ‘Enhancing AD’ is a project that seeks to explore how sound design techniques can be used to rethink accessibility to film and television for visually impaired audiences. Research will include the application of surround sound rendering, interactive media systems and first person narration. EAD is funded by the Arts and Humanities Research Council AH/N003713/1.  
+  
+  hero__image: '/images/01-2.jpg'
 
 
 #-------------------------------
