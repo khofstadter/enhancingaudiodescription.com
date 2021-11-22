@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Enhancing Audio Description3
+title: Enhancing Audio Description
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Project website for Enhancing Audio Description
 baseurl: "/enhancingaudiodescription.com" # the subpath of your site, e.g. /blog
@@ -11,8 +11,8 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Krisztián Hofstädter
-  author__bio: I am a creative technologist working as a researcher, lecturer, freelancer and artist also known as tEdör.
+  author__name: EAD
+  author__bio: We are a team of ...
   author__avatar: '/images/01-1.jpg'
 
 social:
