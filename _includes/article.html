@@ -4,6 +4,11 @@
     <div class="article__head">
       <time class="article__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
 
+      {% capture url_to_use %}{{ post.url }}{% endcapture %}
+      {% if post.redirect_url %}
+      {% capture url_to_use %}{{ post.redirect_url }}{% endcapture %}
+      {% endif %}
+
       {% if post.video_embed %}
       <div class="video-icon">
         <div class="circle pulse"></div>
@@ -16,7 +21,7 @@
       {% endif %}
 
       {% if post.image %}
-      <a class="article__image" href="{{post.url | prepend: site.baseurl}}">
+      <a class="article__image" href="{{url_to_use | prepend: site.baseurl}}">
         <img class="lazy" data-src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}">
       </a>
       {% endif %}
@@ -26,7 +31,7 @@
     <div class="article__content">
 
       <h2 class="article__title">
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a href="{{ url_to_use | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
 
       {% if post.description %}

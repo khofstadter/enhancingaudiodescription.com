@@ -2,6 +2,13 @@
 
 Overview
 
+try: 
+
+      {% if post.redirect_url %}
+      {% capture url_to_use %}{{ post.redirect_url }}{% endcapture %}
+
+      {% endif %}
+
 ## TODO
 - would be good to have all as posts and understand how to filter them for separate pages
 - how could I remove the Gallery in the footer for some pages/posts?

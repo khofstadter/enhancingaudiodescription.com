@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_url: http://www.aes.org/events/144/tutorials/?ID=5928
 title:  That which does not kill us makes us stronger
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
 date:   2020-11-14 15:01:35 +0300
