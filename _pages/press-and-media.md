@@ -15,7 +15,7 @@ TODO:
 - would it be better to 
 -->
 
-This *page* archives our engagements with the [press](#press) and our own media outputs in [podcast](#podcasts) and [video](#videos) formats.
+This page archives our engagements with the [press](#press) and our own media outputs in [podcast](#podcasts) and [video](#videos) formats.
 
 <br><br>
 
