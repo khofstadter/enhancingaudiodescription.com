@@ -43,7 +43,7 @@ This page introduces the members of our <a href="#research-team">research team</
           </div>
           <div class="hero__right">
             <div>
-              <img class="lazy" data-src="../images/team/mariana-lopez.jpg" alt="Mariana Lopez holding a microphone">
+              <img class="lazy" data-src="../images/team-mariana-lopez.jpg" alt="Mariana Lopez holding a microphone">
             </div>
           </div>
         </div>
