@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Using Sound Design to Foster Inclusivity
-description: On 29 October 2016, at the Anglia Ruskin University, Mariana presented the project at the Cambridge Festival of Ideas. 
+title:  Cambridge Festival of Ideas
+description: On 29 October 2016, at the Anglia Ruskin University, Mariana presented the project at the Cambridge Festival of Ideas. The presentation was titled Using Sound Design to Foster Inclusivity.
 date:   2016-10-21
-image:  '/images/logo-festival-of-ideas.png'
+image:  '/images/feature-festival-of-ideas.png'
 tags:   [event, presentation]
 ---
 *Abstract:*

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Seeing with your Ears - Film and Television for Visually Impaired Audiences
-description: On June 13 2016, Mariana and Gavin presented the project at the University of York's Department of Theatre, Film and Television.
+title:  University of York's TFTV
+description: On June 13 2016, Mariana and Gavin presented the project at the University of York's Department of Theatre, Film and Television. The presentation was titled Seeing with your Ears - Film and Television for Visually Impaired Audiences.
 date:   2016-06-13
-image:  '/images/tftv-building.jpg'
+image:  '/images/feature-tftv-building.jpg'
 tags:   [event, presentation]
 ---
 

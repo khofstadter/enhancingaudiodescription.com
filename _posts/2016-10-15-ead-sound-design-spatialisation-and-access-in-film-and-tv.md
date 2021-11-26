@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  EAD - sound design, spatialisation and accessibility in film and television
-description: On 15 November 2016, Mariana gave a presentation at the Reproduced Sound 2016 – Sound with Pictures - Time is of Essence conference, in Holiday Inn, Southampton.
+title: Reproduced Sound 2016
+description: On 15 November 2016, Mariana gave a presentation title Sound Design, Spatialisation and Accessibility in Film and Television at the Reproduced Sound 2016 – Sound with Pictures - Time is of Essence Conference. The event was held in Holiday Inn, Southampton.
 date:   2016-11-15 
-image:  '/images/logo-institute-of-acoustics.jpg'
+image:  '/images/feature-institute-of-acoustics.jpg'
 tags:   [event, presentation]
 ---
 

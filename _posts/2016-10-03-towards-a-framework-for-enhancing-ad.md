@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Towards a Framework for Enhanced Audio Description
-description: On 3 November 2016, Mariana gave a presentation at the 11th International Conference on Language Transfer in Audiovisual Media, Berlin. 
+title:  Language Transfer in Audiovisual Media Conference, Berlin
+description: On 3 November 2016, Mariana gave a presentation at the 11th International Conference on Language Transfer in Audiovisual Media, Berlin. The title of the presentation was Towards a Framework for Enhanced Audio Description
 date:   2016-11-03
-image:  '/images/logo-languages-and-the-media.jpg'
+image:  '/images/feature-languages-and-the-media.jpg'
 tags:   [event, presentation]
 ---
 *Abstract:*

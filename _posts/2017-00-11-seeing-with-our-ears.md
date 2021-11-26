@@ -3,7 +3,7 @@ layout: post
 title:  Seeing With Our Ears
 description: On 11 January 2017, at the York Talks – Research in the Spotlight event organised by the University of York, Mariana gave a presentation outlining our research progress.
 date:   2017-01-11 
-image:  '/images/logo-york-talks.jpg'
+image:  '/images/feature-yorktalks.jpg'
 tags:   [event, presentation]
 ---
 

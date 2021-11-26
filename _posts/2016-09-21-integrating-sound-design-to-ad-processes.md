@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Integrating Sound Design to Audio Description Processes
-description: On 21 October, the EAD team gave a presentation at the Audio Description - the Art of Access Conference, in the Young Vic Theatre, London in Panel 2, The Aesthetics of Access.
+title:  AD - the Art of Access
+description: On 21 October, the Marian gave a presentation at the Audio Description - the Art of Access Conference, in the Young Vic Theatre, London in Panel 2, The Aesthetics of Access. The presentation's title was Integrating Sound Design to Audio Description.
 date:   2016-10-21
-image:  '/images/logo-mariana.png'
+image:  '/images/feature-mariana.png'
 tags:   [event, presentation]
 ---
 *Abstract:*

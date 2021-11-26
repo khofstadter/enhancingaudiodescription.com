@@ -31,7 +31,7 @@ social:
 hero:
   hero__title: Hello!
   hero__description: ‘Enhancing Audio Description’ or ‘Enhancing AD’ is a project that seeks to explore how sound design techniques can be used to rethink accessibility to film and television for visually impaired audiences. Research will include the application of surround sound rendering, interactive media systems and first person narration. EAD is funded by the Arts and Humanities Research Council AH/N003713/1.
-  hero__image: '/images/tftv-building.jpg'
+  hero__image: '/images/feature-tftv-building.jpg'
 
 
 #-------------------------------
