@@ -3,7 +3,11 @@
 A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
-- reinstall Gimp - so I can access doc folder
+- add small space above share icons (probably remove Pinterest)
+- how to link Morgan
+- rename images from 'feature-...' to 'date+post-name...'
+- try posts to not have two column heads but image on top, description below
+- maybe rename file names so that have 'actual' date to avoid confusion between front matter date
 - why is image loading slow on team page?
 - would be good to have all as posts and understand how to filter them for separate pages
 - how could I remove the Gallery in the footer for some pages/posts?

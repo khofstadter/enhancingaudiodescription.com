@@ -4,6 +4,7 @@ title: Press & Media
 permalink: /press-and-media/
 image: 
 video_embed: 
+gallery: false
 ---
 
 <!--

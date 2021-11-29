@@ -4,6 +4,12 @@ title: Team
 permalink: /team/
 image:
 ---
+<!--
+- ask for hi-res image of Gavin and public website?
+- add new image for k
+- add project advisory panel in responsive grid
+-->
+
 
 <head>
 <style>
@@ -62,6 +68,81 @@ Mariana is also active in the field of sound design, having worked on a number o
   </div>
 </section>
 <!-- end hero -->
+<br>
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Dr Gavin Kearney</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Co-Investigator</i>
+                <br><br>
+                Gavin Kearney graduated from Dublin Institute of Technology in 2002 with an honors degree in Electronic Engineering and has since obtained both MSc and PhD degrees in Audio Signal Processing from Trinity College Dublin. During this time he worked (and continues to) in the audio industry as sound engineer and producer. After his PhD, he spent time as a postdoctoral research fellow in game audio on the Science Foundation Ireland ‘Metropolis’ project, whilst lecturing on the Interactive Digital Systems and Music and Media Technology courses at Trinity College. 
+                <br><br>
+                He first joined the University of York as a Lecturer in Sound Design at the Department of Theatre, Film and Television in January 2011 and has since been appointed as a Lecturer in Audio and Music Technology at the Department of Electronics. His research interests include spatial audio and surround sound, sound design for film, television and interactive media, real-time audio signal processing, Ambisonics and spherical acoustics, interactive audio systems, recording and audio post-production technique development.
+                <br><br>
+                <a href = "mailto: gavin.kearney@york.ac.uk">gavin.kearney@york.ac.uk</a>
+                <br>
+                <a href="https://pure.york.ac.uk/gavin.kearney">https://pure.york.ac.uk/gavin.kearney</a>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-gavin-kearney.jpg" alt="Gavin in front of a sound mixer">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+<details>
+<summary>Click here for more info on Gavin (empty).</summary>
+<br>
+<p>He has a </p>
+</details>
+  </div>
+</section>
+<!-- end hero -->
+<br>
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Krisztián Hofstädter</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Post-Doctoral Research Assistant</i>
+                <br><br>
+                Krisztián is a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio Description project as a research assistant, his doctoral research developed brain-computer music interfaces for meditation, in which neurofeedback is linked to auditory entrainment in generative soundscapes inspired by shamanic journeying. 
+                <br><br>
+                He has also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teaches a module on sensemaking, digital identities and web-design at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, he has been producing sound design and music, websites and visual art, including photography and paintings.
+                <br><br>
+                <a href = "mailto: krisztian.hofstadter@york.ac.uk">krisztian.hofstadter@york.ac.uk</a>
+                <br>
+                <a href=" https://khofstadter.com/"> https://khofstadter.com/</a>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-krisztian-hofstadter.jpg" alt="Krisztian drumming with his son Lucas.">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+<details>
+<summary>Click here for more info on Gavin (empty).</summary>
+<br>
+<p>He has a </p>
+</details>
+  </div>
+</section>
+<!-- end hero -->
 
 ## Project Advisory Panel
-

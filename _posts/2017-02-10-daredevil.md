@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Daredevil
+description: You may remember that back in August we conducted online/telephone surveys on current accessibility measures and hopes for the future of Audio Description. We received 127 responses which have been invaluable to our research – but what encouraged participants to respond?
+date:   2017-02-10
+image:  '/images/2017-02-10-daredevil.jpg'
+tags:   [Netflix, Marvel]
+---
+
+The [Netflix ‘Daredevil’ series](https://www.imdb.com/title/tt3322312/) was first released in 2015 and it was with this release that Netflix started incorporating Audio Description to its productions. Since then all major Netflix original series have incorporated this feature, changing the accessibility landscape to adapt to the increase in use of on-demand services.
+
+Some of you might have encountered Daredevil for the first time in his Netflix appearance, others might remember Daredevil when he appeared in the Marvel comic book series, originally published in 1964. Others might recall his character from the [2003 box office flop](https://www.imdb.com/title/tt0287978/) starring Ben Affleck. But many of you may not know him at all …
+
+Now, the Enhancing AD team has been for months assuming that everyone knew who Daredevil was, and the fact that Audio Description was first added to Netflix’s release has featured in most of our talks, accompanied by our comment of the nice touch of matching the programme theme to the accessibility feature. However, it was during [Reproduced Sound](https://reproducedsound.co.uk/) in November 2016 in Southampton that we realised most of our audience members didn’t know who our beloved superhero was.  So, this is why we are writing this blog post…
+
+For those who don’t know his story, Marvel character Matt Murdock is blinded as a child by a radioactive substance which falls from an oncoming truck after he saves a man from its wheels. But the accident which rendered Matt blind also enhanced his other senses. When his father is murdered by mobsters for refusing to throw a fight, Matt dons the red costume to avenge his death. Combined with his gymnastic skills and mastery of martial arts, Matt’s ‘radar sense’ enables him to become a formidable superhero. The attorney-turned-superhero delivers justice in the crime-ridden streets of Hell’s Kitchen – by day as a respected lawyer, by night as the vigilante superhero.
+
+Daredevil cannot claim to be the first visually impaired superhero. That landmark is widely regarded to be held by Dr Mid-Nite, the creation of [DC comics in 1941](https://www.dccomics.com/graphic-novels/doctor-mid-nite-1999/doctor-mid-nite). Dr Mid-Nite’s vision is inverted after an explosion, which leaves him able to see in the dark, but blinded in daylight without the assistance of his specially designed goggles.
+
+The Marvel universe dominates the superhero genre, so when it was announced they would be teaming up with streaming super giant Netflix to create Daredevil, the first of 5 planned Netflix series based on Marvel characters, [fan pressure](https://netflixproject.wordpress.com/2014/07/06/advocating-for-audio-description-on-netflixs-daredevil-series/) indicates it was to the excitement and anticipation of many. Combined, Marvel and Netflix had the potential to provide a far-reaching platform to represent inclusivity. Yet, when Daredevil premiered on Netflix (10th April, 2015) it was to the disappointment of visually impaired audiences and accessibility advocates that the show did not contain Audio Description. The disappointing irony that the visually impaired protagonist would be unable to watch his own show was highlighted in the social media campaign #Dare2Describe, alongside an [online petition](https://www.change.org/p/netflix-make-daredevil-available-to-blind-people). Just 4 days later Netflix released a statement promising to expand their accessibility options by adding Audio Description to select titles, starting with Marvel’s Daredevil. Although Netflix’s Audio Description service is not available on 100% of shows they stream, it has become the market leader in streaming media accessibility, with the likes of Amazon Instant Video and Hulu still to catch up.
+
+Daredevil is not the first, nor the most iconic superhero to promote the strengths and representation of disability in the media. He joins the (relatively short) list of superheroes who happen to have a disability, rather than are defined by it. However, the circumstances and platform on which the Daredevil series operates have provided a unique opportunity to drive the issue of streaming media accessibility into the spotlight. Viewers responses to the initially inaccessible show and Netflix’s reaction mark a small but significant triumph of representation and equality in accessibility.
+
+Morgan French
