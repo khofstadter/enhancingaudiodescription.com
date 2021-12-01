@@ -3,7 +3,10 @@
 A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## now
-- start from 12 Bernhard Brämswig
+- add Liam's photos to conference page
+- add Mariana's conference reflection post (as a separate post)
+- add remaining blog posts
+- remove images from images/gallery folder and choose images for the home page gallery from the main images folder instead (add more e.g. from TATE)
 
 ## TODO
 - shall I add meta to each page/post separately to aid SOE?
