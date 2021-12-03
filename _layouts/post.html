@@ -4,31 +4,30 @@ layout: default
 
 <div class="post-head">
   <div class="container">
-    <div class="row">
-      
+    <!-- <div class="row"> -->      
       {% if page.video_embed %}
-      <div class="col col-12">
+      <!-- <div class="col col-12"> -->
         <div class="post-video">
           <div class="post-video__wrap">
             <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
         </div>
-      </div>
+      <!-- </div> -->
       {% else %}
 
       {%if page.image %}
-      <div class="col col-6 col-d-12">
-        <div class="post-image">
+      <!-- <div class="col col-6 col-d-12"> -->
+        <!-- <div class="post-image">> -->
           <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
-        </div>
-      </div>
+        <!-- </div> -->
+      <!-- </div> -->
       {%endif %}
 
       {% endif %}
       
       {% if page.video_embed %} {% assign videoInfo = 'post__info-video' %} {% endif %}
-      <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}">
-        <div class="post__info {{videoInfo}}">
+      <!-- <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}"> -->
+        <!-- <div class="post__info {{videoInfo}}"> -->
   
           {% if page.tags.size >= 1 %}
             <div class="post__tags">
@@ -51,10 +50,10 @@ layout: default
             </div>
           </div>
           <br>
-          {{ page.description }}
-        </div>
-      </div>
-    </div>
+          <!-- {{ page.description }} -->
+        <!-- </div> -->
+      <!-- </div> -->
+    <!-- </div> -->
   </div>
 </div>
 
@@ -64,6 +63,7 @@ layout: default
   <article class="post">
 
     <div class="post__content">
+      {{ page.description }}
       {{ content }}
     </div>
 
