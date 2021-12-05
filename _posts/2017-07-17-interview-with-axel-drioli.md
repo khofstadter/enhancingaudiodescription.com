@@ -4,7 +4,7 @@ title:  Interview with Alex Drioli
 description: ''
 date:   2017-07-17
 image:  '/images/2017-07-17-interview-with-axel-drioli.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*

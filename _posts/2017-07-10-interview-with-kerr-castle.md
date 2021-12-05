@@ -4,7 +4,7 @@ title:  Interview with Kerr Castle
 description: ''
 date:   2017-07-10
 image:  '/images/2017-07-10-interview-with-kerr-castle.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*

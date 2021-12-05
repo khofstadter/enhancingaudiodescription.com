@@ -2,34 +2,36 @@
 ## Overview
 A new website to replace the old one: http://enhancingaudiodescription.com/
 
-## now
-- add Mariana's conference reflection post (as a separate post)
-- add remaining blog posts
-- remove images from images/gallery folder and choose images for the home page gallery from the main images folder instead (add more e.g. from TATE)
-
 ## TODO
-- shall I add meta to each page/post separately to aid SOE?
-- interviews with conference presenters could maybe have a conference photo with their presentation and a link to the conference page?
+### now
+- new Output page with filters
+  - add all press outputs as posts
+  - add all publications as posts
+  - add podcast and video outputs to current posts if possible (if not, add new posts) and than add 'podcast' or 'video' tag to post?
+  -  recode {% if post.tags[0] == "publication" %} so that it checks whether the tag list consists of a specific tag e.g. "publication" tag instead (what it does now), of checking a specific tag[index] e.g. [0] - the first argument in the tag list
+- add alt text to all images - how to add them to feature images?
 - add new Panel List - waiting for M
+- new logo (perhaps add logo and title next to each other in top menu?)
 - readdress SoundCloud players - find minimal code and loose embedded image? 
-- add small space above share icons (probably remove Pinterest)
 - add Morgan and Lewis with one short paragraph at the end of Team's page
-- rename images from 'feature-...' to 'date+post-name...'
-- try posts to not have two column heads but image on top, description below
-- maybe rename file names so that have 'actual' date to avoid confusion between front matter date
 - why is image loading slow on team page?
-- would be good to have all as posts and understand how to filter them for separate pages
+- integrate MailChimp
+- why do I sometimes need to click on the share button to see an image for Twitter/Facebook?
+- how to add more authors?
+- embed a SoundCloud playlist?
+
+### Medium article
+title: what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
+
+### later
+- how can I design a feature image that can be used as an OpenGraph for Facebook/Twitter, etc? - do I need to?
+- shall I add meta to each page/post separately to aid SEO?
+- interviews with conference presenters could maybe have a conference photo with their presentation and a link to the conference page?
 - how could I remove the Gallery in the footer for some pages/posts?
 - how come site folder is not seen in GitHub Desktop?
-- how to add logo and title next to each other in menu?
-- what is our MailChimp identifier?
-- how to add more authors?
-- what's the benefit of using the video iframe code coming with the theme over the iframe accessed on YouTube?
-- resize headings e.g. h2 and h3 don't look very different
-- tag filter on home pages should not have images in the back, how?
+- instead of tag filter with images, have a similar tag filter as on the top of the tag page (on index page under blog grid)
 - maybe remove the dates from the post tiles and add the date from the front-matter to the article.html (with new CSS)
 - check Shelf Life link in Kling Gut
-- add alt text to feature images
 - update publication, presentation list
 - update bios/photos, press e.g. 
   - https://www.thetechstreetnow.com/tech/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/1365352254061436296/1365352254061436296/
@@ -37,9 +39,9 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
   - https://newsupdate.uk/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/ 
   - https://thehackposts.com/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/ 
   - M will send link to recent interview
-- remove ARU logo
 
 ## log
+- 2021-12-05 ported all posts, changed some of the default code e.g. to have one column head in posts, experimented with sharing on social media, etc. 
 - 2021-11-30 events and diary entries are posts - sometimes merged e.g. 
 - 2021-11-26 got access to york assets folder (can use on external website).  added all events and sought better images. 
 - 2021-11-25 teams page, redirect url, new subdomain for testing

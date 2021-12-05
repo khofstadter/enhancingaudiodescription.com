@@ -4,7 +4,7 @@ title:  Interview with Sarah McDonagh
 description: ''
 date:   2017-07-15
 image:  '/images/2017-07-15-interview-with-sarah-mcdonagh.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*

@@ -4,7 +4,7 @@ title:  Interview with Zoe Moores
 description: ''
 date:   2017-07-16
 image:  '/images/2017-07-16-interview-with-zoe-moores.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*

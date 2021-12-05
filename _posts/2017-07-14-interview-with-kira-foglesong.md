@@ -4,7 +4,7 @@ title:  Interview with Kira Foglesong
 description: ''
 date:   2017-07-14
 image:  '/images/2017-07-14-interview-with-kira-foglesong.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*

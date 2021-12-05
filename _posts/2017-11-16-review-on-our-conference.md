@@ -4,11 +4,13 @@ title:  Review on Our Conference
 description: We haven’t had a blog post for a while, but we are now back with some news and reflections!
 date:   2017-11-14
 image:  '/images/2017-11-16-review-on-our-conference.jpg'
-tags:   [event, conference]
+tags:   [event, conference, podcast]
 ---
 
 ## First the news! 
 Our project, which was due to finish by the end of November, has now received an extension until the end of May. This is great news as it allows us to do a few more activities to increase the impact of our research!
+
+## EAD Podcast 03
 
 ## Conference Reflection by Mariana
 180 people registered to our Conference on Accessibility in Film, Television and Interactive Media, which took place on 14th-15th October at the Department of Theatre, Film and Television at University of York. The event started on the Saturday with a keynote by Maria Oshodi, the director of [Extant](http://www.extant.org.uk/) who took us through the history of the company as well as its ethos. This was followed by three diverse panel sessions covering topics ranging from the use of e-textiles to work with visually impaired people to the challenges of producing good subtitles. The day also included a set of parallel workshops: Alic Joy from [Stagetext](http://stagetext.org/) presented on Online Subtitling to Improve Access and Marketing. Anna Jankowska run the workshop ADDit! to Audio Description and Chris O’Brien from [Accessible Media Inc](https://www.ami.ca/). (AMI) spoke about Integrated Described Video. The day also included poster and demo presentations that featured film screenings by Kate Dangerfield and Cesar Portillo. The first day ended with the exciting installation Flatland by Extant. It was great to see attendees engaging actively with the audio and haptic devises to navigate the space.

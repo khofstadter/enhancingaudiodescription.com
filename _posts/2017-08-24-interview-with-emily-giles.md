@@ -4,7 +4,7 @@ title:  Interview with Emily Giles
 description: ''
 date:   2017-08-24
 image:  '/images/2017-08-24-interview-with-emily-giles.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*

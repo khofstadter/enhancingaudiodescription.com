@@ -4,7 +4,7 @@ title:  Interview with Harel Chait
 description: ''
 date:   2017-07-03
 image:  '/images/2017-07-03-interview-with-harel-chait.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*

@@ -4,7 +4,7 @@ title:  Jerry and Warren from CamSight
 description: Some thoughts on our project from our advisory panel members, Jerry and Warren from Cam Sight, Cambridge.
 date:   2016-11-03
 image:  '/images/2016-11-03-jerry-and-warren-from-camsight.jpg'
-tags:   [reflections]
+tags:   [reflection]
 ---
 
 Warren Wilson and myself (Jerry Gilbert) come to the Enhancing Audio Description Advisory Panel with quite different experiences of visual impairment. These differences are related to the time in our lives at which we lost our sight.  Myself at the age of 5 and Warren being in his late teens. We were also born in different decades me in the mid 60s and Warren in the 1990s. What we experienced visually in our lives and the length of time we experienced the visual world for will have formed our understanding of that world and the conceptual framework that we fit that understanding into.

@@ -4,7 +4,7 @@ title:  Interview with María Olalla Luque and Silvia Soler
 description: ''
 date:   2017-07-14
 image:  '/images/2017-07-14-interview-with-maria-olalla-luque-and-silvia-soler.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*

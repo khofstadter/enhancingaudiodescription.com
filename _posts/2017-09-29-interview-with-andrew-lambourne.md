@@ -4,7 +4,7 @@ title:  Interview with Andrew Lambourne
 description: ''
 date:   2017-09-29
 image:  '/images/2017-09-29-interview-with-andrew-lambourne.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*

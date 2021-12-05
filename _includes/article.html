@@ -36,7 +36,7 @@
       {% if post.description %}
       <p class="article__excerpt">{{ post.description }}
         {% if post.nolink != true %}
-        Read more <a href="{{ url_to_use | prepend: site.baseurl }}">here</a>.
+        <a href="{{ url_to_use | prepend: site.baseurl }}">Find out more.</a>
         {% endif %}
       </p>
       {% endif %}

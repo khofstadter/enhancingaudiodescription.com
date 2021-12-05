@@ -4,7 +4,7 @@ title:  Interview with Anne Hornsby
 description: ''
 date:   2017-09-08
 image:  '/images/2017-09-08-interview-with-anne-hornsby.jpg'
-tags:   [interview]
+tags:   [interview, people]
 ---
 
 *How did you first become interested in accessibility?*
