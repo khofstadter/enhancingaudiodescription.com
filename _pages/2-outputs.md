@@ -6,17 +6,8 @@ image:
 video_embed: 
 ---
 
-<!--
-TODO: 
-- add all outputs as posts or embed players in current posts
-- embed conference hyperlink
--->
 
-
-
-<br><br>
-
-<div class="container">
+<!--<div class="container">
 <h1>Publications</h1>
 This section contains a list of our academic publications. 
 <br><br>
@@ -29,6 +20,43 @@ This section contains a list of our academic publications.
       {% endfor %}
     {% endif %}
   </div>
+</div>
+<br>
+<br>
+<div class="container">
+<h1>Conference Presentations</h1>
+This section contains a list of our academic conference presentations. 
+<br><br>
+  <div class="row animate">
+    {% if site.posts.size > 0 %}
+      {% for post in site.posts %}
+        {% if post.tags[0] == "presentation" %}
+        {% include article.html %}
+         {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>-->
+
+<div class="container">
+<h1>Outputs</h1>
+<h2>Journal Publications</h2>
+<p>López, M., Kearney, G. and Hofstädter, K. (2020) ‘Seeing films through sound: Sound design, spatial audio, and accessibility for visually impaired audiences’ in British Journal of Visual Impairment. DOI: 10.1177/0264619620935935</p>
+
+<p>López, M., Kearney, G. and Hofstädter, K. & Balla, G. (2020) ‘Enhancing audio description: accessible filmmaking, sound design and the importance of educating filmmakers.’ in Media Practice and Education, 21:4, 289-304, DOI: 10.1080/25741136.2020.1832830</p>
+
+<p>López, M., Kearney, G. and Hofstädter, K. (2018) ‘Audio Description in the UK: What works, what doesn’t, and understanding the need for personalising access.’ in British Journal of Visual Impairment, 36(3), pp. 274–291. DOI: 10.1177/0264619618794750</p>
+
+
+<p>López, M. and Pauletto, S. (2009) ‘The Design of an Audio Film: Portraying Story, Action and Interaction through Sound’ in JMM: The Journal of Music and Meaning, 8, Winter 2009.</p>
+
+<h2>Conference Papers and Presentation</h2>
+<p>López, M., Kearney, G. and Hofstadter, K., ‘Enhancing Audio Description, Spatialisation and Accessibility in Film and Television’ in Reproduced Sound Conference, Southampton, UK, 15-17 November 2016. Read this paper in original format here and its accessible version here.</p>
+<p>López, M., Kearney, G. and Hofstadter, K., ‘Sound Design and Accessibility in Film and Television’ in 140th International Audio Engineering Society Convention, Paris, France, 4-7 June 2016, (Tutorial).</p>
+<p>López, M., ‘Perceptual evaluation of an audio film for visually impaired audiences’ in the Audio Engineering Society (AES) 138th Convention, Warsaw, Poland, 7-10 May 2015.</p>
+<p>López, M. and Pauletto, S., ‘The Sound Machine: a study in storytelling through sound design’ in Proceedings of the 5th Audio Mostly Conference, Piteå, Sweden, 15-17 September 2010.</p>
+<p>López, M. and Pauletto, S., ‘The Design of an Audio Film for the visually impaired’ in the 15th International Conference on Auditory Display (ICAD), Copenhagen, Denmark, 18-22 May 2009.</p>
+
 </div>
 
 <br>
@@ -88,45 +116,6 @@ This section contains a list of blog posts featuring our videos.
 
 
 
-
-## Press
-### December 2021 - Independent
-You can read Mariana's article titled *How a new technology will help blind people 'see' at the cinema*, online, in the [Independent](https://www.independent.co.uk/news/new-app-technology-helps-blind-people-see-at-cinema-audio-description-a8072021.html).
-
-<br>
-
-### November 2017 - The Conversation
-You can read Mariana's article titled *How our new technology will help blind people ‘see’ at the cinema*, online, in the [The Conversation](https://theconversation.com/how-our-new-technology-will-help-blind-people-see-at-the-cinema-84869?platform=hootsuite).
-
-<br>
-
-### November 2017 - Disability Arts Online 
-You can read Mandy Redvers-Rowe's article titled *Audio Description: An Art Form In Its Own Right*, online, in the [Disability Arts Online](http://disabilityarts.online/magazine/opinion/audio-description-art-form-right/). 
-
-<br>
-
-### February 2017 - Disability Sports Network
-You can listen to the podcast titled *Speed of Sound* online, on the [Disability Sports Network website](http://podcasts.dsn.net.au/?name=2017-02-23_dsn_podcasts_-_speed_of_sound_23rd_february.mp3).<!-- TODO: media missing -->
-
-<br>
-
-### February 2015 - BBC Radio 4
-You can listen to the interview with Mariana titled *Audio in Films; 'Visual Tinnitus'* online, on the [BBC4 iPlayer](https://www.bbc.co.uk/programmes/b0537664).
-
-<br>
-
-### January 2015 - BBC Radio Cambridgeshire
-On the 28th January 2015, Mariana was interviewed on *The Dotty McLeod Breakfast Show*.
-
-<br> 
-
-### February 2015 - RNIB
-On the 4th February 2015, the project was outlined in RNIB's Connect Radio, in the *The Afternoon Edition*. 
-
-<br> 
-
-### Jan 2015 - DOCET
-The project was introduced in the Developments in Cinema Technology for Visually Impaired Audiences, Optometric Quarterly, DOCET, Open Creative Communications. You can listen to the podcast on [DOCET](https://docet.info/mod/resource/view.php?id=702).
 
 <br><br>
 

@@ -4,9 +4,14 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
+- add new info from M to the home page
 - new Output page with filters
-  - add all press outputs as posts
-  - add all publications as posts
+  - add new outputs from M's email
+  - add hyperlinks where needed
+  - keep publications as list - or shall they be added as posts with feature images? perhaps both, if there is a nice way of doing this - maybe user can choose? 
+  - press fine
+  - podcasts: check whether all podcasts were added or not
+  - add EAD conference hyperlink
   - add podcast and video outputs to current posts if possible (if not, add new posts) and than add 'podcast' or 'video' tag to post?
   -  recode {% if post.tags[0] == "publication" %} so that it checks whether the tag list consists of a specific tag e.g. "publication" tag instead (what it does now), of checking a specific tag[index] e.g. [0] - the first argument in the tag list
 - add alt text to all images - how to add them to feature images?
@@ -24,6 +29,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 title: what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
 
 ### later
+- López or Lopez?
 - how can I design a feature image that can be used as an OpenGraph for Facebook/Twitter, etc? - do I need to?
 - shall I add meta to each page/post separately to aid SEO?
 - interviews with conference presenters could maybe have a conference photo with their presentation and a link to the conference page?
@@ -41,6 +47,8 @@ title: what I've learnt when moving the EAD website from Wordpress to GitHub Pag
   - M will send link to recent interview
 
 ## log
+
+- 2021-12-08 organising data in a new way using the 'Output' page
 - 2021-12-05 ported all posts, changed some of the default code e.g. to have one column head in posts, experimented with sharing on social media, etc. 
 - 2021-11-30 events and diary entries are posts - sometimes merged e.g. 
 - 2021-11-26 got access to york assets folder (can use on external website).  added all events and sought better images. 
