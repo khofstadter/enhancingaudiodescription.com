@@ -4,18 +4,28 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-- add new info from M to the home page
 - new Output page with filters
-  - add new outputs from M's email
-  - add hyperlinks where needed
-  - keep publications as list - or shall they be added as posts with feature images? perhaps both, if there is a nice way of doing this - maybe user can choose? 
-  - press fine
-  - podcasts: check whether all podcasts were added or not
-  - add EAD conference hyperlink
-  - add podcast and video outputs to current posts if possible (if not, add new posts) and than add 'podcast' or 'video' tag to post?
-  -  recode {% if post.tags[0] == "publication" %} so that it checks whether the tag list consists of a specific tag e.g. "publication" tag instead (what it does now), of checking a specific tag[index] e.g. [0] - the first argument in the tag list
+
+publications
+- check new on pure
+- add hyperlinks where needed
+- keep publications as list - or shall they be added as posts with feature images? perhaps both, if there is a nice way of doing this - maybe user can choose? 
+
+press
+
+- https://www.thetechstreetnow.com/tech/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/1365352254061436296/1365352254061436296/
+- https://techxplore.com/news/2021-11-methods-visually-impaired-audiences.html?
+- https://newsupdate.uk/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/
+- https://thehackposts.com/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/
+
+podcasts/videos
+- add podcast and video outputs to current posts if possible (if not, add new posts) and than add 'podcast' or 'video' tag to post?
+-  recode {% if post.tags[0] == "publication" %} so that it checks whether the tag list consists of a specific tag e.g. "publication" tag instead (what it does now), of checking a specific tag[index] e.g. [0] - the first argument in the tag list
+-  add hyperlink conference where possible/needed
 - add alt text to all images - how to add them to feature images?
-- add new Panel List - waiting for M
+  
+panel list
+- add new Panel List - M's email
 - new logo (perhaps add logo and title next to each other in top menu?)
 - readdress SoundCloud players - find minimal code and loose embedded image? 
 - add Morgan and Lewis with one short paragraph at the end of Team's page
@@ -29,6 +39,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 title: what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
 
 ### later
+- make Mailinglist subscription narrower, more centered.
 - López or Lopez?
 - how can I design a feature image that can be used as an OpenGraph for Facebook/Twitter, etc? - do I need to?
 - shall I add meta to each page/post separately to aid SEO?
@@ -45,6 +56,9 @@ title: what I've learnt when moving the EAD website from Wordpress to GitHub Pag
   - https://newsupdate.uk/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/ 
   - https://thehackposts.com/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/ 
   - M will send link to recent interview
+
+## before switch
+- export analytics (Google or other)
 
 ## log
 

@@ -64,7 +64,6 @@ This section contains a list of our academic conference presentations.
 
 <div class="container">
 <h1>Press</h1>
-This section contains a list of our engagement with the press. 
 <br><br>
   <div class="row animate">
     {% if site.posts.size > 0 %}

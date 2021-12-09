@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: EAD
-  author__bio: We are a team of ...
+  author__bio: Enhancing Audio Description II is funded by the Arts and Humanities Research Council, AH/V015583/1. The first instance of the project was also possible thanks to the funding provided by the AHRC AH/N003713/1, AH/N003713/2
   author__avatar: '/images/EAD-old-logo.png'
 
 social:
@@ -30,7 +30,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hello!
-  hero__description: ‘Enhancing Audio Description’ or ‘Enhancing AD’ is a project that seeks to explore how sound design techniques can be used to rethink accessibility to film and television for visually impaired audiences. Research will include the application of surround sound rendering, interactive media systems and first person narration. EAD is funded by the Arts and Humanities Research Council AH/N003713/1.
+  hero__description: The Enhancing Audio Description II project seeks to explore the potential of sound design practices and spatial audio to provide accessible film and television experiences for visually impaired audiences. It fuses audio technology and creativity to widen the notion of media accessibility and increase the quality and quantity of provision, providing cutting edge techniques to the UK cultural sector.  
   hero__image: '/images/2017-04-13-binaural-listening-test-for-accessibility.jpg'
 
 
