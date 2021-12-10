@@ -4,11 +4,8 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-home page
-- pagignation starts at the top of the page - does the original one too?
-- why can't I start a page at home#blog i.e. header? (was trying to add this to the pagignation code - but it didn't work)
 
-- new Output page with filters
+new Output page with filters
 publications
 - add hyperlinks where needed - why hyperlinks don't look the same when using Markdown?
 - keep publications as list - or shall they be added as posts with feature images? perhaps both, if there is a nice way of doing this - maybe user can choose? 
@@ -19,7 +16,6 @@ press
 podcasts/videos
 - add podcast and video outputs to current posts if possible (if not, add new posts) and than add 'podcast' or 'video' tag to post?
 -  recode {% if post.tags[0] == "publication" %} so that it checks whether the tag list consists of a specific tag e.g. "publication" tag instead (what it does now), of checking a specific tag[index] e.g. [0] - the first argument in the tag list
-- add hyperlink conference where possible/needed
 - add alt text to all images - how to add them to feature images?
 - (maybe) add some sound image to the feature images where the podcast has a media file e.g. podcast or video 
   
@@ -61,6 +57,7 @@ title: what I've learnt when moving the EAD website from Wordpress to GitHub Pag
 
 ## log
 
+- 2021-12-10 pagignator has blog heading anchor, more outputs organised, minor feature image fixes
 - 2021-12-08 organising data in a new way using the 'Output' page
 - 2021-12-05 ported all posts, changed some of the default code e.g. to have one column head in posts, experimented with sharing on social media, etc. 
 - 2021-11-30 events and diary entries are posts - sometimes merged e.g. 
