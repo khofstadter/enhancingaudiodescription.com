@@ -4,25 +4,24 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-- new Output page with filters
+home page
+- pagignation starts at the top of the page - does the original one too?
+- why can't I start a page at home#blog i.e. header? (was trying to add this to the pagignation code - but it didn't work)
 
+- new Output page with filters
 publications
-- check new on pure
-- add hyperlinks where needed
+- add hyperlinks where needed - why hyperlinks don't look the same when using Markdown?
 - keep publications as list - or shall they be added as posts with feature images? perhaps both, if there is a nice way of doing this - maybe user can choose? 
 
 press
-
-- https://www.thetechstreetnow.com/tech/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/1365352254061436296/1365352254061436296/
-- https://techxplore.com/news/2021-11-methods-visually-impaired-audiences.html?
-- https://newsupdate.uk/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/
-- https://thehackposts.com/researchers-develop-new-methods-to-enhance-film-experience-for-visually-impaired-audiences/
+- perhaps merge these three and add three links saying 'this article' was publishes here and here and here
 
 podcasts/videos
 - add podcast and video outputs to current posts if possible (if not, add new posts) and than add 'podcast' or 'video' tag to post?
 -  recode {% if post.tags[0] == "publication" %} so that it checks whether the tag list consists of a specific tag e.g. "publication" tag instead (what it does now), of checking a specific tag[index] e.g. [0] - the first argument in the tag list
--  add hyperlink conference where possible/needed
+- add hyperlink conference where possible/needed
 - add alt text to all images - how to add them to feature images?
+- (maybe) add some sound image to the feature images where the podcast has a media file e.g. podcast or video 
   
 panel list
 - add new Panel List - M's email

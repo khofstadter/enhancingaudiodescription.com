@@ -8,9 +8,9 @@ tags:   [event, presentation, podcast]
 ---
 
 <!--
-- add poster
+- change feature image to a photo
+- add poster in body
 - embed images
-- embed audio players
 -->
 
 ## EAD Podcast 09 and 10

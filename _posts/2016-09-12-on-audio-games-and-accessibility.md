@@ -4,7 +4,7 @@ title:  On Audio Games and Accessibility
 description: As part of our research on the use of sound design to make films and TV programmes inclusive, we have been looking into the field of Audio Games, that is, games in which audio is the main way of communication and entertainment and which can be played regardless of one’s sight condition. 
 date:   2016-09-12
 image:  '/images/2016-09-12-on-audio-games-and-accessibility.jpg'
-tags:   [audio games, binaural audio]
+tags:   [audio games, binaural audio, video]
 ---
 
 What we love about Audio Games is that they are accessible from the onset, accessibility is not just a feature that is added on at the end of the creative process, on the contrary, it is integral to the creative process.

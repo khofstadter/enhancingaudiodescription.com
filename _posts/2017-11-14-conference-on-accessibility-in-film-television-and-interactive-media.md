@@ -20,14 +20,14 @@ tags:   [event, conference]
 
 <br>
 
-The conference provided an interdisciplinary forum, integrating approaches from the arts, humanities, engineering and social sciences that study both traditional and innovative approaches to accessibility. We particularly welcomed submissions in the field of sound design, audio engineering and music technology.  The panels on these themes were organised under the umbrella of the Audio Engineering Society (AES) North of England section.
+The conference provided an interdisciplinary forum, integrating approaches from the arts, humanities, engineering and social sciences that study both traditional and innovative approaches to accessibility. We particularly welcomed submissions in the field of sound design, audio engineering and music technology. The panels on these themes were organised under the umbrella of the Audio Engineering Society (AES) North of England section.
 
 ## Programme and papers
 - Keynote speakers:
   - Maria Oshodi, [Extant](https://extant.org.uk/)
   - Howard Bargroff, [Sonorous](http://www.sonorouspost.com/)
-- [Full programme](../_assets/docs/2017-conference/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-programme.pdf)
-- [Conference papers](../_assets/docs/2017-conference/papers)
+- [Full programme](../assets/docs/2017-conference/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-programme.pdf)
+- [Conference papers](./assets/docs/2017-conference/2017-conference/papers)
 
 <br>
 

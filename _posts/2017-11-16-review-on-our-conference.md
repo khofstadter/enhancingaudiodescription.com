@@ -1,16 +1,23 @@
 ---
 layout: post
 title:  Review on Our Conference
-description: We haven’t had a blog post for a while, but we are now back with some news and reflections!
-date:   2017-11-14
+description: We haven’t had a blog post for a while, but we are now back with some news, a new podcast and some reflections from Mariana!
+date:   2017-11-16
 image:  '/images/2017-11-16-review-on-our-conference.jpg'
-tags:   [event, conference, podcast]
+tags:   [event, conference, podcast, reflection]
 ---
 
 ## First the news! 
 Our project, which was due to finish by the end of November, has now received an extension until the end of May. This is great news as it allows us to do a few more activities to increase the impact of our research!
 
+<br><br>
+
 ## EAD Podcast 03
+The audio recording below collates Vox Pops where people gave us feedback on our conference in November 2017.
+
+<iframe width="100%" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/363723113&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-351945045" title="Enhancing Audio Description" target="_blank" style="color: #cccccc; text-decoration: none;">Enhancing Audio Description</a> · <a href="https://soundcloud.com/user-351945045/podcast-03-conference-vox-pox" title="Podcast 03 - Conference Vox Pops" target="_blank" style="color: #cccccc; text-decoration: none;">Podcast 03 - Conference Vox Pops</a></div>
+
+<br><br>∑
 
 ## Conference Reflection by Mariana
 180 people registered to our Conference on Accessibility in Film, Television and Interactive Media, which took place on 14th-15th October at the Department of Theatre, Film and Television at University of York. The event started on the Saturday with a keynote by Maria Oshodi, the director of [Extant](http://www.extant.org.uk/) who took us through the history of the company as well as its ethos. This was followed by three diverse panel sessions covering topics ranging from the use of e-textiles to work with visually impaired people to the challenges of producing good subtitles. The day also included a set of parallel workshops: Alic Joy from [Stagetext](http://stagetext.org/) presented on Online Subtitling to Improve Access and Marketing. Anna Jankowska run the workshop ADDit! to Audio Description and Chris O’Brien from [Accessible Media Inc](https://www.ami.ca/). (AMI) spoke about Integrated Described Video. The day also included poster and demo presentations that featured film screenings by Kate Dangerfield and Cesar Portillo. The first day ended with the exciting installation Flatland by Extant. It was great to see attendees engaging actively with the audio and haptic devises to navigate the space.

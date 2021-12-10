@@ -26,3 +26,10 @@ As mentioned above, the principle focus of my PhD is comfort and television – 
 *Can you tell us a little about your forthcoming projects (related to accessibility)?*
 
 I recently presented a paper at the Screen Studies Conference (23/06/17-25/06/17) which considered how a sense of place can make TV comforting. I’m also looking at getting a version of my audio description paper published as part of an edited collection on discourses of care.
+
+<br><br>
+
+## EAD Podcast 05
+Listen to Kerr's presentation at out [Accessibility in Film Television and Interactive Media Conference](/conference-on-accessibility-in-film-television-and-interactive-media/) with the audio player below. 
+
+<iframe width="100%" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/372529187&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-351945045" title="Enhancing Audio Description" target="_blank" style="color: #cccccc; text-decoration: none;">Enhancing Audio Description</a> · <a href="https://soundcloud.com/user-351945045/podcast-04-lauren-ward-accessibility-in-film-television-and-interactive-media-conference-york-1" title="Podcast 05 - Kerr Castle @  Accessibility In Film Television And Interactive Media Conference, York" target="_blank" style="color: #cccccc; text-decoration: none;">Podcast 05 - Kerr Castle @  Accessibility In Film Television And Interactive Media Conference, York</a></div>
