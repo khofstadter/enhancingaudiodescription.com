@@ -5,9 +5,8 @@ permalink: /team/
 image:
 ---
 <!--
-- ask for hi-res image of Gavin and public website?
-- add new image for k
-- add project advisory panel in responsive grid
+- ask for hi-res from people
+- remove link from logo (panel) and add to text (as the image when lazy load is underlined - perhaps create an second lazy load in CSS?)
 -->
 
 
@@ -42,9 +41,7 @@ This page introduces the members of our <a href="#research-team">research team</
                 <br><br>
                 She has a background in music, sound design and acoustics. Her MA dissertation (University of York) focused on exploring the creation of a new format of sonic art entitled ‘audio film’ that may be considered as an alternative to Audio Description for visually impaired audiences.  In 2013 she completed her PhD at the University of York on the importance of virtual acoustics to further our understanding of medieval drama.
                 <br><br>
-                <a href = "mailto: mariana.lopez@york.ac.uk">mariana.lopez@york.ac.uk</a>
-                <br>
-                <a href="https://marianajlopez.com/">https://marianajlopez.com</a>
+                <center><img class="lazy" data-src="../images/team-panel-york.png" alt="logo"></center>
                 </p>
           </div>
           <div class="hero__right">
@@ -61,7 +58,12 @@ This page introduces the members of our <a href="#research-team">research team</
 <br>
 <p>Mariana is the Principal Investigator for the Arts and Humanities Research Council (AHRC) funded project ‘Enhancing Audio Description II: Implementing accessible, personalised and inclusive film and television experiences for visually impaired audiences.’ She was also the Principal Investigator for Enhancing Audio Description, also funded by the AHRC (2016-2018), and the British Academy funded project ‘The Soundscapes of the York Mystery Plays’. She has also supervised Marie Sklodowska-Curie Fellowships throughout the years, including the project 'Safe and Sound Drive: Design of a serious game for cars to help increase driver skills and lower fuel consumption' by <a href="https://www.ltu.se/staff/a/arny-1.11844?l=en">Dr Arne Nykänen‘s</a> and <a href="https://www.cathedralacoustics.com/">Dr Lidia Álvarez Morales'</a> work on 'Cathedral Acoustics. Sound as intangible heritage: preserving the acoustics of cathedrals in the United Kingdom'. She is currently supervising the project 'Acoustic Atlas: cultivating the capacity to listen' by <a href="https://www.acousticatlas.de/">Dr Cobi van Tonder.</a>
 <br><br>
-Mariana is also active in the field of sound design, having worked on a number of short films, theatre productions and other creative experiences.</p>
+Mariana is also active in the field of sound design, having worked on a number of short films, theatre productions and other creative experiences.
+<br><br>
+<a href = "mailto: mariana.lopez@york.ac.uk">mariana.lopez@york.ac.uk</a>
+<br>
+<a href="https://marianajlopez.com/">https://marianajlopez.com</a>
+</p>
 </details>
   </div>
 </section>
@@ -81,9 +83,7 @@ Mariana is also active in the field of sound design, having worked on a number o
                 <br><br>
                 He first joined the University of York as a Lecturer in Sound Design at the Department of Theatre, Film and Television in January 2011 and has since been appointed as Associate Professor in Audio and Music Technology at the Department of Electronics. He has published over 100 publications and patents relating to immersive sound, many in collaboration with industry partners such as Abbey Road Studios, BBC, Google, Huawei and Mercedes-Benz Grand Prix. His research interests include accessibility for audio-visual media, spatial audio and surround sound, sound design for film, television and interactive media, real-time audio signal processing, Ambisonics and spherical acoustics, interactive audio systems, recording and audio post-production technique development.
                 <br><br>
-                <a href = "mailto: gavin.kearney@york.ac.uk">gavin.kearney@york.ac.uk</a>
-                <br>
-                <a href="https://pure.york.ac.uk/gavin.kearney">https://pure.york.ac.uk/gavin.kearney</a>
+                <center><img class="lazy" data-src="../images/team-panel-york.png" alt="logo"></center>
                 </p>
           </div>
           <div class="hero__right">
@@ -96,9 +96,12 @@ Mariana is also active in the field of sound design, having worked on a number o
     </div>
     <br>
 <details>
-<summary>Click here for more info on Gavin (empty).</summary>
+<summary>Click here for more info on Gavin.</summary>
 <br>
-<p>He has a </p>
+<p><a href = "mailto: gavin.kearney@york.ac.uk">gavin.kearney@york.ac.uk</a>
+<br>
+<a href="https://pure.york.ac.uk/gavin.kearney">https://pure.york.ac.uk/gavin.kearney</a>
+</p>
 </details>
   </div>
 </section>
@@ -118,9 +121,7 @@ Mariana is also active in the field of sound design, having worked on a number o
                 <br><br>
                 He has also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teaches a module on sensemaking, digital identities and web-design at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, he has been producing sound design and music, websites and visual art, including photography and paintings.
                 <br><br>
-                <a href = "mailto: krisztian.hofstadter@york.ac.uk">krisztian.hofstadter@york.ac.uk</a>
-                <br>
-                <a href=" https://khofstadter.com/"> https://khofstadter.com/</a>
+                <center><img class="lazy" data-src="../images/team-panel-york.png" alt="logo"></center>
                 </p>
           </div>
           <div class="hero__right">
@@ -133,12 +134,379 @@ Mariana is also active in the field of sound design, having worked on a number o
     </div>
     <br>
 <details>
-<summary>Click here for more info on Krisztián (empty).</summary>
+<summary>Click here for more info on Krisztián.</summary>
 <br>
-<p>He has a </p>
+<p>
+<a href = "mailto: krisztian.hofstadter@york.ac.uk">krisztian.hofstadter@york.ac.uk</a>
+<br>
+<a href=" https://khofstadter.com/"> https://khofstadter.com/</a>
+</p>
 </details>
   </div>
 </section>
 <!-- end hero -->
 
 ## Project Advisory Panel
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Howard Bargroff</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Freelance Sound Engineer</i>
+                <br><br>
+                Howard is ... 
+                <br><br>
+                at http://www.sonorouspost.com
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-sonorous-sound.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="Howard Bargroff">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Gary Westmoreland</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Director of Production Links, 3Sixtymedia and Technical Operations Continuing Drama at ITV</i>
+                <br><br>
+                Gary is ... 
+                <br><br>
+                itv.com
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-itv.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="Gary Westmoreland">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Dr Matthew Paradis</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Senior Sound Engineer at BBC Research and Development</i>
+                <br><br>
+                Matthew is ... 
+                <br><br>
+                https://www.bbc.co.uk/rd/people/matt-paradis
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-placeholder.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Emma Butt</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Freelance Sound Engineer</i>
+                <br><br>
+                Emma is ... 
+                <br><br>
+                https://www.emmabuttsound.co.uk
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-placeholder.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Anna Bertmark</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Sound Designer</i>
+                <br><br>
+                Anna is ... 
+                <br><br>
+                https://www.atticsound.net/
+                <br><br>
+                 <center><img class="lazy" data-src="../images/team-panel-attic-sound.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Nina Hartstone</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Supervising Sound Editor</i>
+                <br><br>
+                Nina is ... 
+                <br><br>
+                https://www.cinphonic.com/
+                <br><br>
+                 <center><img class="lazy" data-src="../images/team-panel-cinphonic.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.png" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Judi-Lee Headman</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Freelance Production Sound Mixer</i>
+                <br><br>
+                Judi is ... at <a href="https://www.amps.net/directory/judi-headman">amps</a>.
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-amps.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Jason Power</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>New Media Technology Consultant</i>
+                <br><br>
+                Jason is ... at <a href="https://www.dolby.com/">Dolby</a>.
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-dolby.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Lisa Holdsworth</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Writer and Scriptwriter</i>
+                <br><br>
+                Lisa is ... see at <a href="https://www.imdb.com/name/nm1272020/">IMDb</a>.
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-writer.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Mandi Lynn</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>TO DESCRIBE</i>
+                <br><br>
+                Mandy is ... see at <a href="https://www.imdb.com/name/nm1272020/">IMDb</a>.
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-placeholder.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Sonali Rai</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Broadcast Manager</i>
+                <br><br>
+                Sonali is ... at <a href="https://www.rnib.org.uk/">RNIB</a>.
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-rnib.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Warren Wilson</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Community Facilitator</i>
+                <br><br>
+                Warren is ... at <a href="https://www.rnib.org.uk/">RNIB East of England</a>.
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-rnib.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+      <h3>Jerry Gilbert</h3>
+        <div class="hero__inner">
+          <div class="hero__left">
+              <p class="hero__description">
+                <i>Technology Trainer</i>
+                <br><br>
+                Jerry is ... at <a href="https://www.rnib.org.uk/">Cam Sight</a> in Cambridge.
+                <br><br>
+                <center><img class="lazy" data-src="../images/team-panel-camsight.png" alt="logo"></center>
+                </p>
+          </div>
+          <div class="hero__right">
+            <div>
+              <img class="lazy" data-src="../images/team-panel-placeholder-2.jpg" alt="logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
