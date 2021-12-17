@@ -4,55 +4,50 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-#### team 
-- ask people to send text and phone 
 
-### new Output page with filters
-publications
-- add hyperlinks where needed - why hyperlinks don't look the same when using Markdown?
+### Home
+- new logo
+- integrate MailChimp 
+  - add a line to why they should join our mailing list
+
+### Team 
+- add Morgan and Lewis with one short paragraph at the end of Team's page
+
+### Output
+#### publications
 - keep publications as list - or shall they be added as posts with feature images? perhaps both, if there is a nice way of doing this - maybe user can choose? 
 
-### press
-- perhaps merge these three and add three links saying 'this article' was publishes here and here and here
-
-### podcasts/videos
--  recode {% if post.tags[0] == "publication" %} so that it checks whether the tag list consists of a specific tag e.g. "publication" tag instead (what it does now), of checking a specific tag[index] e.g. [0] - the first argument in the tag list
-- (maybe) add some sound image to the feature images where the podcast has a media file e.g. podcast or video 
-  
-### panel list
-- add new Panel List - M's email
-- new logo (perhaps add logo and title next to each other in top menu?)
+#### podcasts
+- (maybe) add some sound image to the feature images where the podcast has a media file e.g. podcast or video
+- readdress SoundCloud players - find minimal code and loose embedded image? 
 
 ### general
+#### footer
+- add tags that link to the tag page (to specific headings)
 - add alt text to all images - how to add them to feature images?
-- readdress SoundCloud players - find minimal code and loose embedded image? 
-- add Morgan and Lewis with one short paragraph at the end of Team's page
 - why is image loading slow on team page?
-- integrate MailChimp
 - why do I sometimes need to click on the share button to see an image for Twitter/Facebook?
 - how to add more authors?
 
-### Medium article
-title: what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
-
 ### later
-- make ,ailing list subscription element narrower, more centred.
-- López or Lopez?
+- can we embed Shelf Life or Pearl?
+- make mailing list subscription element narrower, more centred.
+- change all to López
 - how can I design a feature image that can be used as an OpenGraph for Facebook/Twitter, etc? - do I need to?
 - shall I add meta to each page/post separately to aid SEO?
-- interviews with conference presenters could maybe have a conference photo with their presentation and a link to the conference page?
-- how could I remove the Gallery in the footer for some pages/posts?
+- interviews with conference presenters could maybe have a conference photo with their presentation and a link to the conference page and their paper?
 - how come site folder is not seen in GitHub Desktop?
-- instead of tag filter with images, have a similar tag filter as on the top of the tag page (on index page under blog grid)
 - maybe remove the dates from the post tiles and add the date from the front-matter to the article.html (with new CSS)
 - check Shelf Life link in Kling Gut
 - random gallery after new page is loaded e.g. something dynamic
 
 ## before switch
 - export analytics (Google or other)
+- what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
+
+## after switch
 
 ## log
-
 - 2021-12-10 pagignator has blog heading anchor, more outputs organised, minor feature image fixes
 - 2021-12-08 organising data in a new way using the 'Output' page
 - 2021-12-05 ported all posts, changed some of the default code e.g. to have one column head in posts, experimented with sharing on social media, etc. 
