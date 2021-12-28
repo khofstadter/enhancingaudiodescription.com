@@ -7,7 +7,7 @@ image:  '/images/team-mariana-feature.jpg'
 image-header: '/images/team-mariana.jpg'
 tags:   [team, research team]
 ---
-Mariana Lopez is a Senior Lecturer in Sound Production and Post Production at the Department of Theatre, Film, Television and Interactive Media at University of York, where she has been working since 2016.
+Mariana López is a Senior Lecturer in Sound Production and Post Production at the Department of Theatre, Film, Television and Interactive Media at University of York, where she has been working since 2016.
 
 
 She has a background in music, sound design and acoustics. Her MA dissertation (University of York) focused on exploring the creation of a new format of sonic art entitled ‘audio film’ that may be considered as an alternative to Audio Description for visually impaired audiences.  In 2013 she completed her PhD at the University of York on the importance of virtual acoustics to further our understanding of medieval drama.

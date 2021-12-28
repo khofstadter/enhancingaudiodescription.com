@@ -27,5 +27,11 @@ I hope to raise awareness about access services and create accessible materials 
 
 This summer I’m finishing my course in SDH and am looking for opportunities to apply my new skills as SDH subtitler and audio describer.
 
+<br>
+
+Olga also took part in our first conference,, on which more information can be found on our [relevant page](conference-on-accessibility-in-film-television-and-interactive-media).
+
+<br>
+
 ## Footnotes
 [^1]: [The AD of the figure skating short performance](http://audio-description.blogspot.co.uk/2017/05/2017.html) mentioned in question 1 (in Russian). 

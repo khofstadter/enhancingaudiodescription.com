@@ -63,12 +63,17 @@
 }
 
 .hero__subscribe {
+  width: 70%;
+  margin: auto;
   margin-top: 32px;
 
   .subscribe-form {
     position: relative;
     border-radius: 2px;
     background-color: var(--background-color);
+    display: flex;
+    flex-direction: column;
+    padding: 6px;
   }
 
   .subscribe-email {
@@ -83,6 +88,7 @@
     color: var(--heading-font-color);
     background-color: transparent;
     transition: all .25s ease;
+    margin-bottom: 4px;
 
     &::placeholder {
       opacity: 0.6;
@@ -95,7 +101,7 @@
   }
 
   .subscribe-button {
-    position: absolute;
+    position: relative;
     top: 6px;
     right: 6px;
   }

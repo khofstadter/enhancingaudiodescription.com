@@ -27,6 +27,11 @@ An enhanced experience for the blind or partially sighted arts attender.  A sens
 
 An ongoing programme of audio description for theatre shows, including touring productions of BEAUTIFUL, SHREK, FLASHDANCE, LEGALLY BLONDE; regional productions at amongst others: The Royal Exchange, and Liverpool Everyman Theatres, and regular visits to galleries and museums across the North West, including Tate Liverpool and The Lowry.  New projects come in all the time, so my job is always exciting!
 
+<br>
+
+Anne also took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.
+
+<br>
 
 ## Links
 - [https://vimeo.com/63776721](https://vimeo.com/63776721)

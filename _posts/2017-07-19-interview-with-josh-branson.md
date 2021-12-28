@@ -28,3 +28,7 @@ I hope to explore and bridge the gap between the people creating audiovisual con
 Next year I am planning to start a PhD under the supervision of Dr. Pablo Romero-Fresco at the University of Vigo in Spain, where I would like to extend my current study, working on multiple film productions as a director of accessibility. The scope of this project will be much broader, integrating accessibility into the process during the pre-production stage, as well as incorporating inter-lingual subtitling and (potentially) BSL.
 
 I will also be working as a director of accessibility on an Italian short film (*Acquario*) by Lorenzo Puntoni, which is being shot in Puglia in September. My intention is to then write an academic paper that documents and analyses the process.
+
+<br>
+
+Josh also took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.

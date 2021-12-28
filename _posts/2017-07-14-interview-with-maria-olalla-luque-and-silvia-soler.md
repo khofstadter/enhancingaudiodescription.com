@@ -30,3 +30,10 @@ M O and S: We hope our research leads to an enhancement of the ways audio descri
 M O: We are currently working with several museums in Spain, apart from our research work. The Alhambra, Sorolla Museum, Science Park in Granada, and CajaGRANADA museum are our current collaborators. We design and offer guided tours and workshops for these institutions, and we are willing to jump to other museums.
 
 On the research side, we continue to carry out descriptive studies of audio description in art museums, in which we analyse existing audio descriptions and interview organisations, companies and museum educators involved in the creation of and provision of audio descriptions. The goal of these studies is to reflect on the way audio description is done in art museums nowadays from a sociological and linguistic perspective and to propose alternatives, as well as to create theoretical and methodological tools that can be used by trainers in this field.
+
+
+<br>
+
+María took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.
+
+![María presenting](../images/2017-07-14-interview-with-maria-olalla-luque-and-silvia-soler-conference.jpg)

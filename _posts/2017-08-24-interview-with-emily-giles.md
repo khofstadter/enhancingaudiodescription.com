@@ -33,6 +33,14 @@ I don’t have any new projects lined up but I have been working on my user stud
 
 <br>
 
+Emily also took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.
+
+<br>
+
+![Emily presenting](../images/2017-08-24-interview-with-emily-giles-conference.jpg)
+
+<br>
+
 ## References:
 
 - Bratteteig, T. (1997) ‘Mutual Learning: Enabling cooperation on systems design’. Proceedings from the IRIS 20 Information Systems Research Seminar, Oslo, N 

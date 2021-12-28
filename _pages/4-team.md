@@ -54,3 +54,5 @@ image:
     {% endif %}
   </div>
 </div>
+
+We would like to thank [Lewis Thresh](https://www.linkedin.com/in/lewis-thresh-59636510b/) and [Morgan French](https://www.linkedin.com/in/morgan-french-19a437160/), whose work contributed to the success of the first part of our EAD research in 2015-2017.

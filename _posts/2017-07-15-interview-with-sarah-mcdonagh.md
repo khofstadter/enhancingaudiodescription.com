@@ -30,3 +30,11 @@ My PhD project investigates the role of voice in audio description. I am interes
 The Prisons Memory Archive is a collection of filmed interviews and walking tours of the Maze Prison and Armagh Gaol with those who had a connection with these places during the armed conflict in Northern Ireland. My work is focused primarily on the video tours of the Maze Prison. I will provide the audio description for these walking tours which will form an integral part of my upcoming reception study.
 
 Given the sensitive nature of the source material, the delivery and word choice of the audio description has an added significance in regards to an audience reception study in Northern Ireland. By collaborating closely with the director and production team, I expect to be able to produce an audio description which is sympathetic to the source material as well as test out an alternative approach to description which takes into account the vocal delivery of the description.
+
+<br>
+
+Sarah took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.
+
+
+
+

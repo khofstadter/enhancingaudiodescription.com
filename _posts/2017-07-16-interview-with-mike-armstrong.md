@@ -26,3 +26,11 @@ Improved services for our audience.
 *Can you tell us a little about you forthcoming projects (related to accessibility)?*
 
 Nothing planned at the moment.
+
+<br>
+
+Mike took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.
+
+<br>
+
+![Mike's demonstration](../images/2017-07-16-interview-with-mike-armstrong-conference.jpg)

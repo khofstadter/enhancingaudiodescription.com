@@ -26,3 +26,7 @@ I would love to see the provision of access increase. I want to explore how more
 *Can you tell us a little about your forthcoming projects (related to accessibility)?*
 
 My current project explores how respeaking, where live subtitles are created through speech recognition software, can be used to make live events (Q&A, discussions, walking tours, presentations, music events…) more accessible. Respeaking is already used to subtitle the news, chat shows and other live programmes on television. I’m investigating how to transfer this technique to live events, whilst continuing to provide good quality access, and I’m also investigating which audience groups would benefit from it. Collaboration is at the heart of my research, so if you want to find out more, do get in touch.
+
+<br>
+
+Zoe also took part in our first conference,, on which more information can be found on our [relevant page](conference-on-accessibility-in-film-television-and-interactive-media).

@@ -26,3 +26,11 @@ Helping policymakers determine how much to demand of webmasters etc when working
 *Can you tell us a little about you forthcoming projects (related to accessibility)?*
 
 I would like to understand what people with disabilities really need when browsing the web and how to make it easier for society to establish more accessible websites.
+
+<br>
+
+Harel took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.
+
+<br>
+
+![Harel presenting](../images/2017-07-03-interview-with-harel-chait-conference.jpg)

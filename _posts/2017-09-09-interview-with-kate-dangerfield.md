@@ -28,3 +28,11 @@ With regards to the Accessible Film Project, we hope to create a model that can 
 *Can you tell us a little about your forthcoming projects (related to accessibility)?*
 
 I’m really excited about the documentary that I’m currently working on for my thesis. It will bring all the research together and is an opportunity for the participants to showcase their work and share their filmmaking experience with as wide an audience as possible.
+
+<br>
+
+Kate also took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.
+
+<br>
+
+![Kate's presentation](../images/2017-09-09-interview-with-kate-dangerfield-conference.jpg)

@@ -14,14 +14,14 @@ tags:   [event, presentation]
 
 *Abstract:*
 
-With the number of visually impaired people in the UK expected to rise to four million by 2020, Dr Mariana Lopez is bringing the creative and technological industries together to widen access to the many millions of them who watch film and television.
+With the number of visually impaired people in the UK expected to rise to four million by 2020, Dr Mariana López is bringing the creative and technological industries together to widen access to the many millions of them who watch film and television.
 
 She argues that the film and TV industry has failed to catch up with new technologies in the field of sound design, which can be used to reduce the number of verbal descriptions and provide an immersive experience. Her goal is to exploit the potential of existing technologies – getting film directors, scriptwriters and actors to ‘see’ with their ears.
 
 More information can be found on the [York Talks website](https://www.york.ac.uk/research/events/yorktalks/). 
 
-Presenter: Mariana Lopez  
-Authors: Mariana Lopez, Gavin Kearney and Krisztián Hofstädter
+Presenter: Mariana López  
+Authors: Mariana López, Gavin Kearney and Krisztián Hofstädter
 
 <br>
 

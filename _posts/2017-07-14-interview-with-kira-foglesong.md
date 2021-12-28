@@ -30,3 +30,7 @@ We hope to encourage discourse about accessibility for visually impaired people,
 *Can you tell us a little about your forthcoming projects related to accessibility?*
 
 As our team was made up of seniors and juniors in college at the time, we have since split up due to the natural course of graduation and have moved on to our own respective fields. However, even though Razzle Dazzle Games has no forthcoming projects, I believe this experience has made us all as individuals more aware and appreciative of accessibility, especially in the realm of video games. I believe all of us will continue to consider accessibility in our future projects.
+
+<br>
+
+Kira took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.

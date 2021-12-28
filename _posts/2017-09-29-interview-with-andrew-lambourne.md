@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Interview with Andrew Lambourne
-description: ''
 date:   2017-09-29
 image:  '/images/2017-09-29-interview-with-andrew-lambourne.jpg'
 tags:   [interview, people]
@@ -25,4 +24,12 @@ Developing the tools and techniques for access services, particularly in the fie
 
 *Can you tell us a little about your forthcoming projects (related to accessibility)?*
 
-I’m focused on the challenges of how the remaining errors in real-time subtitling services can be reduced by moving live speech recognition systems towards genuinely having “Artificial Intelligence” rather than just giving the impression of having intelligence because they appear to understand what we are saying. In fact, they don’t understand it in the least, and that’s the biggest part of the problem…
+I’m focused on the challenges of how the remaining errors in real-time subtitling services can be reduced by moving live speech recognition systems towards genuinely having “Artificial Intelligence” rather than just giving the impression of having intelligence because they appear to understand what we are saying. In fact, they don’t understand it in the least, and that’s the biggest part of the problem. 
+
+<br> 
+
+Andrew also took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.
+
+<br>
+
+![Andrew presenting](../images/2017-09-29-interview-with-andrew-lambourne-conference.jpg)
