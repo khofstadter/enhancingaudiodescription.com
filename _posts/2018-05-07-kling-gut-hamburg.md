@@ -7,5 +7,5 @@ date:   2018-03-24
 image:  '/images/feature-klingt-gut.jpg'
 tags:   [event, presentation]
 description2:  For more information on Shelf Life please visit
-redirect_url2: https://enhancingaudiodescription.com/shelf-life/
+redirect_url2: /shelf-life/
 ---
