@@ -7,11 +7,11 @@ image:  '/images/2017-04-20-stereo-vs-binaural.jpg'
 tags:   [binaural, listening test]
 ---
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318608376&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
+<iframe title="audio player" width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318608376&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
 
 <br>
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318608517&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
+<iframe title="audio player" width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/318608517&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
 
 > One (Pearl opening sequence regular stereo) is the original soundtrack. The second (Pearl opening sequence binaural) is an enhanced version to which we have added sound effects to make what’s happening clearer and also used binaural audio (a form of surround sound for headphone listening that tricks the ears into thinking that sounds are coming from ‘outside the head’). ~ Mariana[^1]
 

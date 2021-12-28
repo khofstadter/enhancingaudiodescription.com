@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Interview with Mike Armstrong
-description: ''
 date:   2017-07-16
 image:  '/images/2017-07-16-interview-with-mike-armstrong.jpg'
 tags:   [interview, people]

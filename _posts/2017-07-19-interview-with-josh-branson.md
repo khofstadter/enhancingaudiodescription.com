@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Interview with Josh Branson
-description: ''
 date:   2017-07-17
 image:  '/images/2017-07-18-interview-with-josh-branson.jpg'
 tags:   [interview, people]

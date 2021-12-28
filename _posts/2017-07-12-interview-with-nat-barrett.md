@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Interview with Nat Barrett
-description: ''
 date:   2017-07-12
 image:  '/images/2017-07-12-interview-with-nat-barrett.jpg'
 tags:   [interview, people]

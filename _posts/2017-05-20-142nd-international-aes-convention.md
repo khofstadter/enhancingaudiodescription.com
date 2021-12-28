@@ -32,7 +32,7 @@ We then moved on to how our focus groups responded to our ideas and how binaural
 
 The highlight of our presentation was the demo of the first scene of our case study, which was presented through headphones (as we used binaural audio) to our participants and included the additional sound effects, the use of spatialised elements and the inclusion of first-person narration.
 
-<p><iframe src="https://www.youtube.com/embed/5UfFsYqfp-M" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe title="video player" src="https://www.youtube.com/embed/5UfFsYqfp-M" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 The demo was very well received and it was a great opportunity to get feedback on work in progress!
 

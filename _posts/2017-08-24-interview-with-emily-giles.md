@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Interview with Emily Giles
-description: ''
 date:   2017-08-24
 image:  '/images/2017-08-24-interview-with-emily-giles.jpg'
 tags:   [interview, people]

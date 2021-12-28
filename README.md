@@ -52,6 +52,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ## after switch
 
 ## log
+- 2021-21-28 accessibility check and amendments: titles added to iframes; 
 - 2021-12-28 code changes
 - 2021-12-10 pagignator has blog heading anchor, more outputs organised, minor feature image fixes
 - 2021-12-08 organising data in a new way using the 'Output' page

@@ -7,7 +7,7 @@ image:  '/images/2017-12-01-lauren-ward-ead-presentation.jpg'
 tags:   [event, conference, podcast]
 ---
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/366145772&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
+<iframe title="audio player" width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/366145772&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
 
 <br>
 

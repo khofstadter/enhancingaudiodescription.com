@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Interview with Kira Foglesong
-description: ''
 date:   2017-07-14
 image:  '/images/2017-07-14-interview-with-kira-foglesong.jpg'
 tags:   [interview, people]

@@ -7,7 +7,7 @@ image:  '/images/2017-03-10-conference-news.jpg'
 tags:   [event, conference]
 ---
 
-<p><iframe src="https://www.youtube.com/embed/5HM-ae2Ws74" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe title="Flatland" src="https://www.youtube.com/embed/5HM-ae2Ws74" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 ## Links
 - [Maria Oshodi](https://extant.org.uk/people/maria-oshodi/)

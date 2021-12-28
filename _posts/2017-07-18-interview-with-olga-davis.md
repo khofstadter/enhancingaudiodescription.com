@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Interview with Olga Davis
-description: ''
 date:   2017-07-17
 image:  '/images/2017-07-18-interview-with-olga-davis.jpg'
 tags:   [interview, people]

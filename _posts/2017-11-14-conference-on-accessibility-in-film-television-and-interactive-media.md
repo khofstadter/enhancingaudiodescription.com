@@ -35,33 +35,33 @@ The conference provided an interdisciplinary forum, integrating approaches from 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-01.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-02.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-03.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-04.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-05.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-06.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-07.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-08.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-09.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-10.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-11.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-12.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-13.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-14.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-15.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-16.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-17.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-18.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-19.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-20.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-21.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-22.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-23.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-24.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-25.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-26.jpg">
-    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-27.jpg">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-01.jpg" alt="Emily Giles' presentation">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-02.jpg" alt="Two people kneeling on the floor and looking and papers">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-03.jpg" alt="Mike Armstrong leading a demonstration">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-04.jpg" alt="Presenter on left and audience sitting on the right">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-05.jpg" alt="Mariana López talking to keynote speaker Howard Bargroff">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-06.jpg" alt="Poster presentation">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-07.jpg" alt="Presentation of Cesar Portillo">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-08.jpg" alt="Mike Armstrong talking to attendees in a break">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-09.jpg" alt="Attendees in the department's hallway">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-10.jpg" alt="Alic Joy and Fiona Anderson's tutorial with several people behind computers">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-11.jpg" alt="Cesar Portillo's tutorial with audience listening to headphones">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-12.jpg" alt="Flatland installation">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-13.jpg" alt="Two woman and a guide dog">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-14.jpg" alt="Several wine glasses full of wine">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-15.jpg" alt="Flatland installation participant">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-16.jpg" alt="Mariana addressing an audience">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-17.jpg" alt="Keynote speaker Howard Bargroff presenting">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-18.jpg" alt="Conference attendees talking in the hallway">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-19.jpg" alt="Conference attendees talking in the hallway">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-20.jpg" alt="Mariana and Gavin presenting in front of an audience">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-21.jpg" alt="Conference attendees talking in the hallway">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-22.jpg" alt="Two conference attendess talking next to a poster">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-23.jpg" alt="Poster presentation with several people">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-24.jpg" alt="Conference attendess talking in the hallway">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-25.jpg" alt="Poster presentation">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-26.jpg" alt="Kerr Castle touching Emily Giles' installation">
+    <img src="/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-27.jpg" alt="Audience sitting in the lecture hall">
   </div>
 </div>
 
