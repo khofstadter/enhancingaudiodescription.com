@@ -39,9 +39,13 @@ But is the technology possible? Cowap questioned whether digital development wil
 
 The social dimension of the project was also part of the discussion. Should the [Department of Theatre, Film and Television](https://www.york.ac.uk/tfti/) be focused on the impact of media on society? Mariana commented that she hopes that her students, through lectures, practicals and discussions are aware that audiences are diverse and that we have a social responsibility to increase awareness on this. It was these social concerns in particular which sparked discussion on social media, with participants using the hashtags #YorkTalks and #YorkResearch.
 
-[](../images/2017-00-11-seeing-with-our-ears-tweet-1.jpg)
+<br>
 
-[](../images/2017-00-11-seeing-with-our-ears-tweet-2.jpg)
+<p style="background-color: lightblue"><font weight="bolder" color= "purple" >@Mariana_J_Lopez </font> - accessibility shouldn't be an afterthought - we should be able to offer a range of ways to engage with media <font weight="bolder" color= "purple" >#YorkTalks</font></p>
+
+<p style="background-color: lightblue"><font color="purple">@Mariana_J_Lopez</font> audio description techniques: "Consider diversity within accessibility" <font weight="bolder" color= "purple" >#YorkTalks #YorkResearch</font></p>
+
+<br>
 
 What next? Making sure that the research findings reach Audio Description users.
 
