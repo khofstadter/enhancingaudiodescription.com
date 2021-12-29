@@ -4,8 +4,8 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-- check assessibility
-- integrate Mailchimp
+- check accessibility - continue with https://www.experte.com/accessibility
+- integrate Mailchimp (ask Marianna for access)
 - new logo
 
 ### Home
@@ -41,7 +41,6 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - maybe remove the dates from the post tiles and add the date from the front-matter to the article.html (with new CSS)
 - check Shelf Life link in Kling Gut
 - random gallery after new page is loaded e.g. something dynamic
-
 
 ## before switch
 - check accessibility with test sites
