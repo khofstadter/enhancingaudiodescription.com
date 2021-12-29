@@ -5,8 +5,13 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ## TODO
 ### now
 - check accessibility - continue with https://www.experte.com/accessibility
+  - make meaningful alt texts (iframe titles as well)
 - integrate Mailchimp (ask Marianna for access)
 - new logo
+- provide captions for videos and audio ?
+
+### Warren check
+- better to link the feature image and the title or is it OK to link the find out more phrase?
 
 ### Home
 - ! new logo
@@ -67,3 +72,4 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - https://www.webaccessibility.com/ (one free monitoring per email account)
 - https://webaccess.berkeley.edu/resources/tips/web-accessibility
 - https://www.washington.edu/accessibility/web/
+- https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/

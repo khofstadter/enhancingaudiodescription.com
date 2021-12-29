@@ -13,4 +13,4 @@ We held 8 focus groups as part of the project, 4 in Cambridge and 4 in York, and
 
 We are working on reading through all the feedback and we will publish updates as soon as possible!
 
-![](../images/2016-08-25-survey-and-focus-groups-pearl-screenshot.jpg)
+![A women looking through a dusty window.](../images/2016-08-25-survey-and-focus-groups-pearl-screenshot.jpg)

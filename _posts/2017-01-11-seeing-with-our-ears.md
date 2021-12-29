@@ -25,7 +25,7 @@ Authors: Mariana López, Gavin Kearney and Krisztián Hofstädter
 
 <br>
 
-### Reflection by Morgan French
+## Reflection by Morgan French
 
 Mariana kicked off the afternoon session of York Talks with her presentation on the Enhancing AD project, Seeing With Our Ears. To the confusion of her audience an audio only clip of a film (Pearl) was played with no explanation or visual elements. Mariana used the clip as a springboard to discuss the difficulty of interpreting a film without any visuals and without any accessibility measures. She then moved on to talk about Audio Description and the Enhancing Audio Description project, and ran a binaural demo.
 
