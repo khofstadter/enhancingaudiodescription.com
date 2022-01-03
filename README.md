@@ -6,6 +6,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ### now
 - check accessibility - continue with https://www.experte.com/accessibility
   - make meaningful alt texts (iframe titles as well)
+  - waiting for Elevin support to get back to me regarding registration/verification
 - integrate Mailchimp (ask Marianna for access)
 - new logo
 - provide captions for videos and audio ?
@@ -56,6 +57,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ## after switch
 
 ## log
+- 2022-01-03 mailchimp identifier added (needs testing).  waiting for Elevin support to access dashboard (to test accessibility)
 - 2021-21-28 higher score with https://www.experte.com/accessibility
 - 2021-12-28 code changes
 - 2021-12-10 pagignator has blog heading anchor, more outputs organised, minor feature image fixes
