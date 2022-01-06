@@ -11,3 +11,6 @@ Rebecca graduated with a BSc in Business Studies and after graduating held a num
 
 
 Rebecca’s role as Project Officer encompasses the management of the financial and administrative process and procedures underpinning the project, as well as the planning of future project conferences, workshops and events.  
+
+
+<a href = "mailto: r.shaw@york.ac.uk">r.shaw@york.ac.uk</a>
