@@ -6,8 +6,9 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ### now
 - check accessibility - continue with https://www.experte.com/accessibility
   - make meaningful alt texts (iframe titles as well)
-  - waiting for Elevin support to get back to me regarding registration/verification
-- integrate Mailchimp (ask Marianna for access)
+  - also check with https://platform.elevin.cloud/
+  - check with Warren
+- integrating issue of Mailchimp (ask Artem)
 - new logo
 - provide captions for videos and audio ?
 
