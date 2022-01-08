@@ -18,7 +18,7 @@ layout: default
       {%if page.image %}
       <!-- <div class="col col-6 col-d-12"> -->
         <!-- <div class="post-image">> -->
-          <img class="lazy" data-src="{{site.baseurl}}{{page.image-header}}" alt="{{page.title}}">
+          <!-- <img class="lazy" data-src="{{site.baseurl}}{{page.image-header}}" alt="{{page.image-alt}}"> -->
         <!-- </div> -->
       <!-- </div> -->
       {%endif %}
@@ -28,7 +28,6 @@ layout: default
       {% if page.video_embed %} {% assign videoInfo = 'post__info-video' %} {% endif %}
       <!-- <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}"> -->
         <!-- <div class="post__info {{videoInfo}}"> -->
-  
           {% if page.tags.size >= 1 %}
             <div class="post__tags">
               {% for tag in page.tags %}
@@ -36,9 +35,11 @@ layout: default
               {% endfor %}
             </div>
           {% endif %}
-  
           <h1 class="post__title">{{ page.title | escape }}</h1>
-
+          {%if page.description %}
+            {{ page.description }}
+          {% endif %}
+      
           <!--
           <div class="post__meta">
             <a href="{{site.baseurl}}/about/" class="post__author-image">
@@ -64,10 +65,11 @@ layout: default
 <div class="container animate">
   <article class="post">
     <div class="post__content">
-      {%if page.description %}
+      <img class="lazy" data-src="{{site.baseurl}}{{page.image-header}}" alt="{{page.image-alt}}">
+      <!--{%if page.description %}
       {{ page.description }}
-      {% endif %}
-      <br><br><br><br>
+      {% endif %}-->
+      <br><br>
       {{ content }}
       <br><br>
     </div>

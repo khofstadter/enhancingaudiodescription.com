@@ -5,6 +5,7 @@ description: Co-Investigator
 date:   2015-01-02
 image:  '/images/team-gavin-feature.jpg'
 image-header: '/images/team-gavin.jpg'
+image-alt: 'Gavin in his studio'
 tags:   [team, research team]
 ---
 Gavin Kearney graduated from Dublin Institute of Technology in 2002 with an honors degree in Electronic Engineering and has since obtained both MSc and PhD degrees in Audio Signal Processing from Trinity College Dublin. During this time he worked (and continues to) in the audio industry as sound engineer and producer. After his PhD, he spent time as a postdoctoral research fellow in game audio on the Science Foundation Ireland ‘Metropolis’ project, whilst lecturing on the Interactive Digital Systems and Music and Media Technology courses at Trinity College.

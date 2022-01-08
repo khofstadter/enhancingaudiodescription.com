@@ -6,41 +6,34 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ### now
 - check accessibility - continue with https://www.experte.com/accessibility
   - make meaningful alt texts (iframe titles as well)
+  - add image-alt: '' to all posts
   - also check with https://platform.elevin.cloud/
   - check with Warren
-- integrating issue of Mailchimp (ask Artem)
 - new logo
-- provide captions for videos and audio ?
-
-### Warren check
-- better to link the feature image and the title or is it OK to link the find out more phrase?
-
+  
 ### Home
-- ! new logo
-- ! integrate MailChimp (ask Mariana to help change the email address in Mailchimp)
+- more integrated mailing list signup form (without new page opening up)
 
 ### Team 
 - do we need a heading for Lewis and Morgan e.g. Honorary Mentions
-- should we add other people from the last Advisory Panel?
+- should we add other people from the last advisory panel (EAD I) as honorary mentions?
+
+### Contact
+- shall we add/mention Mariana's Twitter handle?
 
 ### Output
 #### publications
-- ! add posts (new files) hyperlinking to the output/publications heading for each publication
+- ! add publications (journal and conference as well?) as new posts (individual files) with links to the Output page
 
 #### podcasts
-- soundcloud miniplayer still not working
+- SoundCloud mini-player still not working
 - add an audio symbol to the feature images in the post grid where the podcast has a media file e.g. podcast or video - but not to the image, instead, in a similar way to how the data is added to the tiles (so that it is not seen on the feature image added on the top of the post)
 
 ### general
-#### footer
-- add tags that link to the tag page (to specific headings)
-- add alt text to all images - how to add them to feature images?
-- why do I sometimes need to click twice on the share button to see an image for Twitter/Facebook?
+- add tag filter to footer where tags link to the tag page (to specific headings)
 - how to add more authors? (so I can display the author with an avatar for specific posts e.g. Mariana wrote some and Morgan as well. And this way we could have many authors e.g. contributions with more appropriate credits)
-#### search
-- the search results still have a hyperlink on the feature images and the title and they don't display all info under the image
-
-### later
+- ! the search results still have a hyperlink on the feature images and the title and they don't display all info under the image
+- provide captions for videos and audio?
 - can we embed Shelf Life or Pearl?
 - how can I design a feature image that can be used as an OpenGraph for Facebook/Twitter, etc? - do I need to?
 - shall I add meta to each page/post separately to aid SEO?
@@ -50,14 +43,14 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - random gallery after new page is loaded e.g. something dynamic
 
 ## before switch
-- check accessibility with test sites
-- check accessibility with Warren
 - export analytics (Google or other)
 - what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
 
 ## after switch
 
 ## log
+- 2022-01-07 smaller team photos, smaller fixes for access, emma and lisa added to a.panel
+- 2022-01-06 main MailChimp integration fixed, however would be good to have a better UX
 - 2022-01-03 mailchimp identifier added (needs testing).  waiting for Elevin support to access dashboard (to test accessibility)
 - 2021-21-28 higher score with https://www.experte.com/accessibility
 - 2021-12-28 code changes
