@@ -49,6 +49,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ## after switch
 
 ## log
+- 2022-01-08 send summery video to M
 - 2022-01-07 smaller team photos, smaller fixes for access, emma and lisa added to a.panel
 - 2022-01-06 main MailChimp integration fixed, however would be good to have a better UX
 - 2022-01-03 mailchimp identifier added (needs testing).  waiting for Elevin support to access dashboard (to test accessibility)
