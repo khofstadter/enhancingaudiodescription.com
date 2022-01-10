@@ -4,11 +4,20 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
+
+- add podcast 1 transcript
+- ask Mariana: López, M. , BBC Sounds Amazing: Celebrating Innovation in Audio. 15th October 2020 [There is a video for this and I can ask for permission to use it, but it would have to be captioned as well]
+- which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
+
 - check accessibility - continue with https://www.experte.com/accessibility
   - make meaningful alt texts (iframe titles as well)
   - add image-alt: '' to all posts
   - also check with https://platform.elevin.cloud/
   - check with Warren
+  - consider seeking advices from 
+    - https://www.york.ac.uk/about/equality/digital-accessibility/ and
+    - https://groups.google.com/a/york.ac.uk/forum/#!forum/accessibledocuments-group
+    - check: https://www.york.ac.uk/staff/it/staff-digital-skills-framework/
 - new logo
   
 ### Home
@@ -49,7 +58,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ## after switch
 
 ## log
-- 2022-01-08 send summery video to M
+- 2022-01-08 sent summery video to M
 - 2022-01-07 smaller team photos, smaller fixes for access, emma and lisa added to a.panel
 - 2022-01-06 main MailChimp integration fixed, however would be good to have a better UX
 - 2022-01-03 mailchimp identifier added (needs testing).  waiting for Elevin support to access dashboard (to test accessibility)
