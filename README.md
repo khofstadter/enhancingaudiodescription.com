@@ -4,7 +4,10 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-- search results display similar to blog tiles
+- (with Artem) search results display similar to blog tiles
+-  make meaningful alt texts (iframe titles as well)
+-  check access with software
+-  send to Warren
 
 ## send to Mariana
 - list of urls where podcast/videos need transcribing or subtitles
@@ -16,8 +19,6 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
 
 - check accessibility - continue with https://www.experte.com/accessibility
-  - make meaningful alt texts (iframe titles as well)
-  - add image-alt: '' to all posts
   - also check with https://platform.elevin.cloud/
   - check with Warren
   - consider seeking advices from 

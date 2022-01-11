@@ -4,6 +4,7 @@ title:  Cambridge Festival of Ideas
 description: On 29 October 2016, at the Anglia Ruskin University, Mariana presented the project at the Cambridge Festival of Ideas. The presentation was titled Using Sound Design to Foster Inclusivity.
 date:   2016-10-21
 image:  '/images/feature-festival-of-ideas.png'
+image-alt: 'A photo of Cambridge Festival of Ideas flags on a wall.'
 tags:   [event, presentation]
 ---
 *Abstract:*

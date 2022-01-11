@@ -3,6 +3,7 @@ layout: post
 title:  Interview with Kate Dangerfield
 date:   2017-09-09
 image:  '/images/2017-09-09-interview-with-kate-dangerfield.jpg'
+image-alt: 'A photo of Kate.'
 tags:   [interview, people]
 ---
 

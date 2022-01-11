@@ -4,6 +4,7 @@ title:  York Talks - Seeing With Our Ears
 description: On 11 January 2017, at the York Talks – Research in the Spotlight event organised by the University of York, Mariana gave a presentation outlining our research progress.
 date:   2017-01-11 
 image:  '/images/feature-yorktalks.jpg'
+image-alt: 'A photo of a building at the University of York next to a large pond.'
 tags:   [event, presentation]
 ---
 

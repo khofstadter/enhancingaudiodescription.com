@@ -4,6 +4,7 @@ title:  Maria Oshodi at our Conference
 description: You can listen to the presentation Maria gave at our conference, in our 6th podcast, titled A Brief History of Integrating Description in Theatre by Visually Impaired Artists. 
 date:   2017-12-06
 image:  '/images/2017-12-06-maria-oshodi-ead-presentation.jpg'
+image-alt: 'A photo of Maria presenting at our conference.'
 tags:   [event, conference, podcast]
 ---
 

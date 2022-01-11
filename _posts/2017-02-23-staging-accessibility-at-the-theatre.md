@@ -4,6 +4,7 @@ title:  Staging Accessibility at the Theatre
 description: Accessibility should take centre stage as a creative consideration at the theatre.
 date:   2017-02-23
 image:  '/images/2017-02-23-staging-accessibility-at-the-theatre.jpg'
+image-alt: 'A photo of a theatre mask.'
 tags:   [theatre]
 ---
 

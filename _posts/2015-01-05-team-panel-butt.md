@@ -4,6 +4,7 @@ title:  Emma Butt
 description: Freelance Sound Engineer
 date:   2015-01-05
 image:  '/images/team-emma-feature.jpg'
+image-alt: 'Photo of Emma.'
 image-header: '/images/team-emma.jpg'
 tags:   [team, advisory panel]
 ---

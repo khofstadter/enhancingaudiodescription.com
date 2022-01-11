@@ -4,6 +4,7 @@ title:  Meet musician and sound designer Andre Louis
 description: Andre Louis is a musician, lover of all-things technology, self-proclaimed geek and loves trying out new gear whenever he can get a hold of it.
 date:   2018-05-11
 image:  '/images/2018-05-11-meet-musician-and-sound-designer-andre-louis.jpg'
+image-alt: 'Andre behind using an electric keyboard and headphones.'
 tags:   [people]
 ---
 

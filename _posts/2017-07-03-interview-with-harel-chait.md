@@ -3,6 +3,7 @@ layout: post
 title:  Interview with Harel Chait
 date:   2017-07-03
 image:  '/images/2017-07-03-interview-with-harel-chait.jpg'
+image-alt: 'A photo of Harel.'
 tags:   [interview, people]
 ---
 

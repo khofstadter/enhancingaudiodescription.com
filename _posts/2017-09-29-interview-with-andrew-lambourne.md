@@ -3,6 +3,7 @@ layout: post
 title:  Interview with Andrew Lambourne
 date:   2017-09-29
 image:  '/images/2017-09-29-interview-with-andrew-lambourne.jpg'
+image-alt: 'A photo of Andrew.'
 tags:   [interview, people]
 ---
 

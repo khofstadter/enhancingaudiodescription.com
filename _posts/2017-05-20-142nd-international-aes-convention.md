@@ -4,6 +4,7 @@ title:  142nd International Audio Engineering Society Convention
 description: On 20 May 2017 Mariana and Gavin gave a tutorial titled Using Binaural Audio to increase accessibility to Film and Television How Digital at the 142nd International AES Convention held in Berlin. 
 date:   2017-05-21
 image:  '/images/2017-04-20-142nd-international-aes-convention.jpg'
+image-alt: 'A frame from the movie Pearl.'
 tags:   [event, presentation, reflection]
 ---
 

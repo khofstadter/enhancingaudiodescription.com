@@ -4,6 +4,7 @@ title:  Shelf Life
 description: It’s been a while since we published a blog post, mostly because we’ve been busy giving talks, creating podcasts and writing up the results of the project. On top of that we also made a short film entitled ‘Shelf Life’!
 date:   2018-03-29
 image:  '/images/2018-03-29-shelf-life.jpg'
+image-alt: 'A frame from the movie Shelf Life.'
 tags:   [event, shelf-life]
 ---
 

@@ -4,6 +4,7 @@ title:  Binaural Listening Tests for Accessibility
 description: Last month Lewis and Gavin tested binaural sound with 33 visually impaired participants. The two main objectives were to analyse participants’ difficulties in identifying the number of people in a scene and the perception of moving characters  when listening over a pair of headphones and see whether alternative methods of audio mixing could reduce these difficulties.
 date:   2017-04-13
 image:  '/images/2017-04-13-binaural-listening-test-for-accessibility.jpg'
+image-alt: 'A photo of surround loudspeaker array.'
 tags:   [binaural, listening test]
 ---
 

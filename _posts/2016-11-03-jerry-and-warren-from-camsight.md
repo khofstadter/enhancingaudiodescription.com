@@ -4,6 +4,7 @@ title:  Jerry and Warren from CamSight
 description: Some thoughts on our project from our advisory panel members, Jerry and Warren from Cam Sight, Cambridge.
 date:   2016-11-03
 image:  '/images/2016-11-03-jerry-and-warren-from-camsight.jpg'
+image-alt: 'Logo of Camsight.'
 tags:   [reflection]
 ---
 

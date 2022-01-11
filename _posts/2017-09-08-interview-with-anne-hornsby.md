@@ -3,6 +3,7 @@ layout: post
 title:  Interview with Anne Hornsby
 date:   2017-09-08
 image:  '/images/2017-09-08-interview-with-anne-hornsby.jpg'
+image-alt: 'A photo of Anne.'
 tags:   [interview, people]
 ---
 

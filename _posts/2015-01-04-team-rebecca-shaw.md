@@ -4,6 +4,7 @@ title:  Rebecca Shaw
 description: Project Officer
 date:   2015-01-04
 image:  '/images/team-placeholder-women1-feature.jpg'
+image-alt: 'Photo of a Greek statue.'
 image-header: '/images/team-placeholder-women1.jpg'
 tags:   [team, admin team]
 ---

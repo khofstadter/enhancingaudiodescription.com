@@ -5,5 +5,6 @@ title:  Press Publication
 description: On 22 November 2017, The Conversation published Mariana's article titled How Our New Technology Will Help Blind People ‘See’ at the Cinema.
 date:   2017-11-22 
 image:  '/images/2017-11-22-press-publication-the-conversation.jpg'
+image-alt: 'The logo of The Conversation online newspaper.'
 tags:   [press]
 ---

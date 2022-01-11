@@ -6,6 +6,7 @@ date:   2017-07-11
 image:  '/images/feature-the-screening.jpg'
 tags:   [event, presentation]
 image:  '/images/2017-07-16-celebrating-1-year-of-ead.jpg'
+image-alt: 'A photo of balloons.'
 tags:   [analysis]
 ---
 

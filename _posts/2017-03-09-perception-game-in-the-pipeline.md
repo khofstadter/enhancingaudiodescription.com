@@ -4,6 +4,7 @@ title:  ‘Perception’ Game in the Pipeline
 description: Game developer, Deep-End Games is funding their new horror video game, Perception, through Kickstarter. How is this game related to our Audio Description research?
 date:   2017-03-09
 image:  '/images/2017-03-09-perception-game-in-the-pipeline.jpg'
+image-alt: 'Illustration with a bat using echolocation.'
 tags:   [games]
 ---
 

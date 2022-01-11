@@ -4,6 +4,7 @@ title:  York Festival of Ideas
 description: We have uploaded our first podcast which contains audio extracts from Mariana’s talk at York Festival of Ideas on June 13 2016. 
 date:   2016-09-02
 image:  '/images/2016-09-02-podcast-01-ead-talk-york.jpg'
+image-alt: 'A photo of Mariana presenting.'
 tags:   [event, presentation, podcast]
 ---
 

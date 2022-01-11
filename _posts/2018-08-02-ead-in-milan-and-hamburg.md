@@ -4,6 +4,7 @@ title:  EAD in Milan and Hamburg!
 description: We haven’t published a post since March so we thought it was time we updated you on what we’ve been up to. 
 date:   2018-08-02
 image:  '/images/2018-08-02-ead-in-milan-and-hamburg.jpg'
+image-alt: 'Mariana presenting in front of an audience'
 tags:   [event]
 ---
 

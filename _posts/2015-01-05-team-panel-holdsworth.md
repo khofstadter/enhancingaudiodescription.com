@@ -4,6 +4,7 @@ title:  Lisa Holdsworth
 description: Writer and Scriptwriter
 date:   2015-01-05
 image:  '/images/team-lisa-feature.jpg'
+image-alt: 'Photo of a sound mixer.'
 image-header: '/images/team-lisa.jpg'
 tags:   [team, advisory panel]
 ---

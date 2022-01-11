@@ -4,6 +4,7 @@ title:  How can we combine touch and sound...
 description:  – as well as visual qualities – in interaction? A guest post by Emilie Giles.
 date:   2017-06-08
 image:  '/images/2017-06-08-how-can-we-combine-touch-and-sound.jpg'
+image-alt: 'A photo of textiles and electronics.'
 tags:   [electronic textiles]
 ---
 

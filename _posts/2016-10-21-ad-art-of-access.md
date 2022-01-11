@@ -4,6 +4,7 @@ title:  AD, the Art of Access, London
 description: On 21 October, the Marian gave a presentation at the Audio Description - the Art of Access Conference, in the Young Vic Theatre, London in Panel 2, The Aesthetics of Access. The presentation's title was Integrating Sound Design to Audio Description.
 date:   2016-10-21
 image:  '/images/feature-mariana.png'
+image-alt: 'A photo of Mariana standing.'
 tags:   [event, presentation, podcast]
 ---
 *Abstract:*

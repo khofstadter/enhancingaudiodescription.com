@@ -4,6 +4,7 @@ title:  Dialogue Beyond Sight Exhibition
 description: On the 13 July we traveled to London’s OXO Gallery to attend the first day of the Dialogue Beyond Sight (DBS) event. DBS is a multi-sensory exhibition featuring works by visually impaired artists and performers. 
 date:   2016-06-13
 image:  '/images/2016-05-13-dialogue-beyond-sight-exhibition.jpg'
+image-alt: 'A young girl handing out flyers for the exhibition.'
 tags:   [event, exhibition, photography]
 ---
 

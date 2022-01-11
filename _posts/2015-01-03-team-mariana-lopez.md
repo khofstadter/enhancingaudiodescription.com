@@ -5,7 +5,7 @@ description: Principal Investigator
 date:   2015-01-03
 image:  '/images/team-mariana-feature.jpg'
 image-header: '/images/team-mariana.jpg'
-image-alt: 'Mariana standing with a microphone in nature'
+image-alt: 'Mariana standing with a microphone in nature.'
 tags:   [team, research team]
 ---
 Dr Mariana López is a Senior Lecturer in Sound Production and Post Production at the Department of Theatre, Film, Television and Interactive Media at University of York, where she has been working since 2016. She has a background in music, sound design and acoustics.

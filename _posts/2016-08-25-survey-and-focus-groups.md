@@ -4,6 +4,7 @@ title:  Survey and Focus Groups
 description: As part of the first phase of Enhancing Audio Description we conducted an online/telephone survey as well as focus groups on current accessibility measures and the future of Audio Description.
 date:   2016-08-25
 image:  '/images/2016-08-25-survey-and-focus-groups.jpg'
+image-alt: 'A photo of Marina addressing a focus group in a screening room.'
 tags:   [event, data collection]
 ---
 

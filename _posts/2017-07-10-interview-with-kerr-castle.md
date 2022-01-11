@@ -3,6 +3,7 @@ layout: post
 title:  Interview with Kerr Castle
 date:   2017-07-10
 image:  '/images/2017-07-10-interview-with-kerr-castle.jpg'
+image-alt: 'A photo of Kerr.'
 tags:   [interview, people]
 ---
 

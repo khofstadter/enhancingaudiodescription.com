@@ -3,6 +3,7 @@ layout: post
 title:  Interview with María Olalla Luque and Silvia Soler
 date:   2017-07-14
 image:  '/images/2017-07-14-interview-with-maria-olalla-luque-and-silvia-soler.jpg'
+image-alt: 'A photo of Maria and Silvia.'
 tags:   [interview, people]
 ---
 

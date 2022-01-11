@@ -4,6 +4,7 @@ title:  Conference News
 description: We are thrilled to announce that we have confirmed Maria Oshodi, Director of Extant as a keynote speaker at our Conference on Accessibility in Film, Television and Interactive Media. Maria’s keynote will be followed by a demo of Flatland.
 date:   2017-03-09
 image:  '/images/2017-03-10-conference-news.jpg'
+image-alt: 'A photo of an microphone.'
 tags:   [event, conference]
 ---
 

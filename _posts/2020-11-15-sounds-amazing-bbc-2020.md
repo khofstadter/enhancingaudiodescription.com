@@ -5,6 +5,7 @@ description: On 25 Oct 2020, Mariana gave a presentation at the BBC Sounds Amazi
 date:   2020-11-15
 image:  '/images/2018-05-02-sounds-amazing-bbc.jpg'
 tags:   [event]
+image-alt: 'The logo of BBC Sounds.'
 nolink: true
 ---
 

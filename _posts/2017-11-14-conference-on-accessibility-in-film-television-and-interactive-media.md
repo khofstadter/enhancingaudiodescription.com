@@ -4,6 +4,7 @@ title:  Conference on Accessibility in Film, Television and Interactive Media
 description: On the weekend of 14-15 October we held our our first conference at the University of York. The event sought to promote communication between researchers, stakeholders in the creative industries, accessibility services, and audiences. 
 date:   2017-11-14
 image:  '/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media.jpg'
+image-alt: 'A photo of Mariana opening our conference.'
 tags:   [event, conference]
 ---
 <!--

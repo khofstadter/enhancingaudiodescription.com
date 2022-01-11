@@ -4,6 +4,7 @@ title:  Review on Our Conference
 description: We haven’t had a blog post for a while, but we are now back with some news, a new podcast and some reflections from Mariana!
 date:   2017-11-16
 image:  '/images/2017-11-16-review-on-our-conference.jpg'
+image-alt: 'A photo of Mariana addressing an audience with a microphone.'
 tags:   [event, conference, podcast, reflection]
 ---
 
