@@ -14,3 +14,7 @@ tags:   [event, presentation, podcast]
 The audio recording below features extracts from Mariana's talk at York Festival of Ideas held on 13 June 2016.  
 
 <iframe title="audio player" width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281062672&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
+
+<br>
+
+The transcript of this podcast can be found in [this PDF file](../assets/docs/transcripts/EAD-podcast-01-transcript.pdf). 

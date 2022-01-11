@@ -1,11 +1,12 @@
 ---
 layout: post-full-img-head
 title:  Judi-Lee Headman
-description: Freelance Production Sound Mixer
+description: Freelance Production Sound Mixer <br><b>Coming soon...</b>
 date:   2015-01-05
-image:  '/images/team-placeholder-women2-feature.jpg'
-image-header: '/images/team-placeholder-women2.jpg'
+image:  '/images/team-placeholder-sound-feature.jpg'
+image-header: ''
 tags:   [team, advisory panel]
+nolink: true
 ---
 Judi is 
 

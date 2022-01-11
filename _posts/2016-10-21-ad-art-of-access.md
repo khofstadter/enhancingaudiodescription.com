@@ -22,4 +22,8 @@ The presentation discussed how sound design can be integrated to AD processes th
 
 <br>
 
+We are currently transcibing this podcast.
+
+<br>
+
 Information about the whole program can be found online at [Backdoor Broadcasting Company](https://backdoorbroadcasting.net/2016/10/audio-description-the-art-of-access/).

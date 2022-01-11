@@ -1,11 +1,12 @@
 ---
 layout: post-full-img-head
 title:  Warren Wilson
-description: Community Facilitator
+description: Community Facilitator <br><b>Coming soon...</b>
 date:   2015-01-05
-image:  '/images/team-placeholder-man1-feature.jpg'
-image-header: '/images/team-placeholder-man1.jpg'
+image:  '/images/team-placeholder-sound-feature.jpg'
+image-header: ''
 tags:   [team, advisory panel]
+nolink: true
 ---
 Warren is ... 
 

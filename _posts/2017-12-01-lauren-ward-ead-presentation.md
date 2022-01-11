@@ -11,4 +11,8 @@ tags:   [event, conference, podcast]
 
 <br>
 
+We are currently transcibing this podcast.
+
+<br>
+
 Visit our [conference page](/conference-on-accessibility-in-film-television-and-interactive-media) for more information.

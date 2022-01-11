@@ -37,4 +37,8 @@ Listen to Kerr's presentation at out [Accessibility in Film Television and Inter
 
 <br>
 
+We are currently transcibing this podcast.
+
+<br>
+
 ![Kerr presenting](../images/2017-12-05-kerr-castle-ead-presentation.jpg)

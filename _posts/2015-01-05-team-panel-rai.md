@@ -1,11 +1,12 @@
 ---
 layout: post-full-img-head
 title:  Sonali Rai
-description: Broadcast Manager
+description: Broadcast Manager <br><b>Coming soon...</b>
 date:   2015-01-05
-image:  '/images/team-placeholder-women2-feature.jpg'
-image-header: '/images/team-placeholder-women2.jpg'
+image:  '/images/team-placeholder-sound-feature.jpg'
+image-header: ''
 tags:   [team, advisory panel]
+nolink: true
 ---
 Sonali is 
 

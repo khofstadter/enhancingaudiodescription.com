@@ -1,10 +1,11 @@
 ---
 layout: post-full-img-head
 title:  Mandi Lynn
-description: 
+description: <b>Coming soon...</b>
 date:   2015-01-05
-image:  '/images/team-placeholder-women1-feature.jpg'
-image-header: '/images/team-placeholder-women1.jpg'
+image:  '/images/team-placeholder-sound-feature.jpg'
+image-header: ''
 tags:   [team, advisory panel]
+nolink: true
 ---
 Mandy is ... see at [IMDb](https://www.imdb.com/name/nm1272020/).

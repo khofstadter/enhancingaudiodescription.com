@@ -1,11 +1,12 @@
 ---
 layout: post-full-img-head
 title:  Nina Hartstone
-description: Supervising Sound Editor
+description: Supervising Sound Editor <br><b>Coming soon...</b>
 date:   2015-01-10
-image:  '/images/team-placeholder-women1-feature.jpg'
-image-header: '/images/team-placeholder-women1.jpg'
+image:  '/images/team-placeholder-sound-feature.jpg'
+image-header: ''
 tags:   [team, advisory panel]
+nolink: true
 ---
 Nina is ...
 

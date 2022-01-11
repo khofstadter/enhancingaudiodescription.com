@@ -4,8 +4,14 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
+- search results display similar to blog tiles
 
-- add podcast 1 transcript
+## send to Mariana
+- list of urls where podcast/videos need transcribing or subtitles
+- didn't add "To engage with our project on Twitter please use #EnhancingAD and @Mariana_J_Lopez." to Contact page again as it is in the footer.
+- please let me know when Shelf Life is captioned and can be embedded
+- added Elfed Howells' and John Whiston' name to the Contact page next to Lewis' and Morgan's
+- can't see any monitisation or notification on credit issues with the Audio Game Review video on YouTube (https://youtu.be/bOJu8zfXytc)
 - ask Mariana: López, M. , BBC Sounds Amazing: Celebrating Innovation in Audio. 15th October 2020 [There is a video for this and I can ask for permission to use it, but it would have to be captioned as well]
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
 
@@ -23,16 +29,9 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ### Home
 - more integrated mailing list signup form (without new page opening up)
 
-### Team 
-- do we need a heading for Lewis and Morgan e.g. Honorary Mentions
-- should we add other people from the last advisory panel (EAD I) as honorary mentions?
-
-### Contact
-- shall we add/mention Mariana's Twitter handle?
-
 ### Output
 #### publications
-- ! add publications (journal and conference as well?) as new posts (individual files) with links to the Output page
+- ! add publications (journals and maybe conferences as well - gradually as there are many) as new posts (individual files) with links to the Output page
 
 #### podcasts
 - SoundCloud mini-player still not working
@@ -41,9 +40,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ### general
 - add tag filter to footer where tags link to the tag page (to specific headings)
 - how to add more authors? (so I can display the author with an avatar for specific posts e.g. Mariana wrote some and Morgan as well. And this way we could have many authors e.g. contributions with more appropriate credits)
-- ! the search results still have a hyperlink on the feature images and the title and they don't display all info under the image
 - provide captions for videos and audio?
-- can we embed Shelf Life or Pearl?
 - how can I design a feature image that can be used as an OpenGraph for Facebook/Twitter, etc? - do I need to?
 - shall I add meta to each page/post separately to aid SEO?
 - how come site folder is not seen in GitHub Desktop?
@@ -56,8 +53,10 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
 
 ## after switch
+- check google analytics
 
 ## log
+- 2022-01-11 new suggestions and content from M addeded
 - 2022-01-08 sent summery video to M
 - 2022-01-07 smaller team photos, smaller fixes for access, emma and lisa added to a.panel
 - 2022-01-06 main MailChimp integration fixed, however would be good to have a better UX
