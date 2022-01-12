@@ -8,7 +8,7 @@ image-alt: 'A photo of an microphone.'
 tags:   [event, conference]
 ---
 
-<p><iframe title="Flatland" src="https://www.youtube.com/embed/5HM-ae2Ws74" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe title="Flatland." src="https://www.youtube.com/embed/5HM-ae2Ws74" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 ## Links
 - [Maria Oshodi](https://extant.org.uk/people/maria-oshodi/)

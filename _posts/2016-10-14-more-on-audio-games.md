@@ -10,7 +10,7 @@ tags:   [audio games, binaural audio]
 
 All visual content available in the video is accessible through the soundtrack. Huge thanks to the game developers [Somethin’ Else](https://somethinelse.com/) and [Dowino](https://www.dowino.com/en/) for allowing us to use gameplay footage on our website.
 
-<p><iframe title="Audio Games" src="https://www.youtube.com/embed/bOJu8zfXytc" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe title="Audio Games." src="https://www.youtube.com/embed/bOJu8zfXytc" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 
 

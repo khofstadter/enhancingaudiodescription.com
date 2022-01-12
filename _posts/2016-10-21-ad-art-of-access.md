@@ -19,7 +19,7 @@ The presentation discussed how sound design can be integrated to AD processes th
 
 ## EAD Podcast 02
 
-<iframe title="audio player" width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/292300528&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
+<iframe title="EAD podcast 02." width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/292300528&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
 
 <br>
 

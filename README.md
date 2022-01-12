@@ -4,8 +4,6 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-- (with Artem) search results display similar to blog tiles
--  make meaningful alt texts (iframe titles as well)
 -  check access with software
 -  send to Warren
 

@@ -15,6 +15,6 @@ He strongly believes in using off-the-shelf products wherever possible, and not 
 
 See Andre also on Native Instruments and the BBC.
 
-<p><iframe title="Andre Louis" src="https://www.youtube.com/embed/Q5pTfF-xFAU" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe title="A converstation with Andre Louis." src="https://www.youtube.com/embed/Q5pTfF-xFAU" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 See Andre also on [Native Instruments](https://blog.native-instruments.com/talking-keyboards-with-andre-louis/) and the [BBC](https://www.bbc.co.uk/events/e4vgfx/live/cg3v4f).
