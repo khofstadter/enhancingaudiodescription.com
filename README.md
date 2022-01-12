@@ -57,7 +57,8 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - check google analytics
 
 ## log
-- 2022-01-11 new suggestions and content from M addeded
+- 2022-01-12 search.json changed to be consistent with article.html function
+- 2022-01-11 new suggestions and content from M added
 - 2022-01-08 sent summery video to M
 - 2022-01-07 smaller team photos, smaller fixes for access, emma and lisa added to a.panel
 - 2022-01-06 main MailChimp integration fixed, however would be good to have a better UX
