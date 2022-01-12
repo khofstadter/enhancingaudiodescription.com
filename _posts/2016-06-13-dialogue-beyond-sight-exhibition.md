@@ -14,4 +14,4 @@ We are very grateful for the organisers’ support and attendees’ interest in 
 
 See photos taken by Krisztián at the exhibition below. 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tedor/albums/72157671216242465" title="2016-07-13 Dialogue Beyond Sight - OXO Gallery"><img src="https://live.staticflickr.com/8729/27768264564_4913ea0242_h.jpg" width="1200" height="1600" alt="2016-07-13 Dialogue Beyond Sight - OXO Gallery"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" title="Flickr images" href="https://www.flickr.com/photos/tedor/albums/72157671216242465" title="2016-07-13 Dialogue Beyond Sight - OXO Gallery"><img src="https://live.staticflickr.com/8729/27768264564_4913ea0242_h.jpg" width="1200" height="1600" alt="2016-07-13 Dialogue Beyond Sight - OXO Gallery"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
