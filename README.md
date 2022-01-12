@@ -5,6 +5,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ## TODO
 ### now
 -  check access with software
+   -  check again: https://platform.elevin.cloud/
 -  send to Warren
 
 ## send to Mariana
@@ -55,7 +56,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - check google analytics
 
 ## log
-- 2022-01-12 search.json changed to be consistent with article.html function
+- 2022-01-12 search.json changed to be consistent with article.html function, access checked with online tools and then link sent to Warren
 - 2022-01-11 new suggestions and content from M added
 - 2022-01-08 sent summery video to M
 - 2022-01-07 smaller team photos, smaller fixes for access, emma and lisa added to a.panel
