@@ -4,9 +4,18 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
--  check access with software
-   -  check again: https://platform.elevin.cloud/
--  send to Warren
+- waiting for Mariana for final feedback
+- work on new logo
+
+## after switch
+- add Google Analytics
+- Medium article: what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
+
+## check accessibility 
+-  https://platform.elevin.cloud/
+-  https://www.experte.com/accessibility
+-  two things in Warren's email
+
 
 ## send to Mariana
 - list of urls where podcast/videos need transcribing or subtitles
@@ -16,15 +25,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - can't see any monitisation or notification on credit issues with the Audio Game Review video on YouTube (https://youtu.be/bOJu8zfXytc)
 - ask Mariana: López, M. , BBC Sounds Amazing: Celebrating Innovation in Audio. 15th October 2020 [There is a video for this and I can ask for permission to use it, but it would have to be captioned as well]
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
-
-- check accessibility - continue with https://www.experte.com/accessibility
-  - also check with https://platform.elevin.cloud/
-  - check with Warren
-  - consider seeking advices from 
-    - https://www.york.ac.uk/about/equality/digital-accessibility/ and
-    - https://groups.google.com/a/york.ac.uk/forum/#!forum/accessibledocuments-group
-    - check: https://www.york.ac.uk/staff/it/staff-digital-skills-framework/
-- new logo
+- quotes from AP (https://docs.google.com/document/d/1wMHDEZ-I1-CyG3JxN9FuZTRydVWMDjLRf2MCM8wpttg/edit) - where to add?
   
 ### Home
 - more integrated mailing list signup form (without new page opening up)
@@ -34,7 +35,6 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - ! add publications (journals and maybe conferences as well - gradually as there are many) as new posts (individual files) with links to the Output page
 
 #### podcasts
-- SoundCloud mini-player still not working
 - add an audio symbol to the feature images in the post grid where the podcast has a media file e.g. podcast or video - but not to the image, instead, in a similar way to how the data is added to the tiles (so that it is not seen on the feature image added on the top of the post)
 
 ### general
@@ -47,13 +47,6 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - maybe remove the dates from the post tiles and add the date from the front-matter to the article.html (with new CSS)
 - check Shelf Life link in Kling Gut
 - random gallery after new page is loaded e.g. something dynamic
-
-## before switch
-- export analytics (Google or other)
-- what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
-
-## after switch
-- check google analytics
 
 ## log
 - 2022-01-12 search.json changed to be consistent with article.html function, access checked with online tools and then link sent to Warren
