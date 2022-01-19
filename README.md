@@ -4,7 +4,9 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-- waiting for Mariana for final feedback
+- smaller images for team posts:
+  - hero2 added (check with m)
+  - make image sizes consistent - make new Gimp project file
 - work on new logo
 
 ## after switch
@@ -16,14 +18,13 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 -  https://www.experte.com/accessibility
 -  two things in Warren's email
 
-
 ## send to Mariana
 - list of urls where podcast/videos need transcribing or subtitles
 - didn't add "To engage with our project on Twitter please use #EnhancingAD and @Mariana_J_Lopez." to Contact page again as it is in the footer.
 - please let me know when Shelf Life is captioned and can be embedded
 - added Elfed Howells' and John Whiston' name to the Contact page next to Lewis' and Morgan's
 - can't see any monitisation or notification on credit issues with the Audio Game Review video on YouTube (https://youtu.be/bOJu8zfXytc)
-- ask Mariana: López, M. , BBC Sounds Amazing: Celebrating Innovation in Audio. 15th October 2020 [There is a video for this and I can ask for permission to use it, but it would have to be captioned as well]
+- ask Mariana: López, M., BBC Sounds Amazing: Celebrating Innovation in Audio. 15th October 2020 [There is a video for this and I can ask for permission to use it, but it would have to be captioned as well]
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
 - quotes from AP (https://docs.google.com/document/d/1wMHDEZ-I1-CyG3JxN9FuZTRydVWMDjLRf2MCM8wpttg/edit) - where to add?
   
@@ -49,6 +50,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - random gallery after new page is loaded e.g. something dynamic
 
 ## log
+- 2022-01-19 some new posts and minor amendments as well as a new hero element (hero2) in css for the team posts
 - 2022-01-12 search.json changed to be consistent with article.html function, access checked with online tools and then link sent to Warren
 - 2022-01-11 new suggestions and content from M added
 - 2022-01-08 sent summery video to M

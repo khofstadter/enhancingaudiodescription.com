@@ -4,7 +4,7 @@ title:  Sonali Rai
 description: Broadcast and Audio Description Manager
 date:   2015-01-05
 image:  '/images/team-sonali-feature.jpg'
-image-alt: 'Photo of a sound mixer.'
+image-alt: 'Photo of Sonali.'
 image-header: '/images/team-sonali.jpg'
 tags:   [team, advisory panel]
 ---
