@@ -69,6 +69,22 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - 2021-11-23 exporting content from WordPress to Jekyll, most done for press and media page
 - 2021-11-22 theme installed, minor changes made
 
+## TSO domain to point to GitHub repository
+- check whether new updates are live
+- change domain name in CNAME file and in repo settings
+- in TSO Custom DNS records add 
+  - CNAME record that points www.enhancingaudiodescription.com to khofstadter.github.io
+- confirm DNS settings with Terminal (step 7 @ https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) or with an online DNS look up tool 
+- In TSOHost, for the apex domain www.enhancingaudiodescription.com, setup 
+  - at lease one ALIAS, ANAME, or A record with your DNS provider.
+  - one www subdomain (?)
+  - do I create an AAAA record for IPv6 support? 
+  - create four A records for: 
+    - 185.199.108.153
+    - 185.199.109.153
+    - 185.199.110.153
+    - 185.199.111.153
+
 ## resources
 - https://www.webaccessibility.com/ (one free monitoring per email account)
 - https://webaccess.berkeley.edu/resources/tips/web-accessibility
