@@ -4,10 +4,8 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-- smaller images for team posts:
-  - hero2 added (check with m)
-  - make image sizes consistent - make new Gimp project file
 - work on new logo
+- switch DNS
 
 ## after switch
 - add Google Analytics
@@ -48,8 +46,10 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - maybe remove the dates from the post tiles and add the date from the front-matter to the article.html (with new CSS)
 - check Shelf Life link in Kling Gut
 - random gallery after new page is loaded e.g. something dynamic
+- use ' instead of " when quoting or for titles
 
 ## log
+- 2022-01-20 change all team pages
 - 2022-01-19 some new posts and minor amendments as well as a new hero element (hero2) in css for the team posts
 - 2022-01-12 search.json changed to be consistent with article.html function, access checked with online tools and then link sent to Warren
 - 2022-01-11 new suggestions and content from M added
