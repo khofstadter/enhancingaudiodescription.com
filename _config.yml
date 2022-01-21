@@ -85,7 +85,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example demo-men
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: UA-79665981-1
 
 
 #-------------------------------

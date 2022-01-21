@@ -5,9 +5,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ## TODO
 ### now
 - work on new logo
-- switch DNS
-
-## after switch
+- try move h1 and h2 in team pages out of hero (maybe photo will be more align with text)
 - add Google Analytics
 - Medium article: what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
 
@@ -49,7 +47,8 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - use ' instead of " when quoting or for titles
 
 ## log
-- 2022-01-20 change all team pages
+- 2022-01-21 added google analytics ID
+- 2022-01-20 change all team pages, DNS switch, TSO help, SSL seems to work all fine (although Custom domain checking in repo settings/pages is very slow and sometimes comes with an error message)
 - 2022-01-19 some new posts and minor amendments as well as a new hero element (hero2) in css for the team posts
 - 2022-01-12 search.json changed to be consistent with article.html function, access checked with online tools and then link sent to Warren
 - 2022-01-11 new suggestions and content from M added
@@ -68,22 +67,6 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - 2021-11-24 using hero.html for team page with additional support from details/summary html element.  having difficulties with external_url (redirect) without using a custom domain (it works on localhost and custom domain, now subdomain ead.khofstadter.com), but when publishing the site with the github url, the domain name (base url?) is added in front of the redirect url.  perhaps the idea is to always test in a subdomain (custom domain's subdomain).  menu rearranged with simply renaming them e.g. 1-home.md, 2-press.md, .. 
 - 2021-11-23 exporting content from WordPress to Jekyll, most done for press and media page
 - 2021-11-22 theme installed, minor changes made
-
-## TSO domain to point to GitHub repository
-- check whether new updates are live
-- change domain name in CNAME file and in repo settings
-- in TSO Custom DNS records add 
-  - CNAME record that points www.enhancingaudiodescription.com to khofstadter.github.io
-- confirm DNS settings with Terminal (step 7 @ https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) or with an online DNS look up tool 
-- In TSOHost, for the apex domain www.enhancingaudiodescription.com, setup 
-  - at lease one ALIAS, ANAME, or A record with your DNS provider.
-  - one www subdomain (?)
-  - do I create an AAAA record for IPv6 support? 
-  - create four A records for: 
-    - 185.199.108.153
-    - 185.199.109.153
-    - 185.199.110.153
-    - 185.199.111.153
 
 ## resources
 - https://www.webaccessibility.com/ (one free monitoring per email account)
