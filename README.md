@@ -6,8 +6,6 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 ### now
 - work on new logo
 - try move h1 and h2 in team pages out of hero (maybe photo will be more align with text)
-- add Google Analytics
-- Medium article: what I've learnt when moving the EAD website from Wordpress to GitHub Pages?
 
 ## check accessibility 
 -  https://platform.elevin.cloud/
