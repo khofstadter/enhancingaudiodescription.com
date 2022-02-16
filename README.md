@@ -4,6 +4,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
+- after 22nd change post description and date
 - work on new logo
 - try move h1 and h2 in team pages out of hero (maybe photo will be more align with text)
 
@@ -45,6 +46,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - use ' instead of " when quoting or for titles
 
 ## log
+- 2022-02-16 some posts added 
 - 2022-01-21 added google analytics ID
 - 2022-01-20 change all team pages, DNS switch, TSO help, SSL seems to work all fine (although Custom domain checking in repo settings/pages is very slow and sometimes comes with an error message)
 - 2022-01-19 some new posts and minor amendments as well as a new hero element (hero2) in css for the team posts
