@@ -6,7 +6,7 @@ date:   2022-02-21
 image:  '/images/2022-02-25-watch-shelf-life.jpg'
 image-alt: 'A frame from the movie Shelf Life.'
 tags:   [media, Shelf-Life]
-pub: false
+grid: false
 ---
 
 Shelf Life (Balla, 2018) was produced by students at the Department of <abbr title="Theatre, Film, Television and Interactive Media">TFTI</abbr> at the University of York in 2018. By using our EAD sound design methods, the soundtrack of Shelf Life provides an inclusive and accessible experience for visually impaired audiences. This experience is an alternative to traditional <abbr title="Audio Desciption">AD</abbr> with potential advantages for storytelling. 
