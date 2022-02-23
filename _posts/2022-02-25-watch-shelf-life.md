@@ -6,10 +6,9 @@ date:   2022-02-21
 image:  '/images/2022-02-25-watch-shelf-life.jpg'
 image-alt: 'A frame from the movie Shelf Life.'
 tags:   [media, Shelf-Life]
-grid: false
 ---
 
-Shelf Life (Balla, 2018) was produced by students at the Department of <abbr title="Theatre, Film, Television and Interactive Media">TFTI</abbr> at the University of York in 2018. By using our EAD sound design methods, the soundtrack of Shelf Life provides an inclusive and accessible experience for visually impaired audiences. This experience is an alternative to traditional <abbr title="Audio Desciption">AD</abbr> with potential advantages for storytelling. 
+Shelf Life (Balla, 2018) was produced by students at the Department of Theatre, Film, Television and Interactive Media at the University of York in 2018. By using our EAD sound design methods, the soundtrack of Shelf Life provides an inclusive and accessible experience for visually impaired audiences. This experience is an alternative to traditional <abbr title="Audio Desciption">AD</abbr> with advantages for storytelling. 
 
 Besides sound spatialisation with binaural audio, our EAD methods include first-person narration and 'the addition of sound effects to elicit information on actions, indicate the use of establishing shots, convey abstract scenes as well as indicate the presence of characters, time and place' ([Lopez et al. 2020](https://www.tandfonline.com/doi/abs/10.1080/25741136.2020.1832830?journalCode=rjmp21)). Our goal in producing this film was to understand how our creative sound design practices can be used by filmmakers effectively and how this understanding could be integrated into the curriculum of film students. 
 

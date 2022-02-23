@@ -4,7 +4,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-- after 22nd change post description and date
+- after 22nd change post description and date (maybe 'watch shelf life' too)
 - work on new logo
 - try move h1 and h2 in team pages out of hero (maybe photo will be more align with text)
 
