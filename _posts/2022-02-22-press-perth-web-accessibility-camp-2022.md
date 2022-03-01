@@ -6,5 +6,5 @@ description: On 22 February 2022, Mariana will give a talk titled 'Accessibility
 date:   2022-02-16
 image:  '/images/2022-02-22-press-perth-web-accessibility-camp-2022.jpg'
 image-alt: 'Event logo.'
-tags:   [press]
+tags:   [event]
 ---
