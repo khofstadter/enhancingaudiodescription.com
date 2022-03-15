@@ -23,7 +23,7 @@ The presentation discussed how sound design can be integrated to AD processes th
 
 <br>
 
-We are currently transcibing this podcast.
+We are currently transcribing this podcast.
 
 <br>
 

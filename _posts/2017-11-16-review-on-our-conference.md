@@ -20,7 +20,7 @@ The audio recording below collates Vox Pops where people gave us feedback on our
 
 <br>
 
-We are currently transcibing this podcast.
+We are currently transcribing this podcast.
 
 <br><br>
 

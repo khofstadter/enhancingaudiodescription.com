@@ -12,7 +12,7 @@ tags:   [event, conference, podcast]
 
 <br>
 
-We are currently transcibing this podcast.
+We are currently transcribing this podcast.
 
 <br>
 
