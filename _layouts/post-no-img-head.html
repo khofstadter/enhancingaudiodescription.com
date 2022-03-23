@@ -6,7 +6,13 @@ layout: default
   <div class="container">
     <!-- <div class="row"> -->      
           <h1 class="post__title">{{ page.title | escape }}</h1>
-  
+          {% if page.tags.size >= 1 %}
+          <div class="post__tags">
+            {% for tag in page.tags %}
+              <a href="{{ site.baseurl }}/tags#{{ tag }}" class="post__tag">{{ tag }}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
           <div class="post__meta">
             <!-- <a href="{{site.baseurl}}/about/" class="post__author-image">
               <img class="lazy" data-src="{{site.author.author__avatar}}" alt="{{site.author.author__name}}">
@@ -29,9 +35,13 @@ layout: default
 <div class="container animate">
   <article class="post">
     <div class="post__content">
+      {%if page.image %}
+          <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.image-alt}}">
+      {%endif %}
+      <br><br>
       {%if page.description %}
       {{ page.description }}
-      <br><br><br><br>
+      <br><br>
       {% endif %}
       {{ content }}
       <br><br>

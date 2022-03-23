@@ -12,5 +12,3 @@ image-alt: 'The logo of BBC Sounds.'
 
 <br>
 <br>
-
-![BBC Sounds Amazing Logo](/images/2018-05-02-sounds-amazing-bbc.jpg)

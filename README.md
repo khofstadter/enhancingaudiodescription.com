@@ -45,6 +45,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - use ' instead of " when quoting or for titles
 
 ## log
+- 2022-02-23 logo added
 - 2022-02-16 some posts added 
 - 2022-01-21 added google analytics ID
 - 2022-01-20 change all team pages, DNS switch, TSO help, SSL seems to work all fine (although Custom domain checking in repo settings/pages is very slow and sometimes comes with an error message)

@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Enhancing Audio Description
-logo: # /images/EAD-old-logo.png
+logo: /images/EAD-old-logo.png
 description: Project website for Enhancing Audio Description
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
