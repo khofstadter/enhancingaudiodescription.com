@@ -4,19 +4,14 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## TODO
 ### now
-- work on new logo
 - try move h1 and h2 in team pages out of hero (maybe photo will be more align with text)
 
-## check accessibility 
+## accessibility 
 -  https://platform.elevin.cloud/
 -  https://www.experte.com/accessibility
 -  two things in Warren's email
 
 ## send to Mariana
-- list of urls where podcast/videos need transcribing or subtitles
-- didn't add "To engage with our project on Twitter please use #EnhancingAD and @Mariana_J_Lopez." to Contact page again as it is in the footer.
-- please let me know when Shelf Life is captioned and can be embedded
-- added Elfed Howells' and John Whiston' name to the Contact page next to Lewis' and Morgan's
 - can't see any monitisation or notification on credit issues with the Audio Game Review video on YouTube (https://youtu.be/bOJu8zfXytc)
 - ask Mariana: López, M., BBC Sounds Amazing: Celebrating Innovation in Audio. 15th October 2020 [There is a video for this and I can ask for permission to use it, but it would have to be captioned as well]
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
@@ -33,6 +28,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - add an audio symbol to the feature images in the post grid where the podcast has a media file e.g. podcast or video - but not to the image, instead, in a similar way to how the data is added to the tiles (so that it is not seen on the feature image added on the top of the post)
 
 ### general
+- have more unified team pictures in hi-res
 - add tag filter to footer where tags link to the tag page (to specific headings)
 - how to add more authors? (so I can display the author with an avatar for specific posts e.g. Mariana wrote some and Morgan as well. And this way we could have many authors e.g. contributions with more appropriate credits)
 - provide captions for videos and audio?
@@ -45,6 +41,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - use ' instead of " when quoting or for titles
 
 ## log
+- 2022-03-30 transparent logo, Michael, BBC post
 - 2022-02-23 logo added
 - 2022-02-16 some posts added 
 - 2022-01-21 added google analytics ID
