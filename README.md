@@ -2,9 +2,6 @@
 ## Overview
 A new website to replace the old one: http://enhancingaudiodescription.com/
 
-## TODO
-### now
-- try move h1 and h2 in team pages out of hero (maybe photo will be more align with text)
 
 ## accessibility 
 -  https://platform.elevin.cloud/
@@ -17,15 +14,19 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
 - quotes from AP (https://docs.google.com/document/d/1wMHDEZ-I1-CyG3JxN9FuZTRydVWMDjLRf2MCM8wpttg/edit) - where to add?
   
-### Home
+### home
 - more integrated mailing list signup form (without new page opening up)
 
-### Output
+### output
 #### publications
 - ! add publications (journals and maybe conferences as well - gradually as there are many) as new posts (individual files) with links to the Output page
 
 #### podcasts
 - add an audio symbol to the feature images in the post grid where the podcast has a media file e.g. podcast or video - but not to the image, instead, in a similar way to how the data is added to the tiles (so that it is not seen on the feature image added on the top of the post)
+
+#### team
+- try move h1 and h2 in team pages out of hero (maybe photo will be more align with text)
+- perhaps add IMBD logo and link to people's pages?
 
 ### general
 - have more unified team pictures in hi-res
@@ -41,7 +42,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - use ' instead of " when quoting or for titles
 
 ## log
-- 2022-04-05 new logo and link for last 'press-bbc-sound' post 
+- 2022-04-05 new logo and link for last 'press-bbc-sound' post, anna berkman
 - 2022-03-30 transparent logo, Michael, BBC post
 - 2022-02-23 logo added
 - 2022-02-16 some posts added 
