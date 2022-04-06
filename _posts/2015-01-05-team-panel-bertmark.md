@@ -1,6 +1,6 @@
 ---
 layout: post-team
-title:  Anna Berkman
+title:  Anna Bertmark
 description: Sound Designer and Sound Editor
 date:   2015-01-05
 image:  '/images/team-anna-feature.jpg'
