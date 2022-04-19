@@ -42,6 +42,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - use ' instead of " when quoting or for titles
 
 ## log
+- 2022-04-19 new event added
 - 2022-04-05 new logo and link for last 'press-bbc-sound' post, anna berkman
 - 2022-03-30 transparent logo, Michael, BBC post
 - 2022-02-23 logo added
