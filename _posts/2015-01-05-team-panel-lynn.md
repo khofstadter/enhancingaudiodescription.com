@@ -1,7 +1,7 @@
 ---
 layout: post-team
 title:  Mandi Lynn
-description: Photographer
+description: Photographer and Director
 date:   2015-01-05
 image:  '/images/team-mandi-feature.jpg'
 image-alt: 'Photo of Mandi.'
