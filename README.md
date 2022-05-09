@@ -2,7 +2,6 @@
 ## Overview
 A new website to replace the old one: http://enhancingaudiodescription.com/
 
-
 ## accessibility 
 -  https://platform.elevin.cloud/
 -  https://www.experte.com/accessibility
@@ -42,6 +41,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - use ' instead of " when quoting or for titles
 
 ## log
+- 2022-05-09 new event added
 - 2022-04-19 new event added
 - 2022-04-05 new logo and link for last 'press-bbc-sound' post, anna berkman
 - 2022-03-30 transparent logo, Michael, BBC post
