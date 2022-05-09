@@ -4,7 +4,6 @@ title: Press
 permalink: /press/
 image: 
 ---
-
 <head>
 <style>
 .page__info {

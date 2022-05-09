@@ -1,13 +1,23 @@
 ---
-layout: default
+layout: page
 title: Events
 permalink: /events/
 image: 
 video_embed: 
 ---
 
+<head>
+<style>
+.page__info {
+  max-width: 1024px;
+  }
+.page {
+  max-width: 1024px;
+}
+</style>
+</head>
+
 <div class="container">
-<h1>Events</h1>
   <div class="row animate">
     {% if site.posts.size > 0 %}
       {% for post in site.posts %}
