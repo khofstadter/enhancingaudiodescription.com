@@ -20,7 +20,7 @@ image:
   <h2>Videos</h2>
     <article class="post">
       <div class="post__content">
-      <p><iframe title="EAD introduction video." src="https://www.youtube.com/embed/JkbhY-Q8reI" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+      <p><iframe title="Pearl (film)." src="https://player.vimeo.com/video/445572886?h=608cbbdeca" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
       </div>
     </article>
     This section contains a list of blog posts featuring our videos.  
