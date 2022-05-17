@@ -43,6 +43,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - use ' instead of " when quoting or for titles
 
 ## log
+more up to date logs added to GitHub pushes
 - 2022-05-13 media page rearranged
 - 2022-05-09 new event added
 - 2022-04-19 new event added
