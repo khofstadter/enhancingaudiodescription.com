@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Internships
-description: We are delighted to announce that Enhancing Audio Description II will be supporting a number of internships throughout the course of the 4 year project. The initial two internships are now being advertised to students across the University of York and are currently open for applications!
+description: We are delighted to announce that our project will be supporting a number of internships throughout the course of the 4 year project. The initial two internships are now being advertised to students across the University of York and are currently open for applications!
 date:   2022-05-17
 image:  '/images/2022-05-17-internships.jpg'
 image-alt: 'Event logo.'

@@ -1,13 +1,14 @@
 ---
-layout: post
-title: EAD II features on BBC World Service's Digital Planet Radio!
+layout: post-no-img-head
+title: BBC World Service's Digital Planet Radio
 description: We are delighted to tell you about a recent opportunity where Mariana and our project were featured in a series of accessibility segments on BBC World Service's Digital Planet, a weekly tech radio show.
 date:   2022-05-26
 image:  '/images/2022-05-26-press-bbc-sounds-digital-planet.jpg'
-image-alt: 'Microphone.'
+image-alt: 'Digital Planet Logo.'
 tags:   [press]
 ---
 
+![Microphone](../images/2022-05-26-press-bbc-sounds-digital-planet-mic.jpg)
 
 In the three-part series, hosted by blind technology journalist - Ferne Lulham, listeners were introduced to a range of accessibility topics including coverage of our own exciting project!
 
@@ -32,3 +33,5 @@ Listen to the full report [here](https://www.bbc.co.uk/sounds/play/w3ct1ltf). Fe
 <br>
 
 By Becky Shaw
+
+![Microphone](../images/2022-05-26-press-bbc-sounds-digital-planet.jpg)
