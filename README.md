@@ -10,8 +10,6 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 -  two things in Warren's email
 
 ## send to Mariana
-- can't see any monitisation or notification on credit issues with the Audio Game Review video on YouTube (https://youtu.be/bOJu8zfXytc)
-- ask Mariana: López, M., BBC Sounds Amazing: Celebrating Innovation in Audio. 15th October 2020 [There is a video for this and I can ask for permission to use it, but it would have to be captioned as well]
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
 - quotes from AP (https://docs.google.com/document/d/1wMHDEZ-I1-CyG3JxN9FuZTRydVWMDjLRf2MCM8wpttg/edit) - where to add?
   
