@@ -2,7 +2,7 @@
 # Site Settings
 title: Enhancing Audio Description
 logo: /images/EAD-logo-2.png
-description: Project website for Enhancing Audio Description
+description: Enhancing Audio Description II - implementing accessible, personalised and inclusive film and television experiences for visually impaired audiences
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.

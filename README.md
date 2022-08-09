@@ -28,6 +28,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 - perhaps add IMBD logo and link to people's pages?
 
 ### general
+- how to add special characters e.g. ':' and '&' to front matter?
 - have more unified team pictures in hi-res
 - add tag filter to footer where tags link to the tag page (to specific headings)
 - how to add more authors? (so I can display the author with an avatar for specific posts e.g. Mariana wrote some and Morgan as well. And this way we could have many authors e.g. contributions with more appropriate credits)
