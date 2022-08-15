@@ -55,4 +55,17 @@ image:
   </div>
 </div>
 
+## Interns
+<div class="container">
+  <div class="row animate">
+    {% if site.posts.size > 0 %}
+      {% for post in site.posts %}
+        {% if post.tags contains "intern"%}
+        {% include article-no-date.html %}
+         {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
 We would like to thank [Lewis Thresh](https://www.linkedin.com/in/lewis-thresh-59636510b/), [Morgan French](https://www.linkedin.com/in/morgan-french-19a437160/), [Elfed Howells](https://www.linkedin.com/in/elfedhowells/) and [John Whiston](https://rts.org.uk/person/john-whiston), whose work contributed to the success of the first part of our EAD research in 2016-2018.
