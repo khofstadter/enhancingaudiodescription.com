@@ -2,26 +2,32 @@
 ## Overview
 A new website to replace the old one: http://enhancingaudiodescription.com/
 
-#now separate blog grid from home page and have a new page for it called 'Blog'
-
-## accessibility 
+## accessibility checks
 -  https://platform.elevin.cloud/
 -  https://www.experte.com/accessibility
 -  two things in Warren's email
 
-## send to Mariana
+## resources
+- https://www.webaccessibility.com/ (one free monitoring per email account)
+- https://webaccess.berkeley.edu/resources/tips/web-accessibility
+- https://www.washington.edu/accessibility/web/
+- https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/
+
+## todo 
+### general
+- separate blog grid from home page and have a new page for it called 'Blog'
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
 - quotes from AP (https://docs.google.com/document/d/1wMHDEZ-I1-CyG3JxN9FuZTRydVWMDjLRf2MCM8wpttg/edit) - where to add?
-  
+
 ### home
 - more integrated mailing list signup form (without new page opening up)
 
 ### output
 #### publications
-- ! add publications (journals and maybe conferences as well - gradually as there are many) as new posts (individual files) with links to the Output page
+- ! add publications (journals and maybe conferences as well — gradually as there are many) as new posts (individual files) with links to the Output page
 
 #### podcasts
-- add an audio symbol to the feature images in the post grid where the podcast has a media file e.g. podcast or video - but not to the image, instead, in a similar way to how the data is added to the tiles (so that it is not seen on the feature image added on the top of the post)
+- add an audio symbol to the feature images in the post grid where the podcast has a media file e.g. podcast or video,  but not to the image, instead, in a similar way to how the data is added to the tiles (so that it is not seen on the feature image added on the top of the post)
 
 #### team
 - try move h1 and h2 in team pages out of hero (maybe photo will be more align with text)
@@ -70,9 +76,3 @@ more up to date logs added to GitHub pushes
 - 2021-11-24 using hero.html for team page with additional support from details/summary html element.  having difficulties with external_url (redirect) without using a custom domain (it works on localhost and custom domain, now subdomain ead.khofstadter.com), but when publishing the site with the github url, the domain name (base url?) is added in front of the redirect url.  perhaps the idea is to always test in a subdomain (custom domain's subdomain).  menu rearranged with simply renaming them e.g. 1-home.md, 2-press.md, .. 
 - 2021-11-23 exporting content from WordPress to Jekyll, most done for press and media page
 - 2021-11-22 theme installed, minor changes made
-
-## resources
-- https://www.webaccessibility.com/ (one free monitoring per email account)
-- https://webaccess.berkeley.edu/resources/tips/web-accessibility
-- https://www.washington.edu/accessibility/web/
-- https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown/
