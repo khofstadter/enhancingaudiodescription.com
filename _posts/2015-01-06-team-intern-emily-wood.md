@@ -1,6 +1,6 @@
 ---
 layout: post-team
-title:  Emily Clark
+title:  Emily Wood
 description: Student Intern
 date:   2015-01-04
 image:  '/images/team-intern-emily-feature.jpg'
