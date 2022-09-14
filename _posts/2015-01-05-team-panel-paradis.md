@@ -1,14 +1,36 @@
 ---
-layout: post-full-img-head
+layout: post-team
 title:  Dr Matthew Paradis
-description: Senior Sound Engineer at BBC <br><b>Coming soon...</b>
+description: Lead R&D Engineer at BBC
 date:   2015-01-05
-image:  '/images/team-placeholder-sound-feature.jpg'
-image-alt: 'Photo of a sound mixer.'
-image-header: ''
+image:  '/images/team-matthew-feature.jpg'
+image-alt: 'Photo of a Matthew.'
+image-header: '/images/team-matthew.jpg'
 tags:   [team, advisory panel]
-nolink: true
 ---
-Matthew is ...
 
-https://www.bbc.co.uk/rd/people/matt-paradis
+<!-- begin hero -->
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="hero2__inner">
+          <div class="hero2__left">
+            <h1 class="post__title">{{ page.title | escape }}</h1>
+          {%if page.description %}
+            {{ page.description }}
+          {% endif %}
+          <br><br>
+          <p>
+            Matthew Paradis is a Lead R&D Engineer in the <a href="https://www.bbc.co.uk/rd/people/matt-paradis">BBC R&D Audio</a> team and an honorary research associate of the University of York. For the past 6 years he has worked on the development of personalised, interactive and accessible media services.
+            <br><br>
+            A specific focus has been the application of Next Generation Audio technologies and their ability to allow broadcasters to deliver these services to the audience. Alongside this work he has been investigating automated approaches to audio mixing and monitoring to improve broadcast speech intelligibility.</p>
+          <br>
+              <img class="lazy" data-src="../images/team-panel-dolby.png" alt="Dolby logo">
+           </div>
+          <div class="hero2__right">
+              <img class="lazy" data-src="{{page.image-header}}" alt="{{page.image-alt}}">
+        </div>
+      </div>
+    </div>
+  </div>
+
