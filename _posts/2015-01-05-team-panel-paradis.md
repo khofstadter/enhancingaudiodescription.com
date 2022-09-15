@@ -24,6 +24,7 @@ tags:   [team, advisory panel]
             Matthew Paradis is a Lead R&D Engineer in the <a href="https://www.bbc.co.uk/rd/people/matt-paradis">BBC R&D Audio</a> team and an honorary research associate of the University of York. For the past 6 years he has worked on the development of personalised, interactive and accessible media services.
             <br><br>
             A specific focus has been the application of Next Generation Audio technologies and their ability to allow broadcasters to deliver these services to the audience. Alongside this work he has been investigating automated approaches to audio mixing and monitoring to improve broadcast speech intelligibility.</p>
+            </div>
           <div class="hero2__right">
               <img class="lazy" data-src="{{page.image-header}}" alt="{{page.image-alt}}">
         </div>
