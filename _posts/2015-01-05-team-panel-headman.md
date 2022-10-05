@@ -1,6 +1,6 @@
 ---
 layout: post-team
-title:  Judi-Lee Headman
+title:  Judi Lee-Headman
 description: Freelance Production Sound Mixer
 date:   2015-01-05
 image:  '/images/team-judy-feature.jpg'
