@@ -1,6 +1,6 @@
 ---
 layout: post-team
-title:  Dr Mariana López
+title:  Professor Mariana López
 description: Principal Investigator
 date:   2015-01-03
 image:  '/images/team-mariana-feature.jpg'

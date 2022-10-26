@@ -1,6 +1,6 @@
 ---
 layout: post-team
-title:  Dr Gavin Kearney
+title:  Professor Gavin Kearney
 description: Co-Investigator
 date:   2015-01-02
 image:  '/images/team-gavin-feature.jpg'
