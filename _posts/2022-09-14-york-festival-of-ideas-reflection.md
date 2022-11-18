@@ -1,6 +1,6 @@
 ---
 layout: post-no-description-repeat
-title:  York Festival of Ideas —  On Binaural Audio and Beyond
+title:  York Festival of Ideas — On Binaural Audio and Beyond
 description: Michael got the chance to help Mariana and Gavin with their Festival of Ideas talk last June. This post is a reflection on his experience. 
 date:   2022-09-14
 image:  '/images/2022-09-14-york-festival-of-ideas-reflection.jpg'
