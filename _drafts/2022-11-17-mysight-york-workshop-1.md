@@ -1,32 +1,26 @@
 ---
 layout: post
 title: Visually Impaired Awareness and Sighted Guiding Training
-description: June last Summer, we did two workshops with MySight York, a local organisation in York supporting people with sight loss. The first one was a whole day training session they delivered. 
-date:   2022-11-21
+description: June last Summer, we did two workshops with MySight York, a local organisation in York supporting people with sight loss. The first one was a whole day training session delivered by Vicky and Jade from MySight York.
+date:   2022-11-17
 image:  '/images/2022-11-17-mysight-york-workshop-1.jpg'
 image-alt: 'Event logo.'
 tags:   [event]
 ---
 
-On Tuesday the 7th of June, our EAD team and eight other university members attended a [MySight York](https://www.mysightyork.org/) Visually Impaired Awareness and Sighted Guiding Training. 
+On Tuesday the 7th of June, our EAD team, along with eight other university members, attended a [MySight York](https://www.mysightyork.org/) Visually Impaired Awareness and Sighted Guiding Training. Our trainers were Community Involvement Officer Vicky Smith and Group Assistant Intern Jade Packering.
 
-Our trainers were Community Involvement Officer Vicky Smith and Group Assistant Intern Jade Packering.
+Since I had been working with Mariana and Gavin on the previous EAD project a few years ago, I had some insights on visual impairment. With a thorough introduction to the various types of visual impairments, a description of a typical day in the life of a blind person (Jade), advice on how to behave around guide dogs, and practical instruction on guiding inside and outside of buildings, the workshop was not only reviving but also deepened my understanding of the topic.
 
-Since I had been working with Mariana and Gavin on the previous EAD project a few years ago, I had some insights on visual impairment.
-
-The workshop was not only refreshing but also deepened my understanding of the subject matter with a detailed introduction to types of visual impairments, a typical day for a blind person and guide dog etiquette as well as on guiding inside and outside buildings. 
-
-Vicky and Jade brought simulation glasses so they could better experience the difference in visual impairments.
-
-For example, macular degeneration, which is common in older people, makes it difficult to read and recognize faces. The picture below shows how this condition worsens central vision.
+Vicky and Jade brought a set of simulation glasses so that we could more fully understand the various vision impairments. For instance, the age-related condition macular degeneration makes it challenging to read and recognise faces. The image below demonstrates how this syndrome makes centre vision worse.
 
 ![](../images/2022-11-17-mysight-york-workshops-macular-degeneration.jpg)
 
-Another condition that affects vision is diabetic retinopathy caused by diabetes. This condition makes it difficult to read or drive, as vision loss results in patches. See the image demonstration below.
+Diabetic retinopathy, which is brought on by diabetes, is another disorder that affects eyesight. Reading and driving become challenging due to this illness since patches of vision loss emerge. See the example image below.
 
 ![](../images/2022-11-17-mysight-york-workshops-diabetic-retinpathy.jpg)
 
-The third condition the simulation glasses helped us experience is glaucoma. This condition damages the optic nerves inside the eye, causing loss of peripheral vision, shown in the image below.
+Glaucoma was the third condition we were able to experience thanks to the simulation glasses. This condition damages the optic nerves inside the eye, causing loss of peripheral vision, shown in the image below.
 
 ![](../images/2022-11-17-mysight-york-workshops-glaucome.jpg)
 
@@ -36,9 +30,9 @@ Another type of condition is cataract, which results in blurred vision. See the 
 
 <!-- We were warned that this experience could be upsetting. -->
 
-Our last practical session in the afternoon involved sighted guiding, for which we teamed up with a partner. We were either blindfolded or wore one of the simulation glasses while our partner was ushering us around the room, through doors as well as down and up on stairs. 
+Our practical session in the afternoon involved sighted guiding, for which we teamed up with a partner. We were either blindfolded or wore one of the simulation glasses while our partners were ushering us around the room, through doors as well as up and down staircases.
 
-It was a great day. Vicky and Jade put together a very well organized workshop that not only helped me learn something new about accessibility, but was also very fun and enjoyable! We also enjoyed great catering with vegan and vegetarian sandwiches and cakes all sustainably packaged.
+It was a great day. Vicky and Jade put together a very interesting workshop that not only helped me learn something new about accessibility, but was also very fun and enjoyable! Thanks to Mariana, delicious food, including cakes and sandwiches that were all wrapped sustainably, was also served to us.
 
 Krisztián
 
