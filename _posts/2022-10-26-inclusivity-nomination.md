@@ -1,6 +1,5 @@
 ---
 layout: post
-redirect_url: https://sites.google.com/york.ac.uk/inclusiveimpactawards/nominees-winners/inclusive-research?authuser=0
 title:  Inclusive Impact Award Nomination
 description: Our project has been nominated for an Inclusive Impact Award!
 date:   2022-10-26
