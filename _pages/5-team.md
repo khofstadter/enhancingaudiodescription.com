@@ -68,4 +68,4 @@ image:
   </div>
 </div>
 
-We would like to thank [Lewis Thresh](https://www.linkedin.com/in/lewis-thresh-59636510b/), [Morgan French](https://www.linkedin.com/in/morgan-french-19a437160/), [Elfed Howells](https://www.linkedin.com/in/elfedhowells/) and [John Whiston](https://rts.org.uk/person/john-whiston), whose work contributed to the success of the first part of our EAD research in 2016-2018. We also want to thank Rebecca Shaw, whose amazing work helped the second part of our EAD research in 2022.
+We would like to thank [Lewis Thresh](https://www.linkedin.com/in/lewis-thresh-59636510b/), [Morgan French](https://www.linkedin.com/in/morgan-french-19a437160/), [Elfed Howells](https://www.linkedin.com/in/elfedhowells/) and [John Whiston](https://rts.org.uk/person/john-whiston), whose work contributed to the success of the first part of our EAD research in 2016-2018. We are also very grateful to Rebecca Shaw, whose work was key to supporting the EAD project in 2022.
