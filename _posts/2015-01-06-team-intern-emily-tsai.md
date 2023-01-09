@@ -1,7 +1,7 @@
 ---
 layout: post-team
 title:  Szu Jo Tsai
-description: Student Intern
+description: Student Intern (Summer 2022)
 date:   2015-01-04
 image:  '/images/team-intern-jo-feature.jpg'
 image-alt: 'Photo of a Jo.'
@@ -19,9 +19,9 @@ tags:   [team, intern]
             {{ page.description }}
           {% endif %}
           <br><br>
-          <p>Szu Jo is an Interactive Media undergraduate student at the University of York. Before coming to York, she taught drums, piano, and guitar, and founded a music promotion platform called Hook Music Studio. She also worked with University College London – CSSA as a music producer, and as an Interpreter for the Berklee Music College Mater Class associated with the Global Outstanding Chinese Artist Association.
+          <p>Szu Jo is an Interactive Media undergraduate student at the University of York. Before coming to York, she taught drums, piano, and guitar, and founded a music promotion platform called Hook Music Studio. She also worked with University College London – CSSA as a music producer and as an interpreter for the Berklee Music College Master Class associated with the Global Outstanding Chinese Artist Association. She is interested in music technology and enjoys playing the drums and guitar.
           <br><br>
-          She is currently completing an internship on the Enhancing Audio Description II Project as a Research Assistant. She helps to collect and analyse metadata in Pro-Tools, carry out experiments, and code. She is interested in music technology, and enjoys playing drums and guitar.
+         In the summer of 2022, Szu was completing an internship on the EAD II project as a research assistant. She helped to collect and analyse metadata in Pro-Tools, carry out experiments, and code.
           </p>
            </div>
           <div class="hero2__right">

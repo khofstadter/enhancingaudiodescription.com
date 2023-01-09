@@ -1,7 +1,7 @@
 ---
 layout: post-team
 title:  Emily Wood
-description: Student Intern
+description: Student Intern (Summer 2022)
 date:   2015-01-04
 image:  '/images/team-intern-emily-feature.jpg'
 image-alt: 'Photo of a Emily.'
@@ -19,9 +19,9 @@ tags:   [team, intern]
             {{ page.description }}
           {% endif %}
           <br><br>
-          <p>My name is Emily Wood. I am a 22 year old student from Birmingham. This year, I am entering my final year of an MSci Psychology degree at the University of York, specialising in neuroscience and neuroimaging. My work experiences include volunteering as an English teacher in Cambodia, working as an Inclusive Community Coordinator for LGBTQIA+ students at my university, and completing a research project investigating social robots for which I was awarded ‘Best Research in Social Sciences’ by the YorRobotics Committee.
+          <p>In 2022, Emily from Birmingham entered her final year of an MSci Psychology degree at the University of York, specialising in neuroscience and neuroimaging. Her work experiences include volunteering as an English teacher in Cambodia, working as an inclusive community coordinator for LGBTQIA+ students at her university, and completing a research project investigating social robots for which she was awarded "Best Research in Social Sciences" by the YorRobotics Committee.
           <br><br>
-          I am now working with the Royal National Institute for the Blind, researching audio description for documentary television programs. I intend to work with blind and partially sighted individuals to learn about their experiences with audio described documentary programs, establishing the strengths and weaknesses of the audio description currently available and proposing potential improvements.
+         As an EAD intern, in the summer of 2022, Emily worked with the Royal National Institute for the Blind, researching audio description for documentary television programs. She worked with blind and partially sighted individuals to learn about their experiences with audio-described documentary programs, establish the strengths and weaknesses of the audio description, and propose potential improvements.
           </p>
            </div>
           <div class="hero2__right">
