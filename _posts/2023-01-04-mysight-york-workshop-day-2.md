@@ -28,7 +28,7 @@ The usage of portable microphones was covered in the session that followed lunch
 
 Then, after asking participants to divide into four groups, we gave each group a microphone and some accessories to experiment with. Groups were encouraged to either record a short interview, an interesting ambient sound with an introduction and an outro, a presentation from a prepared script or a sound walk.
 
-We all returned to the theatre about an hour later to listen to each other’s recordings. The one I also engaged with can be listened to with the web-audio player below.
+We all returned to the theatre about an hour later to listen to each other’s recordings. The one I also engaged with can be listened to with the web-audio player below. The transcription of this recording can be found at end of this post. 
 
 <iframe title="Roving Reporters Training Example" width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1427828215&color=%23ff5500&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
 
@@ -37,3 +37,84 @@ It was a lovely day getting to know Jane and other wonderful folks at MySight Yo
 
 Krisztián
 
+<br><br>
+
+**Transcription of audio recording**
+
+Jade: Already recording...
+
+Krisztián: Okay. Guys, how was today? 
+
+Lydia: Yeah, it was very good. Thank you!
+
+Krisztián: What did you, ... what did you enjoy the most? 
+
+Lydia: Hmm.. 
+
+Jade: All of it, really! 
+
+Lydia: All of it really, but we enjoyed listening to the podcasts. They were interesting, about how the different, like the sounds and different stories, and that there's a wide range of different people talking. So it was really interesting listening to that. 
+
+York student helper: Was it [the workshop] what you expected? 
+
+Jade: Hmmm... It wasn't really what, what I expected. I didn't really know what to expect, really. 
+
+Lydia: I was the same. I didn't really know what to actually expect.
+
+York student helper: But, you have had, ... have you had a good time? 
+
+Lydia: Yeah, it's been really good.
+
+Jade: Yeah.
+
+York student helper: What do you think of the space, like the building? 
+
+Jade: It was quite a good space. 
+
+Lydia: It was yeah, it was a good space. And, it was a good venue to have it in really. Because, especially when it's ... when you're like recording things, being in a theatre, made it being in a .. it was really good, because it was like being in a professional, professional environment really. 
+
+York student helper: And what's one thing you'd learnt today? 
+
+Lydia: How to use a recording device. 
+
+Jade: Yeah. 
+
+Lydia: That's what I've learned to do.
+
+Jade: That's the main one. 
+
+Lydia: That's the main I have definetely learnt.
+
+Jade: I am still sort of learning I think. 
+
+Lydia: Yeah, we're still sort of learning how to get out heads around it. But it's definitely, it'll be a good, useful thing... for when trying to get visually impaired people to know our stories, and also to get them to listen to. So hopefully, they'll be able to either embrace the activity, or just find it nice to hear the, hear the stories really about all the different things we're going to talk about. 
+
+Jade: Yeah.
+
+York student helper: I was gonna say, how are you going to use these skills in the future? Have you got any plans, anything particularly you want to record?
+
+Jade: Hmm.. 
+
+Lydia: I don't really have any plans but, hmm... you know, it's always a good useful skill to have and it's always good to put on your CV saying that you have done this type of thing. So it can open the doors to, like job opportunities as well. 
+
+Jade: I think it's interesting as well.
+
+Lydia: And it's really interesting as well.
+
+Jade: It's a new skill to sort of gain and... 
+
+Lydia: It is, yeah.
+
+Jade: Yeah.
+
+Lydia: And it's good to have the experience on it now. 
+
+Jade: Yeah. And to just sort of play about and then work things out...
+
+Lydia: ... and then have it when you're working in an actual job.
+
+Jade: Yeah. I think these are the main things really. 
+
+York student helper: That was a good interview!
+
+Transcribed with [https://otter.ai](https://otter.ai)
