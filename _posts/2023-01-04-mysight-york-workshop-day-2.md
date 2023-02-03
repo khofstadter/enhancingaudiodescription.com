@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Roving Reporters Training Day
-description: Last June, MySight York, the Enhancing Audio Description project, represented by Krisztián and Jane Bateman teamed up to introduce the basics of audio interviewing and creating podcasts to a group of visually impaired participants.
+description: Last June, MySight York, the Enhancing Audio Description project (represented by Krisztián), and Jane Bateman teamed up to introduce the basics of audio interviewing and creating podcasts to a group of visually impaired participants.
 date:   2023-01-04
 image:  '/images/2023-01-04-mysight-york-workshop-2.jpg'
 image-alt: 'Krisztián demonstrating the use of a portable microphone.'
@@ -12,7 +12,7 @@ Following MySight York’s [Visual Impairment Awareness Training on June]({{ sit
 
 Vicky from MySight York teamed me up with Jane Bateman, a skilled interviewer with in-depth understanding of crafting effective questions, so we could deliver a practical, hands-on workshop together.
 
-The workshop was planned to take place in the Scenic Stage Theatre of the School of Arts and Creative Technologies Campus East building. 
+The workshop took place in the Scenic Stage Theatre of the School of Arts and Creative Technologies in University of York's Campus East.
 
 After all of us had settled inside the theatre, Vicky ran a brief icebreaker session to help everyone introduce themselves before outlining the agenda for the day.
 
@@ -28,15 +28,19 @@ The usage of portable microphones was covered in the session that followed lunch
 
 Then, after asking participants to divide into four groups, we gave each group a microphone and some accessories to experiment with. Groups were encouraged to either record a short interview, an interesting ambient sound with an introduction and an outro, a presentation from a prepared script or a sound walk.
 
-We all returned to the theatre about an hour later to listen to each other’s recordings. The one I also engaged with can be listened to with the web-audio player below. The transcription of this recording can be found at end of this post. 
+We all returned to the theatre about an hour later to listen to each other’s recordings. 
+
+<!-- The one I also engaged with can be listened to with the web-audio player below. The transcription of this recording can be found at end of this post. 
 
 <iframe title="Roving Reporters Training Example" width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1427828215&color=%23ff5500&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
+-->
 
 <br>
-It was a lovely day getting to know Jane and other wonderful folks at MySight York for our EAD team. I hope we can meet again!
+It was a lovely day getting to know Jane and other wonderful folks at MySight York. I hope we can meet again!
 
 Krisztián
 
+<!-- 
 <br><br>
 
 **Transcription of audio recording**
@@ -117,4 +121,4 @@ Jade: Yeah. I think these are the main things really.
 
 York student helper: That was a good interview!
 
-Transcribed with [https://otter.ai](https://otter.ai)
+-->
