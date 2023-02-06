@@ -30,17 +30,16 @@ Then, after asking participants to divide into four groups, we gave each group a
 
 We all returned to the theatre about an hour later to listen to each other’s recordings. 
 
-<!-- The one I also engaged with can be listened to with the web-audio player below. The transcription of this recording can be found at the end of this post. 
+The one I also engaged with can be listened to with the web-audio player below. The transcription of this recording can be found at the end of this post. 
 
 <iframe title="Roving Reporters Training Example" width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1427828215&color=%23ff5500&amp;color=daa95f&amp;inverse=false&amp;auto_false=true&amp;show_user=true"></iframe>
--->
 
 <br>
 It was a lovely day getting to know Jane and other wonderful folks at MySight York. I hope we can meet again!
 
 Krisztián
 
-<!-- 
+
 <br><br>
 
 **Transcription of audio recording**
@@ -59,25 +58,25 @@ Jade: All of it, really!
 
 Lydia: All of it really, but we enjoyed listening to the podcasts. They were interesting, about how the different, like the sounds and different stories, and that there's a wide range of different people talking. So it was really interesting listening to that. 
 
-York student helper: Was it [the workshop] what you expected? 
+Meg (York student): Was it [the workshop] what you expected? 
 
 Jade: Hmmm... It wasn't really what, what I expected. I didn't really know what to expect, really. 
 
 Lydia: I was the same. I didn't really know what to actually expect.
 
-York student helper: But, you have had, ... have you had a good time? 
+Meg (York student): But, you have had, ... have you had a good time? 
 
 Lydia: Yeah, it's been really good.
 
 Jade: Yeah.
 
-York student helper: What do you think of the space, like the building? 
+Meg (York student): What do you think of the space, like the building? 
 
 Jade: It was quite a good space. 
 
 Lydia: It was yeah, it was a good space. And, it was a good venue to have it in really. Because, especially when it's ... when you're like recording things, being in a theatre, made it being in a .. it was really good, because it was like being in a professional, professional environment really. 
 
-York student helper: And what's one thing you'd learnt today? 
+Meg (York student): And what's one thing you'd learnt today? 
 
 Lydia: How to use a recording device. 
 
@@ -87,7 +86,7 @@ Lydia: That's what I've learned to do.
 
 Jade: That's the main one. 
 
-Lydia: That's the main I have definetely learnt.
+Lydia: That's the main I have definitely learnt.
 
 Jade: I am still sort of learning I think. 
 
@@ -95,7 +94,7 @@ Lydia: Yeah, we're still sort of learning how to get out heads around it. But it
 
 Jade: Yeah.
 
-York student helper: I was gonna say, how are you going to use these skills in the future? Have you got any plans, anything particularly you want to record?
+Meg (York student): I was gonna say, how are you going to use these skills in the future? Have you got any plans, anything particularly you want to record?
 
 Jade: Hmm.. 
 
@@ -119,6 +118,4 @@ Lydia: ... and then have it when you're working in an actual job.
 
 Jade: Yeah. I think these are the main things really. 
 
-York student helper: That was a good interview!
-
--->
+Meg (York student): That was a good interview!
