@@ -76,3 +76,4 @@ more up-to-date logs added to GitHub pushes
 - 2021-11-24 using hero.html for team page with additional support from details/summary html element.  having difficulties with external_url (redirect) without using a custom domain (it works on localhost and custom domain, now subdomain ead.khofstadter.com), but when publishing the site with the github url, the domain name (base url?) is added in front of the redirect url.  perhaps the idea is to always test in a subdomain (custom domain's subdomain).  menu rearranged with simply renaming them e.g. 1-home.md, 2-press.md, .. 
 - 2021-11-23 exporting content from WordPress to Jekyll, most done for press and media page
 - 2021-11-22 theme installed, minor changes made
+
