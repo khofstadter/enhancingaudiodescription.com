@@ -1,6 +1,6 @@
 ---
 layout: post-no-description-repeat
-title: Visually Impaired Awareness and Sighted Guiding Training
+title: Visual Impairment Awareness and Sighted Guiding Training
 description: Last June, we did two workshops with MySight York, a local organisation in York supporting visually impaired people. The first one was a whole day training session delivered by Vicky and Jade from MySight York.
 date:   2022-11-17
 image:  '/images/2022-11-17-mysight-york-workshop-1.jpg'
