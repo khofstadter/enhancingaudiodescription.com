@@ -15,6 +15,7 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## todo 
 ### general
+- are footnotes accessible - are they more preferred to hyperlinks?
 - separate blog grid from home page and have a new page for it called 'Blog'
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
 - quotes from AP (https://docs.google.com/document/d/1wMHDEZ-I1-CyG3JxN9FuZTRydVWMDjLRf2MCM8wpttg/edit) - where to add?
