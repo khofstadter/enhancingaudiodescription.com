@@ -2,7 +2,7 @@
 layout: post
 title: Neurodiverse Talent and Crew
 description: Delve into the journey of Spines, the first BFI Network-funded film to be written, directed, and starring an autistic person.
-date: 2023-11-20
+date: 2023-11-27
 image: '/images/2023-11-27-neurodiverse-talent-and-crew.jpg'
 image-alt: ‘The short film's poster, featuring the main actors.’
 tags: [film]
