@@ -18,7 +18,7 @@ The panel provided insights on their experiences working with EAD and the access
 
 **Sam Moore** is a UK-based, international award-winning animation director. She loves the joyfulness and eclectic nature of animation. No one ever finds animation intimidating, and yet it can convey complex ideas to a wide audience in an engaging way. Sam has worked on diverse subjects, from competitive sweet-pea growing to cutting-edge microbiology, archaeology, neuroscience, and her own experience of having twins. Her latest film, [Visible Mending](https://visiblemendingfilm.com) (2023), was commissioned by the BFI Short Form Fund, produced by Tilley Bancroft, and made through MediaActive Projects. It was shot at Second Home Studios in Birmingham and is proudly UK-midlands-based and all-female in key roles. She is Senior Tutor (Research) in Animation at the Royal College of Art, UK, and a visiting professor in animation at University College Volda, Norway.
 
-The room where the event took place, is within The King's Manor in York City Centre, a group of buildings dating from the 16th century. Fiona, our BSL interpreter, made the experience highly accessible, enhancing the inclusivity of the event. The discussion ended with insightful questions from the audience. 
+The room in which the event took place is within The King's Manor in York City Centre, a group of buildings dating from the 16th century. Fiona, our BSL interpreter, made the experience highly accessible, enhancing the inclusivity of the event. The discussion ended with insightful questions from the audience. 
 
 Thank you to Dr Monika Zabrocka for photographing the event, which captured the engaging discussions.
 
