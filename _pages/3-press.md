@@ -19,12 +19,10 @@ image:
   <div class="row animate">
     {% if site.posts.size > 0 %}
       {% for post in site.posts %}
-        {% if post.tags contains "press"%}
-        {% include article-no-title.html %}
+        {% if post.tags[0] == "press" %}
+        {% include article.html %}
          {% endif %}
       {% endfor %}
     {% endif %}
   </div>
 </div>
-<br>
-<br>

@@ -15,6 +15,9 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## todo 
 ### general
+- add newsletter page?
+- have two avatars in research team grid instead of 3
+- add links to internship post under intern bio pages 
 - are footnotes accessible - are they more preferred to hyperlinks?
 - separate blog grid from home page and have a new page for it called 'Blog'
 - which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/

@@ -5,7 +5,7 @@ description: Mariana had the pleasure of being interviewed by Ben Reichstein on 
 date:   2023-11-03
 image:  '/images/2023-11-03-field-and-foley-podcast-1.jpg'
 image-alt: 'Mariana sitting on hill with microphones.'
-tags:   interview, podcast
+tags:   [press, interview, podcast]
 ---
 
 Ben's podcast series explores the fascinating world of field recording and Foley art, providing a unique insight into sound design and offering tips, stories, and knowledge for all audio enthusiasts.
