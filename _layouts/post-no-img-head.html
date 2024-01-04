@@ -23,7 +23,6 @@ layout: default
               <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
             </div>
           </div>
-          <br>
           <!-- {{ page.description }} -->
         <!-- </div> -->
       <!-- </div> -->
@@ -36,7 +35,7 @@ layout: default
   <article class="post">
     <div class="post__content">
       {%if page.description %}
-      {{ page.description }}
+      <span style="font-size: 24px; font-weight: bold; color: #1b120a;">{{ page.description }}</span>
       <br><br>
       {% endif %}
       {{ content }}

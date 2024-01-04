@@ -98,6 +98,7 @@ plugins:
 
 paginate: 9
 paginate_path: "/page/:num"
+future: true # allows posts with future dates to be published
 
 # Pages Path
 defaults:
