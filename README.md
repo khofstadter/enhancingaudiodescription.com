@@ -15,12 +15,12 @@ A new website to replace the old one: http://enhancingaudiodescription.com/
 
 ## todo 
 ### general
-- add newsletter page?
+- consider moving the participation form to a seperate page
+- how to add the author feature via front matter?
 - have two avatars in research team grid instead of 3
 - add links to internship post under intern bio pages 
 - are footnotes accessible - are they more preferred to hyperlinks?
-- separate blog grid from home page and have a new page for it called 'Blog'
-- which one is this? https://dtg.org.uk/webcast/lets-talk-innovation-with-dr-mariana-lopez/
+- create a dynamic filter for blog (so we can remove events, media, etc. pages)
 - quotes from AP (https://docs.google.com/document/d/1wMHDEZ-I1-CyG3JxN9FuZTRydVWMDjLRf2MCM8wpttg/edit) - where to add?
 
 ### home
