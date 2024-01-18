@@ -5,8 +5,8 @@ description: In December 2023 we hosted our annual Advisory Board Meeting online
 date: 2024-01-19
 image: '/images/2024-01-19-advisory-board-meeting.jpg'
 image-alt: ‘A screenshot of our online meeting with people smiling.’
-tags: 
-grid: false
+tags: [event]
+grid: true
 ---
 
 <!--
