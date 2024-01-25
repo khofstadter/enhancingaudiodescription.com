@@ -6,7 +6,7 @@ date: 2024-01-19
 image: '/images/2024-01-26-visible-mending-bafta.jpg'
 image-alt: ‘A screenshot of our online meeting with people smiling.’
 tags:
-grid: true
+grid: false
 ---
 
 <!--
