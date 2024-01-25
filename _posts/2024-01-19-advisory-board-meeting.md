@@ -9,9 +9,6 @@ tags: [event]
 grid: true
 ---
 
-<!--
-add events tag
--->
 
 Our Advisory Board includes incredibly talented and influential representatives from several fields including audio production and postproduction ([Howard Bargroff]({{site.baseurlrl}}/team-panel-bargroff), [Anna Bertmark]({{site.baseurl}}/team-panel-bertmark), [Emma Butt]({{site.baseurl}}/team-panel-butt), [Judi Lee-Headman]({{site.baseurl}}/team-panel-headman), [Nina Hartstone]({{site.baseurl}}/team-panel-hartstone)), audio technology ([Jason Power]({{site.baseurl}}/team-panel-power), [Jerry Gilbert]({{site.baseurl}}/team-panel-gilbert)), screenwriting ([Lisa Holdsworth]({{site.baseurl}}/team-panel-holdsworth)), directing ([Mandi Lynn]({{site.baseurl}}/team-panel-lynn)), broadcasting ([Matt Cleary]({{site.baseurl}}/team-panel-cleary), [Dr Matthew Paradis]({{site.baseurl}}/team-panel-paradis), [Gary Westmoreland]({{site.baseurl}}/team-panel-westmoreland)), as well as representatives of end users and charities ([Sonali Rai]({{site.baseurl}}/team-panel-rai), [Warren Wilson]({{site.baseurl}}/team-panel-wilson)).
 
