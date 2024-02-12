@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Enhancing Audio Description
-logo: /images/EAD-logo-2.png
+logo: /images/logo-ead-2024.png
 description: Enhancing Audio Description II - implementing accessible, personalised and inclusive film and television experiences for visually impaired audiences
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: EAD
   author__bio: Enhancing Audio Description II is funded by the Arts and Humanities Research Council, AH/V015583/1. The first instance of the project was also possible thanks to the funding provided by the AHRC AH/N003713/1, AH/N003713/2
-  author__avatar: '/images/EAD-old-logo.png'
+  author__avatar: '/images/logo-ead-2024.png'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/Mariana_J_Lopez"}
