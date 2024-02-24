@@ -4,12 +4,12 @@ title: Announcing the DARCI Conference 2025
 description: We are happy to announce our 3-day Disability, Accessibility and Representation in the Creative Industries (DARCI) 2025 conference!
 date: 2024-02-28
 image: '/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-05.jpg'
-image-alt: ‘’
+image-alt: ‘Three people chatting in a room full of people.’
 tags: 
 grid: false
 ---
 
-![](/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-05.jpg)
+![Three people chatting in a room full of people.](/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-05.jpg)
 
 After the success of our [conference in 2017](conference-on-accessibility-in-film-television-and-interactive-media), we are excited to continue the tradition of integrating technical and creative approaches to disability, accessibility and representation.
 
