@@ -4,6 +4,10 @@ title: Contact
 permalink: /contact/
 image: 
 ---
+
+Thanks for your interest in our EAD project. Please get in touch via enhancingad@gmail.com if you have any questions about our work or have feedback on our website’s accessibility.
+
+<!--
 <div class="form-box">
   <div class="contact-head">
     {% if site.contact.description %}
@@ -28,3 +32,4 @@ image:
     </div>
   </form>
 </div>
+-->

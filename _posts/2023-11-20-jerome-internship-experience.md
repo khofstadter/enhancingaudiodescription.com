@@ -2,6 +2,7 @@
 layout: post
 title: Jerome's Internship Experience
 description: We are excited to have had Jerome doing an internship through us. In this post he sums up his experience delving into the intricacies of sound mixing for high-budget films and TV with the London based Formosa Group.
+date:   2023-11-20
 image:  '/images/team-jerome-feature.jpg'
 image-alt: ‘A photo of Jerome’
 tags:  [internship]
