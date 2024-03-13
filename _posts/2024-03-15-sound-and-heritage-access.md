@@ -6,7 +6,7 @@ date: 2024-03-15
 image: '/images/2024-03-15-sound-and-heritage-access-02.jpg'
 image-alt: ‘The photo of the event with people in the panel and the audience.’
 tags: [media, podcast, DARCI]
-grid: false
+grid: true
 ---
 
 ![The photo of the event with people in the panel and the audience.](/images/2024-03-15-sound-and-heritage-access-02.jpg)
@@ -29,8 +29,10 @@ From my side I expressed my disappointment at the reluctance of the sound herita
 
 A highlight of the event for me was how interactive it was, there was lots of audience participation and it was great to hear everyone’s favourite examples of sound access as well as those aspects that needed further work. The coming together of so many different perspectives provided a great richness to the whole event.
 
+The podcast of the discussion is now available together with the transcript [here](https://mcphh.wordpress.com/2024/01/26/how-best-can-we-use-sound-to-access-heritage-public-discussion-6-december-2023-manchester-poetry-library-podcast/).
+
 Thank you very much to Suzie for organising such an insightful event and inviting me along. More about the programme for this event can be found [here](https://pastandpresent.org.uk/registration-and-programme-for-sound-to-access-heritage-event/).
 
 Mariana
 
-![Mariana sitting on a chair.](/images/2024-03-15-sound-and-heritage-access-01.jpg)
+<center><img src="/images/2024-03-15-sound-and-heritage-access-01.jpg" width="500"></center>
