@@ -96,7 +96,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 9
+paginate: 18
 paginate_path: "/page/:num"
 future: true # allows posts with future dates to be published
 
