@@ -5,7 +5,7 @@ description: We have uploaded our first podcast which contains audio extracts fr
 date:   2016-09-02
 image:  '/images/2016-09-02-podcast-01-ead-talk-york.jpg'
 image-alt: 'A photo of Mariana presenting.'
-tags:   [event, presentation, podcast]
+tags:   [event, presentation, podcast, media]
 ---
 
 <!--

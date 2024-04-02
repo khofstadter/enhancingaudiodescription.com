@@ -5,7 +5,7 @@ description: On 23 Sep 2017 we hosted a digital exhibition in the TATE Britain, 
 date:   2017-09-23
 image:  '/images/feature-the-screening.jpg'
 image-alt: 'The poster of our TATE event.'
-tags:   [event, presentation, podcast]
+tags:   [event, presentation, podcast, media]
 ---
 
 <!--

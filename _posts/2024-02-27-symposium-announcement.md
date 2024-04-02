@@ -11,7 +11,18 @@ grid: true
 
 ![Photo of Edinburgh with old buildings.](/images/2024-02-27-symposium-announcement.jpg)
 
-The event will be at [Dovecot Studios](https://dovecotstudios.com/), be free of charge and will include presentations on the Enhancing Audio Description project among other contributions. We will be releasing further details very soon!
+The event will be at [Dovecot Studios](https://dovecotstudios.com/), be free of charge and will include presentations on the Enhancing Audio Description project among other contributions. 
 
-Photo by <a href="https://unsplash.com/@fourcolourblack?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adam Wilson</a> on <a href="https://unsplash.com/photos/calton-hill-edinburgh-united-kingdom-ktDODr-3tvY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+The event is free of charge and will focus on different presentations, reflections and discussions on disability and accessibility within different creative spaces. We will be welcoming guest speakers as well as having a spotlight on the Enhanced Audio Description (EAD) methods, including an opportunity to listen to different examples and learn about the latest updates.
+
+The full programme will be made available very soon, however the event will run from 10:30am to 5:30pm!
+
+Confirmed speakers: 
+- [Aby Watson](symposium-speaker-aby-watson)
+
+Accessibility information: The venue is wheelchair accessible with ramps, lifts and wide doorways. A hearing loop system is installed in the room and British Sign Language (BSL) interpreters will be available throughout the event. Furthermore, speakers have been requested to include visual descriptions in their presentations.
+
+Book your free ticket [here](https://tftv.ticketsolve.com/ticketbooth/shows/873658548) and if needed, email our enhancingad@gmail.com for further information. 
+
+Photo of Edinburgh by <a href="https://unsplash.com/@fourcolourblack?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adam Wilson</a> on <a href="https://unsplash.com/photos/calton-hill-edinburgh-united-kingdom-ktDODr-3tvY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   

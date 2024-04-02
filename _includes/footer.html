@@ -7,15 +7,7 @@
 
         <div class="col col-5 col-d-12">
           <div class="footer__author">
-            <!--
-              <div class="footer__author-avatar">
-              <img class="lazy" data-src="{{site.baseurl}}{{site.author.author__avatar}}" alt="{{site.author.author__name}}">
-            </div>
-            -->
-            <h2 class="footer__author-name">{{site.author.author__name}}</h2>
-            <p class="footer__author-bio">{{site.author.author__bio}}</p>
-            <br>
-            <p class="footer__author-bio">Any questions, please feel free to email us on enhancingad@gmail.com. Social media updates on the project are added on Twitter/X @Mariana_J_Lopez and on Bluesky @marianajlopez.bsky.social.</p>
+            <h2>Contact</h2><p class="footer__author-bio">Any questions, please feel free to email us on enhancingad@gmail.com. Social media updates on the project are added on Twitter/X @Mariana_J_Lopez and on Bluesky @marianajlopez.bsky.social.</p>
             {% if site.social %}
             <div class="social">
               <ul class="social__list list-reset">
@@ -28,9 +20,17 @@
               </ul>
             </div>
             {% endif %}
+            <!--
+              <div class="footer__author-avatar">
+              <img class="lazy" data-src="{{site.baseurl}}{{site.author.author__avatar}}" alt="{{site.author.author__name}}">
+            </div>
+            -->
+            <!-- <h2 class="footer__author-name">{{site.author.author__name}}</h2> -->
+            <br>
+            <p class="footer__author-bio">{{site.author.author__bio}}</p>
+            <br>
           </div>
           <br>
-          <center><img class="lazy" data-src="/images/team-panel-york.png" alt="logo"></center>
         </div>
 
         {% if site.gallery %}
@@ -54,6 +54,7 @@
 
       </div>
     </div>
+    <center><img class="lazy" data-src="/images/team-panel-york.png" alt="logo"></center>
   </div>
 
   <div class="footer__info">

@@ -5,7 +5,7 @@ description: On 7 Feb 2018, at King's College London, Mariana (then elected chai
 date:   2018-02-7
 image:  '/images/2018-01-07-aes-annual-meeting-and-lecture.jpg'
 image-alt: 'Photo of Mariana addressing an audience.'
-tags:   [event, presentation, video]
+tags:   [event, presentation, video, media]
 ---
 
 <br>

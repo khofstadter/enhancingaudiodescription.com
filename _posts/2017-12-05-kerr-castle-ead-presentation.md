@@ -6,5 +6,5 @@ description: You can listen to Kerr's presentation at our conference, in our 5th
 date:   2017-12-05
 image:  '/images/2017-12-05-kerr-castle-ead-presentation.jpg'
 image-alt: 'A photo of Kerr presenting at our conference.'
-tags:   [event, conference, podcast]
+tags:   [event, conference, podcast, media]
 ---

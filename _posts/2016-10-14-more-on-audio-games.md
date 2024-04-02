@@ -5,7 +5,7 @@ description: Further to our previous blog post on Audio Games and Accessibility 
 date:   2016-10-14
 image:  '/images/2016-10-14-more-on-audio-games.jpg'
 image-alt: 'A photo of Krisztian playing audio games on a mobile device with the game logos behind him.'
-tags:   [audio games, binaural audio]
+tags:   [audio games, binaural audio, media]
 ---
 
 All visual content available in the video is accessible through the soundtrack. Huge thanks to the game developers [Somethin’ Else](https://somethinelse.com/) and [Dowino](https://www.dowino.com/en/) for allowing us to use gameplay footage on our website.

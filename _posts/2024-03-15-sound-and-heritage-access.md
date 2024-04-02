@@ -5,7 +5,7 @@ description: On 6th December 2023 Mariana had the pleasure of being invited to j
 date: 2024-03-15
 image: '/images/2024-03-15-sound-and-heritage-access-02.jpg'
 image-alt: ‘The photo of the event with people in the panel and the audience.’
-tags: [media, podcast, DARCI]
+tags: [event]
 grid: true
 ---
 

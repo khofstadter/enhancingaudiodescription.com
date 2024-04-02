@@ -4,7 +4,7 @@ title:  BBC Sounds Amazing
 description: On 25 Oct 2020, Mariana gave a presentation at BBC Sounds Amazing - Celebrating Innovation in Audio.
 date:   2020-11-25
 image:  '/images/2018-05-02-sounds-amazing-bbc-smaller.jpg'
-tags:   [event, video]
+tags:   [event, video, media]
 image-alt: 'The logo of BBC Sounds.'
 ---
 

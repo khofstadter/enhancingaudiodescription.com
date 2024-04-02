@@ -5,7 +5,7 @@ description: As part of our research on the use of sound design to make films an
 date:   2016-09-12
 image:  '/images/2016-09-12-on-audio-games-and-accessibility.jpg'
 image-alt: 'A photo collage with Krisztian playing audio games.'
-tags:   [audio games, binaural audio, video]
+tags:   [audio games, binaural audio, media, video]
 ---
 
 What we love about Audio Games is that they are accessible from the onset, accessibility is not just a feature that is added on at the end of the creative process, on the contrary, it is integral to the creative process.

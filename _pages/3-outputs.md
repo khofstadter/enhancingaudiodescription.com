@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Outputs
+title: Academic
 permalink: /outputs/
 image: 
 ---

@@ -5,7 +5,7 @@ description: On 21 October, the Marian gave a presentation at the Audio Descript
 date:   2016-10-21
 image:  '/images/feature-mariana.png'
 image-alt: 'A photo of Mariana standing.'
-tags:   [event, presentation, podcast]
+tags:   [event, presentation, podcast, media]
 ---
 *Abstract:*
 
