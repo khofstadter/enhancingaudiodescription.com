@@ -29,7 +29,9 @@ image:
       {% if site.posts.size > 0 %}
         {% for post in site.posts %}
           {% if post.tags contains "video" %}
+          {% if post.grid != false %}
           {% include article.html %}
+          {% endif %}
           {% endif %}
         {% endfor %}
       {% endif %}
@@ -39,7 +41,9 @@ image:
       {% if site.posts.size > 0 %}
         {% for post in site.posts %}
           {% if post.tags contains "podcast" %}
+          {% if post.grid != false %}
           {% include article.html %}
+          {% endif %}
           {% endif %}
         {% endfor %}
       {% endif %}

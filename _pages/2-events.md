@@ -22,7 +22,9 @@ video_embed:
     {% if site.posts.size > 0 %}
       {% for post in site.posts %}
         {% if post.tags[0] == "event" %}
+        {% if post.grid != false %}
         {% include article.html %}
+         {% endif %}
          {% endif %}
       {% endfor %}
     {% endif %}

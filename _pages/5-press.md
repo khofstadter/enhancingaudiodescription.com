@@ -20,7 +20,9 @@ image:
     {% if site.posts.size > 0 %}
       {% for post in site.posts %}
         {% if post.tags[0] == "press" %}
+        {% if post.grid != false %}
         {% include article.html %}
+         {% endif %}
          {% endif %}
       {% endfor %}
     {% endif %}
