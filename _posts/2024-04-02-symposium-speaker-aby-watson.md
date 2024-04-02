@@ -1,12 +1,12 @@
 ---
 layout: post-no-img-head
 title: "Symposium Speaker: Aby Watson"
-description: "We're happy to announce Aby, one of our symposium speakers in Edinburg this May. This post features the abstract of her presentation and her bio."
+description: "We are delighted to announce Aby Watson, one of our symposium speakers in Edinburg this May. This post features the abstract of her presentation and her bio."
 date: 2024-04-02
 image: '/images/2024-04-02-symposium-speaker-aby-watson.jpg'
-image-alt: ‘Amy performing in an artistically lit room with gadgets around her.’
+image-alt: ‘Amy performing in an artistically lit room with gadgets around her.'
 tags: event
-grid: false
+grid: true
 ---
 
 ![Amy performing in an artistically lit room with gadgets around her.](../images/2024-04-02-symposium-speaker-aby-watson.jpg)
@@ -21,7 +21,7 @@ With special interests in stimming, sensuality, presence, and consciousness, Aby
 
 Aby has recently completed her doctoral research, 'Disordering Dance: Neuroqueering a Choreographic Practice', at the Royal Conservatoire of Scotland. The founding director of the Scottish Neurodiverse Performance Network, she is passionate about the creative potential of neurodivergence, alongside the inclusion, wellbeing, and equal equity of neurodivergent people in the performance sector. Aby is proudly dyslexic, dyspraxic, and has ADHD (with autistic traits). 
 
-Find out more about Aby on [her website](www.abywatson.co.uk) and Instagram page at @disorderingdance.
+Find out more about Aby on [her website](http://www.abywatson.co.uk) and Instagram page at @disorderingdance.
 
 Find out more about our symposium [here](symposium-announcement).
 

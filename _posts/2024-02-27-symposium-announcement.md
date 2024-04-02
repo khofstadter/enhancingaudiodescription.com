@@ -18,6 +18,8 @@ The event is free of charge and will focus on different presentations, reflectio
 The full programme will be made available very soon, however the event will run from 10:30am to 5:30pm!
 
 Confirmed speakers: 
+- [Emily Beaney](symposium-speaker-emily-beaney)
+- [Sonia Allori](symposium-speaker-sonia-allori)
 - [Aby Watson](symposium-speaker-aby-watson)
 
 Accessibility information: The venue is wheelchair accessible with ramps, lifts and wide doorways. A hearing loop system is installed in the room and British Sign Language (BSL) interpreters will be available throughout the event. Furthermore, speakers have been requested to include visual descriptions in their presentations.
