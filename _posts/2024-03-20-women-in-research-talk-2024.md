@@ -7,5 +7,5 @@ date: 2024-03-20
 image: '/images/2024-03-20-women-in-research-talk-2024.jpg'
 image-alt: ‘The photo of the event with people in the panel and the audience.’
 tags: [event, video]
-grid: true
+grid: false
 ---
