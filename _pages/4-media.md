@@ -18,7 +18,7 @@ image:
 
 <div class="container">
   <h2>Visible Mending</h2>
-  <p>Our newest and most successful production at the moment can be played with the embedded video player below. You can access the full film through the embedded video player below. There are two soundtracks available and you can select which one to listen to by going to the settings symbol (the cog) and selecting the soundtrack you'd like to listen to. By default, the video is set to the original soundtrack, so please change it to the EAD version before playing which is called 'English UK Audio Descriptions'.</p>
+  <p>Our latest production, the BAFTA-nominated Visible Mending, can be played with the embedded video player below. You can access the full film through the embedded video player below. There are two soundtracks available and you can select which one to listen to by going to the settings symbol (the cog) and selecting the soundtrack you'd like to listen to. By default, the video is set to the original soundtrack, so please change it to the EAD version before playing which is called 'English UK Audio Descriptions'.</p>
     <article class="post">
     <div class="post__content">
     <div style="padding:52.73% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/827066711?h=b05611ccb9" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
