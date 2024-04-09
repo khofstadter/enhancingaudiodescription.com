@@ -5,7 +5,7 @@ description: Congratulations to the Visible Mending Team on their BAFTA Nominati
 date: 2024-01-31
 image: '/images/2024-01-26-visible-mending-bafta.jpg'
 image-alt: ‘A screenshot of our online meeting with people smiling.’
-tags: event
+tags: [media, video, event]
 grid: true
 ---
 
