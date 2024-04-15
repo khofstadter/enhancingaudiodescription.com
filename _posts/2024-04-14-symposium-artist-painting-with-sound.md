@@ -6,7 +6,7 @@ date: 2024-04-16
 image: '/images/2024-04-16-symposium-artist-painting-with-sound.jpg'
 image-alt: 'Painting capturing the scene looking into Glen Sannox.'
 tags: event
-grid: falsee
+grid: false
 ---
 
 Keith has been painting the Scottish landscape ever since moving to Ayrshire in 1998. His paintings are based on his experiences while out walking in the mountains and along the west coast of Scotland. His work tries to convey something of what it is like to be out in these wild and sometimes remote places.  
