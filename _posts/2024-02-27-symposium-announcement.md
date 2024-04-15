@@ -64,7 +64,7 @@ The event is free of charge and will focus on different presentations, reflectio
   </tr>
 </table>
 
-During the breaks there will also be a chance to experience work by artist Keith Salmon from his series “Painting with Sound”. 
+During the breaks there will also be a chance to experience work by artist Keith Salmon from his series [Painting with Sound](symposium-artist-painting-with-sound). 
 
 Accessibility information: The venue is wheelchair accessible with ramps, lifts and wide doorways. A hearing loop system is installed in the room and British Sign Language (BSL) interpreters will be available throughout the event. Furthermore, speakers have been requested to include visual descriptions in their presentations.
 
