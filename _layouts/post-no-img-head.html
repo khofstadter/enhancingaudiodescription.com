@@ -32,7 +32,7 @@ layout: default
 
 <!-- begin post -->
 <div class="container animate">
-  <article class="post">
+  <article class="post{% if page.post_big == true %} post--big{% endif %}">
     <div class="post__content">
       {%if page.description %}
       <h2>{{ page.description }}</h2>

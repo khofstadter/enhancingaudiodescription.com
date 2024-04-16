@@ -7,6 +7,7 @@ image: '/images/2024-02-27-symposium-announcement.jpg'
 image-alt: ‘Photo of Edinburgh with old buildings.’
 tags: event
 grid: true
+post_big: true
 ---
 
 ![Photo of Edinburgh with old buildings.](/images/2024-02-27-symposium-announcement.jpg)

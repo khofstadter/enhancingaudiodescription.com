@@ -215,6 +215,10 @@
   margin: 0 auto 60px;
   color: var(--text-color);
 
+  &.post--big {
+    max-width: 70%;
+  }
+
   a {
     font-weight: 500;
     border-bottom: 1px solid var(--border-color);
