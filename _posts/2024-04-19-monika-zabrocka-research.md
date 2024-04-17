@@ -2,15 +2,13 @@
 layout: post-no-img-head
 title: Introducing Dr Monika Zabrocka
 description: In this post, Dr Monika Zabrocka, a visiting researcher in the School of Arts and Creative Technologies (University of York) summarises her work and how it is connected to our EAD project.
-image: '/images/2024-04-19-monika-zabrocka-research.jpg'
+image: '/images/2024-04-19-monika-zabrocka-research-2.jpg'
 image-alt: 'Monika sitting by the table.'
 tags: [people]
 grid: false
 ---
  
 In my research funded by the Jagiellonian University’s Mini Grant within the POB Heritage Programme, my team and I explored the utilisation of Audio Description (AD) to enhance cognitive audiovisual availability in autistic children. Our team, researchers from diverse fields including translation studies, linguistics, psychology, media, and culture, aimed to investigate the potential benefits of AD for young viewers with autism spectrum disorder (ASD).
-
-<center><img src="/images/2024-04-19-monika-zabrocka-research.jpg" alt="Monika sitting by a table." width="500"></center><br>
 
 The study was aimed to determine if presence of AD could improve visual information processing in young viewers with ASD. Two types of AD were compared: neutral and emotional. Neutral AD used concise, emotionally neutral language, while emotional AD employed stylistic figures and emotionally charged language employing stylistic figures, such as exclamations, rhetorical questions, metaphors (especially comparison-based ones and similes), emotionally non-neutral words and/or utterances, directly naming the characters’ emotions and explaining the reasons for them, as well as emphasizing communication situations and social interactions showed in the films. The study sought to assess whether these different styles of AD influenced how information was processed by the participants.
  
@@ -33,7 +31,7 @@ Testing sessions with participants have started, and we are eagerly awaiting the
 Monika
 
 ## Connect
-- E-mail: <a href="mailto:monika.zabrocka@york.ac.uk">monika.zabrocka@york.ac.uk</a> or <a href="mailto:monika zabrocka@uj.edu.pl">monika zabrocka@uj.edu.pl</a>
+- E-mail: <a href="mailto:monika.zabrocka@york.ac.uk">monika.zabrocka@york.ac.uk</a> or <a href="mailto:monika.zabrocka@uj.edu.pl">monika.zabrocka@uj.edu.pl</a>
 - [LinkedIn](https://www.linkedin.com/in/monika-zabrocka-348752b3/)
 - [ORCID](https://orcid.org/my-orcid)
 - [Jagiellonian University](https://przeklad.filg.uj.edu.pl/en_GB/monika-zabrocka-sliwka) 
