@@ -35,4 +35,4 @@ Thank you very much to Suzie for organising such an insightful event and invitin
 
 Mariana
 
-<center><img src="/images/2024-03-15-sound-and-heritage-access-01.jpg" width="500"></center>
+<center><img src="/images/2024-03-15-sound-and-heritage-access-01.jpg" alt="Mariana sitting on a chair." width="500"></center>
