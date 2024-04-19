@@ -2,7 +2,7 @@
 layout: post-team
 title:  Professor Mariana López
 description: Principal Investigator
-date:   2015-01-03
+date:   2015-01-04
 image:  '/images/team-mariana-feature.jpg'
 image-header: '/images/team-mariana.jpg'
 image-alt: 'Mariana standing with a microphone in nature.'
