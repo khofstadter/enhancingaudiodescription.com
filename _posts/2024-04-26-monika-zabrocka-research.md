@@ -16,7 +16,7 @@ We conducted a study involving seventy-six native Polish-speaking children from 
 
 Our findings revealed that emotionally tuned AD significantly improved comprehension of the film’s plot, characters’ emotions, and understanding of cause-and-effect relationships, compared to no AD or neutral AD. Interestingly, AD didn’t significantly alter visual attention; rather, it complemented visual content, particularly when emotionally engaging. This underscored the role of emotion in attentional processes, with emotional expressions consistently capturing attention.
 
-We found that both autistic and neurotypical children benefited from emotionally tuned AD, with a more pronounced effect observed in autistic ones. This highlights the inclusive potential of AD in improving cognitive audiovisual accessibility for all children. Therefore, supplementing audiovisual materials, especially those targeting children, with emotionally engaging AD tracks can enhance comprehension and engagement, fostering a more inclusive viewing experience for neurodiverse children.
+We found that both autistic and neurotypical children benefited from emotionally tuned AD, with a more pronounced effect observed in autistic children. This highlights the inclusive potential of AD in improving cognitive audiovisual accessibility for all children. Therefore, supplementing audiovisual materials, especially those targeting children, with emotionally engaging AD tracks can enhance comprehension and engagement, fostering a more inclusive viewing experience for neurodiverse children.
 
 ![Child watching TV.](../images/2024-04-19-monika-zabrocka-research-2.jpg)
  
