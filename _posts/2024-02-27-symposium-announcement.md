@@ -71,5 +71,7 @@ Accessibility information: The venue is wheelchair accessible with ramps, lifts 
 
 Book your free ticket [here](https://tftv.ticketsolve.com/ticketbooth/shows/873658548) and if needed, email our enhancingad@gmail.com for further information. 
 
+If you are unable to attend online but would like to join the livestream please email enhancingad@gmail.com so that we can send you the link once it's ready. Also, if you are experiencing difficulties with booking your ticket, please email us, we will help.
+
 Photo of Edinburgh by <a href="https://unsplash.com/@fourcolourblack?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adam Wilson</a> on <a href="https://unsplash.com/photos/calton-hill-edinburgh-united-kingdom-ktDODr-3tvY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
