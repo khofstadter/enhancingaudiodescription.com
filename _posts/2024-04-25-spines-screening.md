@@ -2,7 +2,7 @@
 layout: post-no-img-head
 title: "Spines, a film with EAD; screening and Q/A"
 description: "Join us on Saturday 8th June in London for a screening of the short film Spines, written and directed by Joseph Inman, followed by a Q/A."
-date: 2024-06-08
+date: 2024-04-25
 image: '/images/2024-05-08-spines-screening.jpg'
 image-alt: ‘Spines poster. Boy sitting by the table.’
 tags: event
