@@ -57,7 +57,7 @@ The event is free of charge and will focus on different presentations, reflectio
   </tr>
  <tr>
     <td>3.45–5.00pm</td>
-    <td>Enhanced Audio Description (EAD) Spotlight - Talk and demonstration</td>
+    <td><a href="symposium-ead-presentation">Enhanced Audio Description (EAD) Spotlight - Talk and demonstration</a></td>
   </tr>
  <tr>
     <td>5.00–5.15</td>
