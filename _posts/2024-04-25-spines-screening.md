@@ -18,7 +18,7 @@ The event will focus on how the Enhanced Audio Description (EAD) methods were ap
 
 We've written more about the journey of Spines, the first BFI Network-funded film to be written, directed, and starring an autistic person [here](neurodiverse-talent-and-crew) as well as have intereviewed the director Joe in the second episode of our DARCI podcast which you can find [here](darci-02).
 
-Information on how to book a ticket will become available soon!
+Book your free ticket [here](https://tftv.ticketsolve.com/ticketbooth/shows/873660249) and if needed, email our enhancingad@gmail.com for further information.
 
 ![Spines poster. Boy sitting by the table.](../images/2024-05-08-spines-screening-2.jpg)
   
