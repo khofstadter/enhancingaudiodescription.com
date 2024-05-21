@@ -5,7 +5,7 @@ description: "Mariana's talk titled 'On Roses and More... reflections on inclusi
 date: 2024-05-21
 image: '/images/2024-03-20-women-in-research-talk-2024.jpg'
 image-alt: ‘The photo of the event with people in the panel and the audience.’
-tags: [event, video]
+tags: [event, media, video]
 grid: false
 ---
 

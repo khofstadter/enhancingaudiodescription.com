@@ -20,7 +20,8 @@ We found that both autistic and neurotypical children benefited from emotionally
 
 ![Child watching TV.](../images/2024-04-19-monika-zabrocka-research-2.jpg)
  
-Our research demonstrates that AD, particularly when emphasising emotional cues, has the potential to enhance audiovisual content processing in autistic children. By accentuating characters’ emotions, AD facilitates a deeper understanding of the content, making educational materials more accessible and inclusive for neurodivergentaudiences.
+Our research demonstrates that AD, particularly when emphasising emotional cues, has the potential to enhance audiovisual content processing in autistic children. By accentuating characters’ emotions, AD facilitates a deeper understanding of the content, making educational materials more accessible and inclusive for neurodivergent audiences.
+
 The study of the creative use of AD and creativity in audio describing in general is also central to a study funded by the Polish National Agency for Academic Exchange (as part of the Bekker Programme) being implemented at the University of York’s School of Arts and Creative Technologies. This time, our focus lies on visually impaired young audiences, specifically school-age children and teenagers, and their reception of various formats of AD.
 
 Since emotional AD has proven to be effective for sighted children, both neurotypical and neurodivergent, we have decided to investigate whether it will be equally effective as a supportive tool for blind people. To gain insight into this, in our study, we will present to young participants a short and amusing (yet educational!) film with emotionally tuned AD and neutral AD (although written in child-friendly language). But that is not the end! As the third option, we will present to participants EAD (Enhanced Audio Description), in which additional sound effects, narration and the spatialisation of voices and other sounds were used to make the piece accessible.
