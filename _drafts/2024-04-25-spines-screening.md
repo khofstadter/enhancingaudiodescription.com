@@ -6,7 +6,7 @@ date: 2024-04-25
 image: '/images/2024-05-08-spines-screening.jpg'
 image-alt: ‘Spines poster. Boy sitting by the table.’
 tags: event
-grid: true
+grid: false
 ---
 
 Date: Saturday 8th June  
