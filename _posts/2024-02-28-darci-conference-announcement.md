@@ -1,6 +1,6 @@
 ---
 layout: post-no-img-head
-title: Announcing the DARCI Conference 2025
+title: "DARCI Conference: Call for Papers"
 description: We are delighted to announce that in September 2025 we will be hosting the Conference on Disability, Accessibility and Representation in the Creative Industries (DARCI) at the University of York (UK).
 date: 2024-02-28
 image: '/images/2024-02-28-darci-conference-announcement.jpg'
@@ -9,7 +9,6 @@ tags: event
 grid: true
 ---
 
-![Large building with lake in front of it.](/images/2024-02-28-darci-conference-announcement.jpg)
 
 ## Call for Papers
 
@@ -17,12 +16,13 @@ grid: true
 
 School of Arts and Creative Technologies, University of York, York, UK
 
-
 The arts are central to human experiences. However, lack of access to creative and cultural experiences, and to creative practice marginalises disabled people, and limits their representation. Moreover, most work on accessibility still occurs outside of the creative and technical workflows involved in creative productions, limiting opportunities for transformative collaborations among creators, accessibility experts and disabled audiences. 
 
 The Conference on Disability, Accessibility and Representation in the Creative Industries (DARCI) welcomes contributions that approach research and practice in the fields of disability, accessibility and representation from diverse perspectives. We welcome submissions from all areas of the creative industries, including theatre, film, television, music, gaming and interactive media more generally, as well as those linked to heritage and other cultural sites. 
 
 The conference will take place from Wednesday 10th September to Friday 12th September. Wednesday will be dedicated to pre-conference workshops and other events, whereas Thursday and Friday will be full conference days with a variety of activities. 
+
+![Large building with lake in front of it.](/images/2024-02-28-darci-conference-announcement.jpg)
 
 We are interested in research or industry paper presentations, posters, demos, panels, performances/installations and workshop proposals defined in the following ways:
 
