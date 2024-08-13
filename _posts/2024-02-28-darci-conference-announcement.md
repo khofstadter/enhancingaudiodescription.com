@@ -53,11 +53,11 @@ Submissions are through abstracts of no more than 300 words. The submission port
 
 DARCI is a hybrid conference with opportunities to present both in person in York and online. You will need to indicate your mode of attendance at the point of submission.
 
-**Deadline for abstract submission**: Monday 4th November 2024 5pm GMT.
+**Deadline for abstract submission**: Monday 4th November 2024 5pm (UK time).
 
 **Notification of outcome**: By end of February.
 
-**Final version of abstract**: Friday 11th July 2025 5pm GMT.
+**Final version of abstract**: Friday 11th July 2025 5pm (UK time).
 
 <br>
 
