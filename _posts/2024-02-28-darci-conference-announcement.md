@@ -59,5 +59,94 @@ DARCI is a hybrid conference with opportunities to present both in person in Yor
 
 **Final version of abstract**: Friday 11th July 2025 5pm GMT.
 
+<br>
+
+##  Types of Registration and Fees
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p><strong>In person</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Standard Early Bird (before 1st July 2025)</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">&pound;170</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Standard (after 1st July 2025)</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">&pound;200</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">*Concessionary Early Bird&nbsp;</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">&pound;85</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">*Concessionary (after 1st July 2025)</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">&pound;100</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong>Virtual</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Standard Early Bird (before 1st July 2025)</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">&pound;120</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Standard (after 1st July 2025)</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">&pound;150</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">*Concessionary Early Bird (before 1st July 2025)</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">&pound;60</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">*Concessionary (after 1st July 2025)</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">&pound;75</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+*Concessionary (students, retired, unwaged, low-waged)
+
+GMT time. 
+
+Pre-conference workshops on Wednesday 10th September will cost £30 each and will include catering. 
+
+
 If you have any questions please email enhancingad@gmail.com
 
