@@ -149,8 +149,6 @@ DARCI is a hybrid conference with opportunities to present both in person in Yor
 
 *Concessionary (students, retired, unwaged, low-waged)
 
-GMT time. 
-
 Pre-conference workshops on Wednesday 10th September will cost £30 each and will include catering. 
 
 
