@@ -24,6 +24,7 @@ The conference will take place from Wednesday 10th September to Friday 12th Sept
 
 ![Large building with lake in front of it.](/images/2024-02-28-darci-conference-announcement.jpg)
 
+## Submission Guidelines
 We are interested in research or industry paper presentations, posters, demos, panels, performances/installations and workshop proposals defined in the following ways:
 
 - **Paper presentations** (15 minute presentation + 5 min Q/A). Well suited for presentations that have findings and outcomes to share. 
@@ -32,6 +33,7 @@ We are interested in research or industry paper presentations, posters, demos, p
 - **Demo/Performance session**: a non-traditional presentation that showcases approaches to accessibility and/or representation with a creative/technical piece. Length and presentation format will vary from piece to piece.
 - **Pre-conference workshop** (180 minutes): a workshop tailored for a smaller number of people in which participants get to learn about a specific topic in a hands-on manner. All workshops will take place on Wednesday 10th September.
 
+## List of Topics
 The topics may include, but are not limited to:
 
 - Accessibility strategies in the creative industries, including Audio Description, Captioning, Signing, Accessible Controllers and any other accessibility strategies.
@@ -53,11 +55,12 @@ Submissions are through abstracts of no more than 300 words. The submission port
 
 DARCI is a hybrid conference with opportunities to present both in person in York and online. You will need to indicate your mode of attendance at the point of submission.
 
-**Deadline for abstract submission**: 4th November 2024 5pm UK time.
+## Deadlines
+**Abstract submission deadline**: 4th November 2024 5pm UK time.
 
 **Notification of outcome**: By end of February.
 
-**Final version of abstract**: 11th July 2025 5pm UK time.
+**Final submission deadline**: 11th July 2025 5pm UK time.
 
 **Registration opens**: 1st March 2025
 
@@ -151,6 +154,6 @@ DARCI is a hybrid conference with opportunities to present both in person in Yor
 
 Pre-conference workshops on Wednesday 10th September will cost £30 each and will include catering. 
 
-
+## Contact
 If you have any questions please email enhancingad@gmail.com
 
