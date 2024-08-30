@@ -4,7 +4,7 @@ title: The Mix Room Interview
 description: "Mariana, in an interview for the podcast The Mix Room with Genelec, tells us about the progression of her research since obtaining her undergraduate degree in Argentina. In the podcast, she discusses her favourite headphone theatre production, her work on accessibility for visually impaired film audiences, how she employs Genelec speakers and her experiences teaching university students."
 image: '/images/2024-07-19-the-mix-room-interview.jpg'
 image-alt: ‘The logo of the Mix Room podcast with Mariana's face.’
-tags: [media, podcast]
+tags: [press, media, podcast]
 grid: false
 ---
 
