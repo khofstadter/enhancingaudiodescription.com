@@ -24,6 +24,8 @@ The conference will take place from Wednesday 10th September to Friday 12th Sept
 
 ![Large building with lake in front of it.](/images/2024-02-28-darci-conference-announcement.jpg)
 
+<br>
+
 ## Submission Guidelines
 We are interested in research or industry paper presentations, posters, demos, panels, performances/installations and workshop proposals defined in the following ways:
 
@@ -32,6 +34,8 @@ We are interested in research or industry paper presentations, posters, demos, p
 - **Panel discussion** (60 minutes) Panel proposals need to be submitted by the person chairing and organising them and should include an indication of the different panellists and the topic/s to be covered. Ideal for those wanting to engage in longer discussions on a topic and incorporate different perspectives. 
 - **Demo/Performance session**: a non-traditional presentation that showcases approaches to accessibility and/or representation with a creative/technical piece. Length and presentation format will vary from piece to piece.
 - **Pre-conference workshop** (180 minutes): a workshop tailored for a smaller number of people in which participants get to learn about a specific topic in a hands-on manner. All workshops will take place on Wednesday 10th September.
+
+<br>
 
 ## List of Topics
 The topics may include, but are not limited to:
@@ -54,6 +58,8 @@ The topics may include, but are not limited to:
 Submissions are through abstracts of no more than 300 words. The submission portal will be opening soon. 
 
 DARCI is a hybrid conference with opportunities to present both in person in York and online. You will need to indicate your mode of attendance at the point of submission.
+
+<br>
 
 ## Deadlines
 **Abstract submission deadline**: 4th November 2024 5pm UK time.
@@ -154,6 +160,33 @@ DARCI is a hybrid conference with opportunities to present both in person in Yor
 
 Pre-conference workshops on Wednesday 10th September will cost £30 each and will include catering. 
 
+<br>
+
+## Conference Roles
+### Conference Committee
+- Conference Chairs: [Mariana López](team-mariana-lopez) and [Gavin Kearney](team-gavin-kearney)
+- Conference Manager: [Chaimae Alouan](team-chaimae-alouan)
+- Pre-conference workshops chairs: [Krisztián Hofstädter](team-krisztian-hofstadter) and [Monika Zabrocka](monika-zabrocka-research)
+- Sponsorship Manager: [Michael McLoughlin](team-michael-mcloughlin)
+
+### Reviewing Committee
+- Lacey Allen
+- Alice Bennett 
+- Bryony Beresford
+- [Anna Bramwell-Dicks](darci-03)
+- [Krisztián Hofstädter](team--krisztian-hofstadter)
+- Tabby Holland
+- [Gavin Kearney](team-gavin-kearney)
+- [Mariana López](team-mariana-lopez)
+- Simona Manni
+- [Michael McLoughlin](team-michael-mcloughlin)
+- Clau Nader Jaime
+- Nick Newman
+- [Sonali Rai](team-panel-rai)
+- [Kulnaree Sueroj](darci-06)
+- [Monika Zabrocka](monika-zabrocka-research)
+
+<br>
+
 ## Contact
 If you have any questions please email enhancingad@gmail.com
-
