@@ -1,7 +1,7 @@
 ---
 layout: post-team
 title:  Dr Krisztián Hofstädter
-description: Post-Doctoral Research Assistant
+description: Post-Doctoral Research Associate
 date:   2015-01-02
 image:  '/images/team-krisztian-feature.jpg'
 image-header: '/images/team-krisztian.jpg'
