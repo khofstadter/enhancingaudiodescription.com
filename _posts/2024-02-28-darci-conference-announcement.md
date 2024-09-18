@@ -9,6 +9,9 @@ tags: event
 grid: true
 ---
 
+<span class="news-icon">✨</span> <b style="color: red;">News:</b> Our submission portal is open. Click [here](https://forms.gle/8885T9KPCcnyRGft6) to access the form.
+
+<br>
 
 ## Call for Papers
 
@@ -159,6 +162,10 @@ DARCI is a hybrid conference with opportunities to present both in person in Yor
 *Concessionary (students, retired, unwaged, low-waged)
 
 Pre-conference workshops on Wednesday 10th September will cost £30 each and will include catering. 
+
+<br> 
+
+<span class="news-icon">✨</span> <b style="color: red;">News:</b> Our submission portal is open. Click [here](https://forms.gle/8885T9KPCcnyRGft6) to access the form.
 
 <br>
 
