@@ -5,7 +5,7 @@ description: "Mariana, in an interview for the podcast The Mix Room with Genelec
 image: '/images/2024-07-19-the-mix-room-interview.jpg'
 image-alt: ‘The logo of the Mix Room podcast with Mariana's face.’
 tags: [press, media, podcast]
-grid: false
+grid: true
 ---
 
 You can listen to the episode with the audio player embedded below. The interview is transcribed on the [Headline magazine's website](https://headlinermagazine.net/mariana-lopez-enhancing-audio-description-spatialisation.html).
