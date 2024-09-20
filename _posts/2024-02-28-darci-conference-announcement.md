@@ -58,7 +58,7 @@ The topics may include, but are not limited to:
 - Environmental Sustainability and Accessibility.
 - Sensoriality in museums and their role in accessibility.
 
-Submissions are through abstracts of no more than 300 words. The submission portal will be opening soon. 
+Submissions are through abstracts of no more than 300 words.
 
 DARCI is a hybrid conference with opportunities to present both in person in York and online. You will need to indicate your mode of attendance at the point of submission.
 
