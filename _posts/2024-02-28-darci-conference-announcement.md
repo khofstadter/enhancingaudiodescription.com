@@ -188,7 +188,6 @@ Pre-conference workshops on Wednesday 10th September will cost £30 each and wil
 - Simona Manni
 - [Michael McLoughlin](team-michael-mcloughlin)
 - Clau Nader Jaime
-- Nick Newman
 - [Sonali Rai](team-panel-rai)
 - [Kulnaree Sueroj](darci-06)
 - [Monika Zabrocka](monika-zabrocka-research)
