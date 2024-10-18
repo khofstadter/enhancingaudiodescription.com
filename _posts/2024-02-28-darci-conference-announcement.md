@@ -209,7 +209,7 @@ We look forward to receiving applications for these bursaries and supporting pre
 - Bryony Beresford
 - [Anna Bramwell-Dicks](darci-03)
 - Andy Egerton
-- [Krisztián Hofstädter](team--krisztian-hofstadter)
+- [Krisztián Hofstädter](team-krisztian-hofstadter)
 - Tabby Holland
 - [Gavin Kearney](team-gavin-kearney)
 - [Mariana López](team-mariana-lopez)
