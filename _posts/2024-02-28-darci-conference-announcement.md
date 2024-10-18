@@ -183,7 +183,7 @@ Our submission portal is open. Click [here](https://forms.gle/8885T9KPCcnyRGft6)
 <br>
 
 ## Bursaries
-We are pleased to offer two types of bursaries for presenters at the DARCI Conference. Our bursaries scheme is intended to support students and researchers who are facing financial barriers and who are either D/deaf or disabled, and/or residents in a geographical area underrepresented in the fields of disability and accessibility, including Latin America, Africa, Asia and the Middle East. There are two types of bursaries available and there are 5 bursaries available of each kind.
+We are pleased to offer two types of bursaries for presenters at the DARCI Conference. Our bursaries scheme is intended to support students and researchers who are facing financial barriers and who are either D/deaf or disabled, and/or residents in a geographical area underrepresented in the fields of disability and accessibility, including Latin America, Africa, Asia and the Middle East. There are a small number of bursaries available, with presenters who are eligible being able to choose from one of two types.
 
 **Type 1: Registration Fee Bursary**  
 This bursary covers the cost of conference registration fees only.
