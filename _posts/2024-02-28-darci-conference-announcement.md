@@ -193,6 +193,8 @@ This bursary covers both the conference registration fee and travel expenses (to
 
 We look forward to receiving applications for these bursaries and supporting presenters who will benefit from attending the conference. To apply for a bursary you will first need to make an abstract submission to the conference. Please submit your abstract through [this portal](https://forms.gle/8885T9KPCcnyRGft6). Once you've made your submission please apply to the bursary through [this link](https://forms.gle/hj4UMVY4BQkbNT2S9).
 
+Deadline to apply for a bursary: 18th November 5pm UK time
+
 <br>
 
 ## Conference Roles
