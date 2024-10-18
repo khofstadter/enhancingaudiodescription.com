@@ -6,10 +6,21 @@ date: 2024-02-28
 image: '/images/2024-02-28-darci-conference-announcement.jpg'
 image-alt: ‘Large building with lake in front of it.’
 tags: event
-grid: true
+grid: false
 ---
 
-<span class="news-icon">✨</span> <b style="color: red;">News:</b> Our submission portal is open. Click [here](https://forms.gle/8885T9KPCcnyRGft6) to access the form.
+**TABLE OF CONTENTS**
+- [Call for Papers](#call-for-papers)
+- [Submission Guidelines](#submission-guidelines)
+- [List of Topics](#list-of-topics)
+- [Deadlines](#deadlines)
+- [Types of Registration and Fees](#types-of-registration-and-fees)
+- [Submission Portal](#submission-portal)
+- [Bursaries](#bursaries)
+- [Conference Roles](#conference-roles)
+  - [Conference Committee](#conference-committee)
+  - [Reviewing Committee](#reviewing-committee)
+- [Contact](#contact)
 
 <br>
 
@@ -163,9 +174,24 @@ DARCI is a hybrid conference with opportunities to present both in person in Yor
 
 Pre-conference workshops on Wednesday 10th September will cost £30 each and will include catering. 
 
-<br> 
+<br>
 
-<span class="news-icon">✨</span> <b style="color: red;">News:</b> Our submission portal is open. Click [here](https://forms.gle/8885T9KPCcnyRGft6) to access the form.
+## Submission Portal
+
+Our submission portal is open. Click [here](https://forms.gle/8885T9KPCcnyRGft6) to access the form.
+
+<br>
+
+## Bursaries
+We are pleased to offer two types of bursaries for presenters at the DARCI Conference. Our bursaries scheme is intended to support students and researchers who are facing financial barriers and who are either D/deaf or disabled, and/or residents in a geographical area underrepresented in the fields of disability and accessibility, including Latin America, Africa, Asia and the Middle East. There are two types of bursaries available and there are 5 bursaries available of each kind.
+
+**Type 1: Registration Fee Bursary**  
+This bursary covers the cost of conference registration fees only.
+
+**Type 2: Enhanced Support Bursary**
+This bursary covers both the conference registration fee and travel expenses (to be agreed upon allocation of the bursary), including accommodation, for presenters who wish to attend in person. To support sustainable travel choices, we encourage applicants to consider rail travel options where possible. While we recognise that international travel may be necessary, our goal is to minimise carbon emissions and promote environmentally friendly practices. In cases where long-distance flights are required, we recommend online attendance as a more sustainable option.
+
+We look forward to receiving applications for these bursaries and supporting presenters who will benefit from attending the conference. To apply for a bursary you will first need to make an abstract submission to the conference. Please submit your abstract through [this portal](https://forms.gle/8885T9KPCcnyRGft6). Once you've made your submission please apply to the bursary through [this link](https://forms.gle/hj4UMVY4BQkbNT2S9).
 
 <br>
 
@@ -177,10 +203,12 @@ Pre-conference workshops on Wednesday 10th September will cost £30 each and wil
 - Sponsorship Manager: [Michael McLoughlin](team-michael-mcloughlin)
 
 ### Reviewing Committee
+- [Chaimae Alouan](team-chaimae-alouan)
 - Lacey Allen
 - Alice Bennett 
 - Bryony Beresford
 - [Anna Bramwell-Dicks](darci-03)
+- Andy Egerton
 - [Krisztián Hofstädter](team--krisztian-hofstadter)
 - Tabby Holland
 - [Gavin Kearney](team-gavin-kearney)
