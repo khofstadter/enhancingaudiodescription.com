@@ -20,7 +20,7 @@ tags:   [team, research team]
             {{ page.description }}
           {% endif %}
           <br><br>
-          <p>Mariana López is a Professor in Sound Production and Post Production at the Department of Theatre, Film, Television and Interactive Media at University of York, where she has been working since 2016. She has a background in music, sound design and acoustics.
+          <p>Mariana López is a Professor in Sound Production and Post Production at the School of Arts and Creative Technologies at University of York, where she has been working since 2016. She has a background in music, sound design and acoustics.
           <br><br>
           Mariana is the Principal Investigator for the Arts and Humanities Research Council (AHRC) funded project ‘Enhancing Audio Description II: Implementing accessible, personalised and inclusive film and television experiences for visually impaired audiences.’ She was also the Principal Investigator for Enhancing Audio Description, also funded by the AHRC (2016-2018), and the British Academy funded project ‘The Soundscapes of the York Mystery Plays’. She has also supervised Marie Sklodowska-Curie Fellowships throughout the years, including the project ‘Safe and Sound Drive’ by <a href="https://www.ltu.se/staff/a/arny-1.11844?l=en">Dr Arne Nykänen</a> and work by Dr Lidia Álvarez Morales on <a href="https://www.cathedralacoustics.com/">'Cathedral Acoustics'</a>. She also supervised the project <a href="https://www.acousticatlas.de/">'Acoustic Atlas'</a>, by Dr Cobi van Tonder.
           <br><br>
