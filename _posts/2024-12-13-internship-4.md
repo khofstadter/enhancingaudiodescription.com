@@ -4,7 +4,7 @@ title:  Internship
 description: We're excited to offer an internship opportunity as part of our project titled Creative and Accessible Content Creation with focus on content creation. You will work closely with our team to help develop creative and accessible content to promote the research project.
 date:   2024-11-18
 image:  '/images/2024-12-18-internship.jpg'
-image-alt: 'Event logo.'
+image-alt: 'Computer screen with video editing software.'
 tags:   [internship, hiring]
 ---  
 
