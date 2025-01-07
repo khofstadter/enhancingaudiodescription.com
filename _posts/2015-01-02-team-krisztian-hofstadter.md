@@ -5,7 +5,7 @@ description: Post-Doctoral Research Associate
 date:   2015-01-02
 image:  '/images/team-krisztian-feature.jpg'
 image-header: '/images/team-krisztian.jpg'
-image-alt: 'Krisztian drumming.'
+image-alt: 'Krisztian in his study..'
 tags:   [team, research team]
 ---
 
