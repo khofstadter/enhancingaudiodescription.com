@@ -17,7 +17,7 @@ Your own creative and technical input will be key for the following tasks:
 
 Open to all University of York students.
 
-Please see full details of this internship on our [Handshake Page](https://york.joinhandshake.co.uk/jobs/47801/share_preview).
+Please see full details of this internship on our [Handshake Page](https://york.joinhandshake.co.uk/jobs/154805/share_preview).
 
 Closing Date : **2nd January**
 
