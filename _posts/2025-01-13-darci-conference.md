@@ -17,6 +17,7 @@ grid: false
   - [Conference Committee](#conference-committee)
   - [Reviewing Committee](#reviewing-committee)
 - [Contact](#contact)
+- [Links](#links)
 
 <br>
 
@@ -166,7 +167,11 @@ Pre-conference workshops on Wednesday 10th September will cost £30 each and wil
 
 <br>
 
-Visit our [Call for Paper page](darci-conference-announcement-cfp) to access the information we initially disseminated. 
-
 ## Contact
 If you have any questions please email enhancingad@gmail.com
+
+<br>
+
+## Links
+
+You can visit our [Call for Paper page](darci-conference-announcement-cfp) to access the information we initially disseminated. 
