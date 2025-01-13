@@ -11,7 +11,6 @@ grid: false
 
 **TABLE OF CONTENTS**
 - [Introduction](#introduction)
-- [Call for Papers](#call-for-papers)
 - [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Conference Roles](#conference-roles)
@@ -33,14 +32,10 @@ The Conference on Disability, Accessibility and Representation in the Creative I
 
 The conference will take place from Wednesday 10th September to Friday 12th September. Wednesday will be dedicated to pre-conference workshops and other events, whereas Thursday and Friday will be full conference days with a variety of activities. 
 
-Visit our [Call for Paper page](darci-conference-announcement-cfp) to access the information we initially disseminated. 
-
 ![Large building with lake in front of it.](/images/2024-02-28-darci-conference-announcement.jpg)
 
 <br>
 
-## Call for Papers
-Visit our [Call for Paper page](darci-conference-announcement-cfp) to access the initial information we disseminated. 
 
 ## Deadlines
 ~~Abstract submission deadline: 4th November 2024 5pm UK time~~.
@@ -170,6 +165,8 @@ Pre-conference workshops on Wednesday 10th September will cost £30 each and wil
 - Xizi (Sylvia) Zeng
 
 <br>
+
+Visit our [Call for Paper page](darci-conference-announcement-cfp) to access the information we initially disseminated. 
 
 ## Contact
 If you have any questions please email enhancingad@gmail.com
