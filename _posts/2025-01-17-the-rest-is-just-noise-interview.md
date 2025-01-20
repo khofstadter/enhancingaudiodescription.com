@@ -6,6 +6,7 @@ image: '/images/2024-11-26-the-rest-is-just-noise-interview.jpg'
 image-alt: ‘The logo of The Rest Is Just Noise podcast.’
 tags: [press, media, podcast]
 grid: true
+date: 2025-01-20
 ---
 
 Mariana talks about the importance of her first academic job at Anglia Ruskin University (ARU) with [Rob Toulson](https://www.robtoulson.com/), which was a significant stepping stone in her career, and the huge importance to her of Rob's mentorship, as well as [Damian Murphy](https://www.york.ac.uk/physics-engineering-technology/people/damian_murphy/)'s mentorship upon returning to York to work as a lecturer. Mariana also discusses her projects, including EAD and her new book “[Sonic Pasts](https://www.routledge.com/Sonic-Pasts-Acoustical-Heritage-and-Historical-Soundscapes/Lopez/p/book/9781032300054)”, focusing on the fields of acoustical heritage and historical soundscapes from an interdisciplinary perspective, with examples on how different cultures hear and perceive sound differently. On EAD, she discusses how sound design, sound spatialization and the I-Voice are used to provide an alternative to traditional audio description (AD).
