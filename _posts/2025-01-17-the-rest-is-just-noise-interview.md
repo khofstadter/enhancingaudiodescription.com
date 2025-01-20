@@ -1,14 +1,14 @@
 ---
 layout: post-no-img-head
 title: The Rest Is Just Noise Interview
-description: "In this interview with Hasina Begum, Mariana reflects on her academic journey while discussing her research projects, including EAD and shares insights on creating inclusivity, work-life balance, and prioritizing wellbeing."
+description: "In this interview with Hasina Begum, Mariana reflects on her academic journey while discussing her research projects, including EAD, and shares insights on her approaches to equality and diversity, work-life balance, and prioritising wellbeing."
 image: '/images/2024-11-26-the-rest-is-just-noise-interview.jpg'
 image-alt: ‘The logo of The Rest Is Just Noise podcast.’
 tags: [press, media, podcast]
-grid: false
+grid: true
 ---
 
-Mariana talks about the importance of her first academic job at Anglia Ruskin University (ARU) with [Rob Toulson](https://www.robtoulson.com/), which was a significant stepping stone in her career and about returning to York, where she worked with [Damien Murphy](https://www.york.ac.uk/physics-engineering-technology/people/damian_murphy/), who played a key role in supporting her as she became a Professor. Mariana also discusses her projects, including EAD and her new book "[Sonic Pasts](https://www.routledge.com/Sonic-Pasts-Acoustical-Heritage-and-Historical-Soundscapes/Lopez/p/book/9781032300054)" on acoustical heritage from an interdisciplinary perspective, with examples on how different cultures hear and perceive sound differently. 
+Mariana talks about the importance of her first academic job at Anglia Ruskin University (ARU) with [Rob Toulson](https://www.robtoulson.com/), which was a significant stepping stone in her career, and the huge importance to her of Rob's mentorship, as well as [Damian Murphy](https://www.york.ac.uk/physics-engineering-technology/people/damian_murphy/)'s mentorship upon returning to York to work as a lecturer. Mariana also discusses her projects, including EAD and her new book “[Sonic Pasts](https://www.routledge.com/Sonic-Pasts-Acoustical-Heritage-and-Historical-Soundscapes/Lopez/p/book/9781032300054)”, focusing on the fields of acoustical heritage and historical soundscapes from an interdisciplinary perspective, with examples on how different cultures hear and perceive sound differently. On EAD, she discusses how sound design, sound spatialization and the I-Voice are used to provide an alternative to traditional audio description (AD).
 
 <center><img src="/images/2024-11-26-the-rest-is-just-noise-interview-sonic-pasts-book.webp" alt="Book Cover of Sonic Pasts." width="250"></center><br>
 
