@@ -8,6 +8,7 @@ image-alt: 'Photo of a Bob.'
 image-header: '/images/team-bob-full.jpg'
 tags:   [team, intern]
 ---
+
 <!-- begin hero -->
   <div class="container">
     <div class="row">
@@ -19,9 +20,9 @@ tags:   [team, intern]
             {{ page.description }}
           {% endif %}
           <br><br>
-          <p>My name is Bob. I’m a final-year student studying Film and Television Production. As part of my degree, I’ve undertaken several film and studio projects, and I’m currently working as the director of our final-year short film — The Red Brick House. My background in video production and picture and sound editing stems from my experience producing independent mountaineering videos and mini-documentaries.
+          <p>My name is Bob. I’m a final-year student studying Film and Television Production. As part of my degree, I’ve undertaken several film and studio projects, and I’m currently working as the director of our final-year short film — <a href="https://www.instagram.com/redbrickhouse_film/">The Red Brick House</a>. My background in video production and picture and sound editing stems from my experience producing independent mountaineering videos and mini-documentaries.
           <br><br>
-          Back in 2021, I interned at ViuTV, one of the largest television production companies in Hong Kong, working mainly as a production assistant and runner for their flagship drama series, i.SWIM. I’ve also worked in the broadcast marketing department at Disneyland Hong Kong, assisting with the internal logistics and the production of several television commercials and a range of social media content.
+          Back in 2021, I interned at ViuTV, one of the largest television production companies in Hong Kong, working mainly as a production assistant and runner for their flagship drama series, <a href="https://www.youtube.com/watch?v=BrZGhlecHY4">i.SWIM</a>. I’ve also worked in the broadcast marketing department at Disneyland Hong Kong, assisting with the internal logistics and the production of several television commercials and a range of social media content. My portfolio can be found at <a href="https://linktr.ee/Bob_Tsang">Linktree</a>. 
           <br><br>
           As an intern for the EAD project, my primary role is to create demo videos and promotional content showcasing EAD sound design methods to different staff members and industry professionals.
           </p>
