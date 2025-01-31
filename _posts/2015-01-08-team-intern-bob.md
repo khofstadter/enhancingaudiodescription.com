@@ -24,7 +24,7 @@ tags:   [team, intern]
           <br><br>
           Back in 2021, I interned at ViuTV, one of the largest television production companies in Hong Kong, working mainly as a production assistant and runner for their flagship drama series, <a href="https://www.youtube.com/watch?v=BrZGhlecHY4">i.SWIM</a>. I’ve also worked in the broadcast marketing department at Disneyland Hong Kong, assisting with the internal logistics and the production of several television commercials and a range of social media content. My portfolio can be found at <a href="https://linktr.ee/Bob_Tsang">Linktree</a>. 
           <br><br>
-          As an intern for the EAD project, my primary role is to create demo videos and promotional content showcasing EAD sound design methods to different staff members and industry professionals.
+          As an intern for the EAD project, my primary role is to create demo videos and promotional content showcasing EAD sound design methods to industry professionals.
           </p>
            </div>
           <div class="hero2__right">
