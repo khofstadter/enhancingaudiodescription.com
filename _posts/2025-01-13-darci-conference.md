@@ -12,8 +12,8 @@ grid: false
 **TABLE OF CONTENTS**
 - [Introduction](#introduction)
 - [Keynote Speakers](#keynote-speakers)
-  - [Prof. Hannah Thompson](#prof-hannah-thompson)
   - [Raymond Antrobus](#raymond-antrobus)
+  - [Prof. Hannah Thompson](#prof-hannah-thompson)
 - [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Conference Roles](#conference-roles)
@@ -42,24 +42,30 @@ The conference will take place from Wednesday 10th September to Friday 12th Sept
 
 ## Keynote Speakers
 
-### Prof. Hannah Thompson 
-Title: The Sensational Museum: Disability Gain and the Journey from Access to Inclusion
-
-Abstract: [The Sensational Museum](https://sensationalmuseum.org/) is a 27-month AHRC-funded research project which runs between April 2023 and July 2025. Underpinned by specialisms in design, digital heritage, disability studies, psychology, public history, and professional experience in the heritage sector, TSM rejects the ‘look and learn’ approach that has influenced both how museums construct and store collections information and how this information is communicated to audiences. 
- In this plenary, project PI Professor Hannah Thompson will present the project’s key findings and argue that the project’s focus on ‘Disability Gain’ and the resulting progression from ‘access’ to ‘inclusion’ can offer a blueprint for the cultural sector more widely.
-The project is grounded in action research and co-creation with industry professionals. We worked with a range of museums across the UK, to create environments where no one sense is necessary or sufficient for a fulfilling museum experience. Rather than providing additional accommodations for workers’ and visitors’ specific needs, we explore how institutions might embed inclusive designs and content into everything they do, meaning that every museum visitor and professional can trust that the museum will be accessible to them.
-This sector-transforming multisensory challenge raises a critical question – how do we unpick millennia of ocularcentric bias whilst still maintaining visitor and practitioner trust? Our solution builds on the theory of ‘Disability Gain’, recognizing that disabled living, and adaptations developed for and by disabled people, can enhance the experiences of everyone. TSM aims to put disability at the centre of all aspects of practice – from collections management and curation to exhibition design and education – and use what we know about disability to change how everyone engages in a museum. 
-Thompson will present the theoretical underpinnings behind the Sensational Museum project, before exploring some of the project’s outputs and discussing the impact on TSM lessons learnt  for the cultural sector more broadly.  
-
-Bio: Professor Hannah Thompson (Royal Holloway, University of London) is a partially blind academic and activist. Her research focuses on the intersections between Critical Disability Studies and French Studies and she has published 3 monographs and numerous papers on nineteenth-century French literature.  Hannah is currently working on creative audio description in museums, art galleries and theatres and her notion of ‘blindness gain’. She was Production Consultant for the Donmar Warehouse’s installation BLINDNESS in 2020 and worked with a range of theatres and audio describers during her AHRC 2021-2 EDI Fellowship ‘Inclusive Description for Equality and Access’. In April 2023 she became PI on a £1M AHRC-funded grant The Sensational Museum which aims to ‘use what we know about disability to change how museums work for everyone.’ Hannah writes about her place as a partially blind academic in a resolutely sighted world in her blog [Blind Spot](http://hannah-thompson.blogspot.com/).
-
 ### Raymond Antrobus
 
 Title: An Investigation of Missing Sound
 
-Abstract: Antrobus has described himself as an 'Investigator of Missing Sound', what does that mean to him and how might it apply to his, and potentially, our, writing lives? 
+Antrobus has described himself as an 'Investigator of Missing Sound', what does that mean to him and how might it apply to his, and potentially, our, writing lives? 
 
-Bio: Raymond Antrobus is the author of three poetry titles: The Perseverance (Penned in the Margins), All The Names Given (Picador) and Signs, Music (Picador). Antrobus’s poems have been added to GCSE syllabi, and his poetry has won the Ted Hughes Award, the Somerset Maugham Award and the Sunday Times Young Writer of the Year Award. In 2019 he became the first ever poet to be awarded the Rathbone Folio Prize for best work of literature in any genre. He is also the author of two children’s picturebooks, including Can Bears Ski? (Walkers Books), which became the first story to be broadcast on the BBC entirely in British Sign Language. Antrobus is an advocate for several D/deaf charities, including Deaf Kidz International and the National Deaf Children’s Society. Antrobus was elected a Fellow of the Royal Society of Literature in 2020 and appointed an MBE in 2021. 
+<center><img src="/images/2025-01-13-darci-conference-raymond.webp" alt="Profile picture of Raymond."></center><br>
+
+Raymond Antrobus is the author of three poetry titles: The Perseverance (Penned in the Margins), All The Names Given (Picador) and Signs, Music (Picador). Antrobus’s poems have been added to GCSE syllabi, and his poetry has won the Ted Hughes Award, the Somerset Maugham Award and the Sunday Times Young Writer of the Year Award. In 2019 he became the first ever poet to be awarded the Rathbone Folio Prize for best work of literature in any genre. He is also the author of two children’s picturebooks, including Can Bears Ski? (Walkers Books), which became the first story to be broadcast on the BBC entirely in British Sign Language. Antrobus is an advocate for several D/deaf charities, including Deaf Kidz International and the National Deaf Children’s Society. Antrobus was elected a Fellow of the Royal Society of Literature in 2020 and appointed an MBE in 2021. 
+
+### Prof. Hannah Thompson 
+Title: The Sensational Museum: Disability Gain and the Journey from Access to Inclusion
+
+[The Sensational Museum](https://sensationalmuseum.org/) is a 27-month AHRC-funded research project which runs between April 2023 and July 2025. Underpinned by specialisms in design, digital heritage, disability studies, psychology, public history, and professional experience in the heritage sector, TSM rejects the ‘look and learn’ approach that has influenced both how museums construct and store collections information and how this information is communicated to audiences. 
+
+In this plenary, project PI Professor Hannah Thompson will present the project’s key findings and argue that the project’s focus on ‘Disability Gain’ and the resulting progression from ‘access’ to ‘inclusion’ can offer a blueprint for the cultural sector more widely.
+The project is grounded in action research and co-creation with industry professionals. We worked with a range of museums across the UK, to create environments where no one sense is necessary or sufficient for a fulfilling museum experience. Rather than providing additional accommodations for workers’ and visitors’ specific needs, we explore how institutions might embed inclusive designs and content into everything they do, meaning that every museum visitor and professional can trust that the museum will be accessible to them.
+
+This sector-transforming multisensory challenge raises a critical question – how do we unpick millennia of ocularcentric bias whilst still maintaining visitor and practitioner trust? Our solution builds on the theory of ‘Disability Gain’, recognizing that disabled living, and adaptations developed for and by disabled people, can enhance the experiences of everyone. TSM aims to put disability at the centre of all aspects of practice – from collections management and curation to exhibition design and education – and use what we know about disability to change how everyone engages in a museum. 
+Thompson will present the theoretical underpinnings behind the Sensational Museum project, before exploring some of the project’s outputs and discussing the impact on TSM lessons learnt  for the cultural sector more broadly.  
+
+<center><img src="/images/2024-12-06-darci-12.webp" alt="Profile picture of Hannah."></center><br>
+
+Professor Hannah Thompson (Royal Holloway, University of London) is a partially blind academic and activist. Her research focuses on the intersections between Critical Disability Studies and French Studies and she has published 3 monographs and numerous papers on nineteenth-century French literature.  Hannah is currently working on creative audio description in museums, art galleries and theatres and her notion of ‘blindness gain’. She was Production Consultant for the Donmar Warehouse’s installation BLINDNESS in 2020 and worked with a range of theatres and audio describers during her AHRC 2021-2 EDI Fellowship ‘Inclusive Description for Equality and Access’. In April 2023 she became PI on a £1M AHRC-funded grant The Sensational Museum which aims to ‘use what we know about disability to change how museums work for everyone.’ Hannah writes about her place as a partially blind academic in a resolutely sighted world in her blog [Blind Spot](http://hannah-thompson.blogspot.com/).
 
 
 ## Deadlines
