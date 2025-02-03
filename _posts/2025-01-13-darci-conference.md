@@ -67,6 +67,7 @@ Thompson will present the theoretical underpinnings behind the Sensational Museu
 
 Professor Hannah Thompson (Royal Holloway, University of London) is a partially blind academic and activist. Her research focuses on the intersections between Critical Disability Studies and French Studies and she has published 3 monographs and numerous papers on nineteenth-century French literature.  Hannah is currently working on creative audio description in museums, art galleries and theatres and her notion of ‘blindness gain’. She was Production Consultant for the Donmar Warehouse’s installation BLINDNESS in 2020 and worked with a range of theatres and audio describers during her AHRC 2021-2 EDI Fellowship ‘Inclusive Description for Equality and Access’. In April 2023 she became PI on a £1M AHRC-funded grant The Sensational Museum which aims to ‘use what we know about disability to change how museums work for everyone.’ Hannah writes about her place as a partially blind academic in a resolutely sighted world in her blog [Blind Spot](http://hannah-thompson.blogspot.com/).
 
+<br>
 
 ## Deadlines
 ~~Abstract submission deadline: 4th November 2024 5pm UK time~~.
