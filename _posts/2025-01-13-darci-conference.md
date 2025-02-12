@@ -1,6 +1,6 @@
 ---
 layout: post-no-img-head
-title: "DARCI Conference: Call for Papers"
+title: "DARCI Conference"
 description: We are delighted to announce that in September 2025 we will be hosting the Conference on Disability, Accessibility and Representation in the Creative Industries (DARCI) at the University of York (UK).
 date: 2025-01-07
 image: '/images/2024-02-28-darci-conference-announcement.jpg'
