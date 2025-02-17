@@ -126,6 +126,22 @@ Petra Kuppers (she/her) is a disability culture activist and a community perform
 Title: Blue Badge Bunch
 Abstract/Bio TBC
 
+<!--
+Step into a world of rip-roaring laughter and learning with "Blue Badge Bunch" - the most engaging, inclusive game show that's taking the nation by storm! Designed for kids and grown-ups alike, this show promises heaps of fun and insight in equal measure. The perfect way to spend your time, whatever your abilities! Blue Badge Bunch has toured the UK three times and had two full runs at the Edinburgh Festival Fringe at the Pleasance Courtyard, as well as receiving three rounds of Arts Council funding for its innovative ideas and disabled representation. Join Benny Shakes for an interactive session that highlights the skills of people with disabilities. The workshop features a series of games and challenges, including drawing with feet, cooking one-handed, and representing audio description in theatre and TV. Audience members are invited up on stage to compete in the games including:
+
+- The Big Draw: Showcasing artists with limb difference
+- That's Life: Cooking one-handed while being poked by giant foam fingers
+- Let's Talk: Describing images to draw, representing audio description in theatre and TV
+- System Overload: Completing tasks while wearing headphones with multiple instructions
+- Jamie's Gamey!: Guessing TV show titles and instructions from symbols
+
+Benny is a standup comedian and workshop leader, he has led the team on three successful tours and two Edinburgh Fringe runs at the Pleasance Courtyard. Benny has Cerebral Palsy. He is the winner of the ND review Disabled Champions Award 2023, as heard on BBC Radio 4 and creator of the hit show Blue Badge Bunch.
+
+"Benny Shakes is a great comic, end of story” (Stageside UK). 
+
+“The honesty and humour cannot fail to endear the audience” (Theatre & Arts Review).
+-->
+
 <br>
 
 ### Andrew Lansley
