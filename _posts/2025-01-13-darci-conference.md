@@ -124,6 +124,7 @@ Petra Kuppers (she/her) is a disability culture activist and a community perform
 
 ### Benny Shakes
 Title: Blue Badge Bunch
+
 Abstract/Bio TBC
 
 <!--
