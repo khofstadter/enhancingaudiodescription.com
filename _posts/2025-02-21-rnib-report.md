@@ -1,12 +1,12 @@
 ---
 layout: post-no-img-head
 title: "RNIB report: Improving audio description for documentary television programs"
-description: "Emily Woods, our Summer 2022 intern, wrote an important report on how to enhance TV documentary audio descriptions (AD) based on RNIB's interviews, focus groups and surveys. Key insights from AD users emphasize such as the need for concise scripts, matching delivery style, and balanced audio."
-date: 2025-02-21
+description: "Emily Woods, our Summer 2022 intern, worked with RNIB to produce a report on how to enhance TV documentary AD based on interviews, focus groups and surveys.  Among other things, participants mentioned that sound effects should be rich and clear as they can enhance understanding, and noted the importance of considering AD early on in the production process."
+date: 2025-02-24
 image: '/images/2025-02-21-rnib-report.webp'
 image-alt: ‘RNIB logo’
 tags: [RNIB, report]
-grid: false
+grid: true
 ---
 
 ![RNIB logo](/images/2025-02-21-rnib-report.webp)
