@@ -76,7 +76,7 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 
 - Joel Snyder: Audio Description: If Your Eyes Could Speak
 - Elizabeth Kuti: Making Inclusive Audio Drama
-- Michelle Duxbury: Creative Audio Description Through an Exploration of the Landscape Beyond the Visual
+- Michelle Duxbury: 'Nature: Sensory: an introduction to creative audio description through multi-sensory exploration of the landscape'
 - Petra Kuppers: Planting Disabled Futures: a Community Performance/Virtual Reality Experience
 - Benny Shakes: Blue Badge Bunch
 - Andrew Lansley: Reshaping Representation: Music, Accessibility, and the Power of Collaboration
