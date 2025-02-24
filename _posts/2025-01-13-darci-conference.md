@@ -174,9 +174,9 @@ Quassima Bakkali Hassani holds a PhD in Audiovisual Translation from Pablo de Ol
 
 **Registration opens**: 10th March 2025
 
-**Early Bird Registration closes**: 30th June 2025 5pm UK time
-
 **Submission of revised abstracts (if required)**: 2nd May 2025 9am (UK time)   
+
+**Early Bird Registration closes**: 30th June 2025 5pm UK time
 
 <!-- **Final submission deadline**: 11th July 2025 5pm UK time. -->
 
