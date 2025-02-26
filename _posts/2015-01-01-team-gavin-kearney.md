@@ -3,8 +3,8 @@ layout: post-team
 title:  Professor Gavin Kearney
 description: Co-Investigator
 date:   2015-01-03
-image:  '/images/team-gavin-feature.jpg'
-image-header: '/images/team-gavin.jpg'
+image:  '/images/team-gavin-feature.webp'
+image-header: '/images/team-gavin.webp'
 image-alt: 'Gavin in his studio.'
 tags:   [team, research team]
 ---

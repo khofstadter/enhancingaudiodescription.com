@@ -3,13 +3,13 @@ layout: post-no-img-head
 title: "Symposium Speaker: Emily Beaney"
 description: "We are delighted to announce Emily Beaney, one of our symposium speakers in Edinburg this May. This post features the abstract of her presentation and her bio."
 date: 2024-03-31
-image: '/images/2024-03-31-symposium-speaker-emily-beaney.jpg'
+image: '/images/2024-03-31-symposium-speaker-emily-beaney.webp'
 image-alt: 'Emily kneeling with an old camera on green grass outside.'
 tags: event
 grid: true
 ---
 
-<center><img src="../images/2024-03-31-symposium-speaker-emily-beaney.jpg" alt="Emily kneeling with an old camera on green grass outside. It's sunny." width="500"></center>
+<center><img src="../images/2024-03-31-symposium-speaker-emily-beaney.webp" alt="Emily kneeling with an old camera on green grass outside. It's sunny." width="500"></center>
 
 <br>
 

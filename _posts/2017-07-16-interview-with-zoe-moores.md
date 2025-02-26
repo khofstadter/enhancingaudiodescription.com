@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Zoe Moores
 date:   2017-07-16
-image:  '/images/2017-07-16-interview-with-zoe-moores.jpg'
+image:  '/images/2017-07-16-interview-with-zoe-moores.webp'
 image-alt: 'A photo of Zoe.'
 tags:   [interview, people]
 ---

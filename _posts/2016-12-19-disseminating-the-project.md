@@ -3,7 +3,7 @@ layout: post
 title: Disseminating the Project
 description: I haven’t written a diary entry for a while and that’s mostly because I’ve been busy disseminating the Enhancing Audio Description project through talks in a series of events.
 date:   2016-12-19
-image:  '/images/2016-12-19-disseminating-the-project.jpg'
+image:  '/images/2016-12-19-disseminating-the-project.webp'
 image-alt: 'Marianna and Gavin presenting in front of an audience.'
 tags:   [event, dissemination]
 ---

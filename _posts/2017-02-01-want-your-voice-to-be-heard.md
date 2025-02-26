@@ -3,12 +3,12 @@ layout: post
 title:  Want your voice to be heard? Surveys and the end user.
 description: You may remember that back in August we conducted online/telephone surveys on current accessibility measures and hopes for the future of Audio Description. We received 127 responses which have been invaluable to our research – but what encouraged participants to respond?
 date:   2017-02-01
-image:  '/images/2017-02-01-want-your-voice-to-be-heard.jpg'
+image:  '/images/2017-02-01-want-your-voice-to-be-heard.webp'
 image-alt: 'A colourful pie chart.'
 tags:   [analysis]
 ---
 
-![The pie chart on the left displays percentages and text on the right describes each slice in the pie.](../images/2017-02-01-want-your-voice-to-be-heard-1.jpg)
+![The pie chart on the left displays percentages and text on the right describes each slice in the pie.](../images/2017-02-01-want-your-voice-to-be-heard-1.webp)
 
 32% of our participants found out about the survey by email, which was sent to and distributed by different groups and individuals. Over 30% of our participants heard about the survey through a charity. Huge thanks to all the groups and organisations that helped us disseminate the call for participants, here are some of them:
 
@@ -37,7 +37,7 @@ tags:   [analysis]
 - [VISTA](https://www.vistablind.org.uk/)
 - [York Blind and Partially Sighted Society](https://www.mysightyork.org/)
 
-![The pie chart on the left displays percentages and text on the right describes each slice in the pie.](../images/2017-02-01-want-your-voice-to-be-heard-2.jpg)
+![The pie chart on the left displays percentages and text on the right describes each slice in the pie.](../images/2017-02-01-want-your-voice-to-be-heard-2.webp)
 
 31% of our participants told us that their primary motivation for taking part in the survey was their interest in Audio Description, and 24% indicated they participated because they believe in promoting research on accessibility. For 12% of those who took part, our survey gave them the opportunity for their voice to be heard. With these reasons in mind, and overwhelming 83% of participants said they were happy to be contacted in the future.
 

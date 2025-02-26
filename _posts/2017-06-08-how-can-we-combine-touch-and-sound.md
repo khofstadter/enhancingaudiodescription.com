@@ -3,7 +3,7 @@ layout: post
 title:  How can we combine touch and sound...
 description:  – as well as visual qualities – in interaction? A guest post by Emilie Giles.
 date:   2017-06-08
-image:  '/images/2017-06-08-how-can-we-combine-touch-and-sound.jpg'
+image:  '/images/2017-06-08-how-can-we-combine-touch-and-sound.webp'
 image-alt: 'A photo of textiles and electronics.'
 tags:   [electronic textiles]
 ---
@@ -18,15 +18,15 @@ Because it is important to us to ensure that users have agency over what they do
 
 When the making process began we wanted the participants to explore different fabrics, really spending some time reflecting on the feel of them and what associations they prompted. We passed swatches round, and they suggested associations such as a plastic-y fabric feeling like an ‘umbrella’ or a woven rough fabric feeling like ‘snake skin’.
 
-![](images/2017-06-08-how-can-we-combine-touch-and-sound-2-of-13.jpg)
+![](images/2017-06-08-how-can-we-combine-touch-and-sound-2-of-13.webp)
 
 To embed sounds into their textile work, and to make it interactive, the participants worked with small re-recordable devices (similar to those found in greeting cards). However, instead of working with the usual ‘hard wires’ in these devices we hacked the devices to use ‘soft wires’ instead. These were made from conductive thread, tube yarn (as insulation) and metal poppers (to form connections). These soft wires would form the connection between the ‘soft circuit buttons or e-textile switches, and the re-recordable devices.
 
-![](images/2017-06-08-how-can-we-combine-touch-and-sound-11-of-13.jpg)
+![](images/2017-06-08-how-can-we-combine-touch-and-sound-11-of-13.webp)
 
 Not only did the participants learn how to make soft circuits, but they also practiced weaving, finger knitting, and felt making, producing materials which they were free to incorporate into their final pieces if they wished. We explored these crafting techniques to see which are accessible and feasible with limited sight, mainly relying on touch.
 
-![](images/2017-06-08-how-can-we-combine-touch-and-sound-8-of-13.jpg)
+![](images/2017-06-08-how-can-we-combine-touch-and-sound-8-of-13.webp)
 
 Some of these crafting techniques were found to be more challenging than others, but every participant was different, so what one person enjoyed and found they could do, another found not so enjoyable and very challenging.
 
@@ -35,19 +35,19 @@ By the last session, each participant had constructed a set of soft-circuit butt
 These soft-circuit buttons were composed onto a backing fabric, held in place with adhesive or fabric tape.
 
 
-![](images/2017-06-08-how-can-we-combine-touch-and-sound-5-of-13.jpg)
+![](images/2017-06-08-how-can-we-combine-touch-and-sound-5-of-13.webp)
 
 Some of the participants added additional, non-interactive elements to their work, made from crafting materials such as beads, flowers and little wooden shapes.
 
-![](images/2017-06-08-how-can-we-combine-touch-and-sound-7-of-13.jpg)
+![](images/2017-06-08-how-can-we-combine-touch-and-sound-7-of-13.webp)
 
 Most of the participants created an interactive wall-hanging. Most of the participants created an interactive wall-hanging.
 
-![](images/2017-06-08-how-can-we-combine-touch-and-sound-10-of-13.jpg)
+![](images/2017-06-08-how-can-we-combine-touch-and-sound-10-of-13.webp)
 
 It was great to see all the hard work come together and by the end of the workshop produce such a diverse collection of e-textile art pieces – all working, and all personal to the maker. The participants had chosen a wide range of themes:  children, the rainforest, a seascape with a trawler and lighthouse, a tribute to grandparents, family and friends, favourite pets and animals.
 
-![](images/2017-06-08-how-can-we-combine-touch-and-sound-13-of-13.jpg)
+![](images/2017-06-08-how-can-we-combine-touch-and-sound-13-of-13.webp)
 
 We also held an informal showcase of the work, for which the participants wrote descriptions of their creations. As they presented their pieces, they conveyed their pride in the interactive objects, and they shared their stories with the audience.
 

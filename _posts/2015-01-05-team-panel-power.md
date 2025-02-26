@@ -3,9 +3,9 @@ layout: post-team
 title:  Jason Power
 description: Senior Director, Commercial Partnerships and Standards - Dolby
 date:   2015-01-05
-image:  '/images/team-jason-feature.jpg'
+image:  '/images/team-jason-feature.webp'
 image-alt: 'Jason'
-image-header: '/images/team-jason.jpg'
+image-header: '/images/team-jason.webp'
 tags:   [team, advisory panel]
 ---
 <!-- begin hero -->

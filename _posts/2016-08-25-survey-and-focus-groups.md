@@ -3,7 +3,7 @@ layout: post
 title:  Survey and Focus Groups
 description: As part of the first phase of Enhancing Audio Description we conducted an online/telephone survey as well as focus groups on current accessibility measures and the future of Audio Description.
 date:   2016-08-25
-image:  '/images/2016-08-25-survey-and-focus-groups.jpg'
+image:  '/images/2016-08-25-survey-and-focus-groups.webp'
 image-alt: 'A photo of Marina addressing a focus group in a screening room.'
 tags:   [event, data collection]
 ---
@@ -14,4 +14,4 @@ We held 8 focus groups as part of the project, 4 in Cambridge and 4 in York, and
 
 We are working on reading through all the feedback and we will publish updates as soon as possible!
 
-![A women looking through a dusty window.](../images/2016-08-25-survey-and-focus-groups-pearl-screenshot.jpg)
+![A women looking through a dusty window.](../images/2016-08-25-survey-and-focus-groups-pearl-screenshot.webp)

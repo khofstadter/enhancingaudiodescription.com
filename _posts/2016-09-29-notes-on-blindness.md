@@ -3,7 +3,7 @@ layout: post
 title:  Notes on Blindness
 description: Back in June I had the pleasure of being invited to the screening of Notes on Blindness at Sheffield Doc Fest. I had watched the short documentary online a while back and was fascinated by the audio-visual aesthetics and the intriguing accounts in John Hull’s diaries, so…I didn’t hesitate to accept the invitation.
 date:   2016-09-29
-image:  '/images/2016-09-29-notes-on-blindness.jpg'
+image:  '/images/2016-09-29-notes-on-blindness.webp'
 image-alt: 'A photo of a book cover.'
 tags:   [film]
 ---

@@ -3,9 +3,9 @@ layout: post-team
 title:  Anna Bertmark
 description: Sound Designer and Sound Editor
 date:   2015-01-05
-image:  '/images/team-anna-feature.jpg'
+image:  '/images/team-anna-feature.webp'
 image-alt: 'Photo of a Anna.'
-image-header: '/images/team-anna.jpg'
+image-header: '/images/team-anna.webp'
 tags:   [team, advisory panel]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  Inclusive Impact Award Nomination
 description: Our project has been nominated for an Inclusive Impact Award!
 date:   2022-10-26
-image:  '/images/2022-10-26-inclusivity-nomination.jpg'
+image:  '/images/2022-10-26-inclusivity-nomination.webp'
 image-alt: 'Award logo.'
 tags:   [event]
 ---

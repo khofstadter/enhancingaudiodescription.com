@@ -3,9 +3,9 @@ layout: post-team
 title:  Emily Wood
 description: Student Intern (Summer 2022)
 date:   2015-01-04
-image:  '/images/team-intern-emily-feature.jpg'
+image:  '/images/team-intern-emily-feature.webp'
 image-alt: 'Photo of a Emily.'
-image-header: '/images/team-intern-emily.jpg'
+image-header: '/images/team-intern-emily.webp'
 tags:   [team, intern]
 ---
 <!-- begin hero -->

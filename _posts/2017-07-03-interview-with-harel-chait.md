@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Harel Chait
 date:   2017-07-03
-image:  '/images/2017-07-03-interview-with-harel-chait.jpg'
+image:  '/images/2017-07-03-interview-with-harel-chait.webp'
 image-alt: 'A photo of Harel.'
 tags:   [interview, people]
 ---
@@ -33,4 +33,4 @@ Harel took part in our [conference](conference-on-accessibility-in-film-televisi
 
 <br>
 
-![Harel presenting](../images/2017-07-03-interview-with-harel-chait-conference.jpg)
+![Harel presenting](../images/2017-07-03-interview-with-harel-chait-conference.webp)

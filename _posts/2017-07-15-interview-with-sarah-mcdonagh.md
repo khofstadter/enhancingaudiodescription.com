@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Sarah McDonagh
 date:   2017-07-15
-image:  '/images/2017-07-15-interview-with-sarah-mcdonagh.jpg'
+image:  '/images/2017-07-15-interview-with-sarah-mcdonagh.webp'
 image-alt: 'A photo of Sarah.'
 tags:   [interview, people]
 ---

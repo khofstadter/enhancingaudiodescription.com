@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Kate Dangerfield
 date:   2017-09-09
-image:  '/images/2017-09-09-interview-with-kate-dangerfield.jpg'
+image:  '/images/2017-09-09-interview-with-kate-dangerfield.webp'
 image-alt: 'A photo of Kate.'
 tags:   [interview, people]
 ---
@@ -35,4 +35,4 @@ Kate also took part in our [conference](conference-on-accessibility-in-film-tele
 
 <br>
 
-![Kate's presentation](../images/2017-09-09-interview-with-kate-dangerfield-conference.jpg)
+![Kate's presentation](../images/2017-09-09-interview-with-kate-dangerfield-conference.webp)

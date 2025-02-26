@@ -3,7 +3,7 @@ layout: post
 title: Panel discussion with filmmakers at King's Manor
 description: Discussion on accessible filmmaking within the context of the EAD methods.
 date:   2023-11-09
-image:  '/images/2023-11-09-kings-manor-discussion.jpg'
+image:  '/images/2023-11-09-kings-manor-discussion.webp'
 image-alt: 'An image with two frames from the short films discussed.'
 tags:   [event]
 ---

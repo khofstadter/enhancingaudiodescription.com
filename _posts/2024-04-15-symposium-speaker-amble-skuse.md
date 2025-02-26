@@ -3,13 +3,13 @@ layout: post-no-img-head
 title: "Symposium Speaker: Amble Skuse"
 description: "We are delighted to announce Amble Skuse, one of our symposium speakers in Edinburg this May. This post features the abstract of her presentation and her bio."
 date: 2024-04-15
-image: '/images/2024-04-15-symposium-speaker-amble-skuse.jpg'
+image: '/images/2024-04-15-symposium-speaker-amble-skuse.webp'
 image-alt: 'Amble in a wheelchair with overear headphones.'
 tags: event
 grid: true
 ---
 
-![Amy performing in an artistically lit room with gadgets around her.](../images/2024-04-15-symposium-speaker-amble-skuse.jpg)
+![Amy performing in an artistically lit room with gadgets around her.](../images/2024-04-15-symposium-speaker-amble-skuse.webp)
 
 **Embodied Sound - Sounds Different to Me**
 

@@ -3,7 +3,7 @@ layout: post-no-img-head
 title: "DARCI Conference"
 description: We are delighted to announce that in September 2025 we will be hosting the Conference on Disability, Accessibility and Representation in the Creative Industries (DARCI) at the University of York (UK).
 date: 2025-01-07
-image: '/images/2024-02-28-darci-conference-announcement.jpg'
+image: '/images/2024-02-28-darci-conference-announcement.webp'
 image-alt: ‘Large building with lake in front of it.’
 tags: event
 grid: false
@@ -37,7 +37,7 @@ The Conference on Disability, Accessibility and Representation in the Creative I
 
 The conference will take place from Wednesday 10th September to Friday 12th September. Wednesday will be dedicated to pre-conference workshops and other events, whereas Thursday and Friday will be full conference days with a variety of activities. 
 
-![Large building with lake in front of it.](/images/2024-02-28-darci-conference-announcement.jpg)
+![Large building with lake in front of it.](/images/2024-02-28-darci-conference-announcement.webp)
 
 <br>
 
@@ -81,89 +81,6 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 - Benny Shakes: Blue Badge Bunch
 - Andrew Lansley: Reshaping Representation: Music, Accessibility, and the Power of Collaboration
 - Ouassima Bakkali Hassani: Exploring Audiovisual Translation: The Art and Techniques of Subtitling 
-
-<!-- 
-### Joel Snyder
-Title: Audio Description: If Your Eyes Could Speak
-
-Abstract/Bio TBC
-
-How can a blind person “see” a media event, a theatrical presentation, or a museum exhibit? This workshop will demonstrate how audio description (AD) provides access to the arts for people who are blind – and involve workshop participants in the creation of AD for short video excerpts. AD makes visual images accessible for people who are blind or have low vision via a translation of visual images to succinct language. Using words that are vivid and imaginative, describers observe, select, and use language to convey the visual image that is not fully accessible to a significant segment of the population. This interactive session will be largely based on my own professional audio description work over 44 years in the areas of performing arts (theater, dance, opera), media (film, video, DVDs, streaming services), and museums. All providers of audio description and those interested in studying AD should have adequate training in the fundamentals of audio description. In addition to an overview of the history of audio description and a focus on the nature of the audiences for audio description, the workshop to be presented is focused on “The Four Fundamentals of Audio Description” developed by Dr. Snyder throughout the 1990s:
-
-- OBSERVATION: Active Seeing / Visual Literacy -- how to develop skills in concentration and observation
-- EDITING: WHAT SHOULD BE DESCRIBED -- the art of ""editing"" from what you see
-- LANGUAGE: WHAT WORDS TO USE – Brevity, Imagination, Objectivity
-- VOCAL SKILLS: using the spoken word to make meaning"
-
-Dr. Joel Snyder is known internationally as one of the world’s first “audio describers,” a pioneer in the field of Audio Description. Since 1981, he has introduced audio description techniques in over 40 states and 65 countries and has made thousands of live events, media projects and museums accessible.  In 2014, the American Council of the Blind published Dr. Snyder’s book, The Visual Made Verbal – A Comprehensive Training Manual and Guide to the History and Applications of Audio Description, is available as an audio book, in Braille, and in English, Polish, Russian, Portuguese, Spanish, Italian, and Chinese print editions. His PhD is from the Universitat Autonoma de Barcelona with a focus on audiovisual translation/audio description. Dr. Snyder is the President of Audio Description Associates, LLC and the Founding Director Emeritus of the Audio Description Project of the American Council of the Blind. -->
-
-<!-- 
-### Elizabeth Kuti
-Title: Making Inclusive Audio Drama
-
-Abstract/Bio TBC
-
-This workshop will take participants through a series of practical exercises for writing audio drama parts for actors with learning disabilities, and neurodiversity of all kinds. Participants will discuss the ethics of ‘writing with’ and ‘writing for’ groups, and the dangers of ‘ventriloquizing’ the voices of LD people. They will examine how best to work collaboratively to provide a platform for the authentic portrayal and representation of learning disabled and neurodivergent people. They will also investigate inclusive rehearsal practices. Elizabeth will offer practical exercises and provocations drawing on my work at the University of Essex, with the BBC, with independent audio drama companies such as Pier Productions, and with the theatre company Separate Doors. Through the workshop Elizabeth will offer a practical exploration and discussion of her findings and her proposed best practice guidelines for audio drama producers who wish to 'normalize' the voices, stories and experiences of ND people in audio drama. I will discuss artistic and practical strategies for making inclusive audio drama and reaching both 'ND' and non-ND audiences, and invite further exploration of the issues, practical, ethical, artistic and political in being a non-learning disabled playwright or drama producer working with actors who have learning disabilities or other neurodivergencies. This will be an inclusive workshop and Elizabeth welcomes the presence of non-neurotypical participants. Delegates are encouraged to bring pen and paper.
-
-Elizabeth is a playwright whose works include The Sugar Wife (Abbey Theatre, Dublin, 2024; Project Arts Dublin and Soho Theatre, 2005-6;); Fishskin Trousers (Finborough Theatre, 2014; Park Theatre, 2017); Treehouses (Abbey Theatre Dublin 2000); and for radio, Sea Longing (BBC Radio 3 2019). She was the Writer in Residence at Hampton Court Theatre from 2015-16 and wrote over fifty micro-plays for performance in the Palace over that period. She have won the Susan Smith Blackburn Prize, a Stewart Parker Award and the BBC Audio Drama award for Best Original Drama. Elizabeth is a Professor at the University of Essex where she has taught drama, playwriting and literature since 2004. Her audio drama Gret and Will starring Sarah Gordy MBE, an actor with Down’s Syndrome, was produced by Pier Productions and broadcast on BBC Radio 4 in 2023. She has also worked with director Ness Brooks for Separate Doors Theatre Company writing drama for neurodivergent actors (Derby Playhouse and Chichester Theatre), and supervised the playwright Judith Johnson’s Ph.D. in writing plays with and for the inclusive theatre company Razed Roof. Making Inclusive Audio Drama is her account and analysis of best practice for playwrights and audio drama producers who want to make audio drama with neurodivergent actors. -->
-
-<!--
-### Michelle Duxbury
-Title: Creative Audio Description Through an Exploration of the Landscape Beyond the Visual
-
-Abstract/Bio TBC
-
-Join disabled and neurodivergent artist Michelle Duxbury for an introduction to creative audio description through an exploration of the landscape beyond the visual. During the first part of the workshop, participants will spend some time exploring the outdoor space on campus, working with a series of prompts and provocations designed to centre a multi-sensory approach to engaging with the landscape. Participants will be encouraged to immerse themselves in the sounds and smells and feel of the landscape, documenting and recording their experiences using simple equipment such as their phones or notepads. In the second part of the workshop, participants will be invited to spend some time creating an audio description of the outdoor space they were exploring, again centering a multi-sensory approach and stepping away from a simple visual description. At the end of the session participants will be invited to share their audio descriptions with the group, if they are comfortable to do so. Alternatively Michelle is happy to share on their behalf.
-
-Michelle Duxbury is an artist and postgraduate researcher from Leeds, with a studio practice based in Wakefield. Her work explores an intrinsic link between landscape, body and identity, and how our individual and collective (dis)connection to landscape can impact on our feelings of belonging/not belonging. She works with embroidery, moving image, sound and immersive installation work, using fictional narratives and speculative thinking to radically reimagine how disabled (and other marginalised) people might interact with landscapes they can not be physically present in, drawing on her own experiences as a disabled, neurodivergent woman from a working-class background. -->
-
-<!-- 
-### Petra Kuppers
-Title: Planting Disabled Futures: a Community Performance/Virtual Reality Experience
-
-Abstract/Bio TBC
-
-Petra Kuppers (she/her) is a disability culture activist and a community performance artist. She grounds herself in disability culture methods, and uses somatics, performance, media work, and speculative writing to engage audiences toward more socially just and enjoyable futures. Her latest academic study is the award-winning Eco Soma: Pain and Joy in Speculative Performance Encounters (UoMinnesota Press, 2022, open access). She is German, has lived in Wales for a decade, now teaches at the University of Michigan, was a 2022 Dance/USA Fellow, and a 2023 Guggenheim Fellow. She is currently at work on Planting Disabled Futures, a virtual reality/community performance project, as a Just Tech Fellow (2024-2026).-->
-
-
-<!--
-
-### Benny Shakes
-Title: Blue Badge Bunch
-
-Abstract/Bio TBC
-
-Step into a world of rip-roaring laughter and learning with "Blue Badge Bunch" - the most engaging, inclusive game show that's taking the nation by storm! Designed for kids and grown-ups alike, this show promises heaps of fun and insight in equal measure. The perfect way to spend your time, whatever your abilities! Blue Badge Bunch has toured the UK three times and had two full runs at the Edinburgh Festival Fringe at the Pleasance Courtyard, as well as receiving three rounds of Arts Council funding for its innovative ideas and disabled representation. Join Benny Shakes for an interactive session that highlights the skills of people with disabilities. The workshop features a series of games and challenges, including drawing with feet, cooking one-handed, and representing audio description in theatre and TV. Audience members are invited up on stage to compete in the games including:
-
-- The Big Draw: Showcasing artists with limb difference
-- That's Life: Cooking one-handed while being poked by giant foam fingers
-- Let's Talk: Describing images to draw, representing audio description in theatre and TV
-- System Overload: Completing tasks while wearing headphones with multiple instructions
-- Jamie's Gamey!: Guessing TV show titles and instructions from symbols
-
-Benny is a standup comedian and workshop leader, he has led the team on three successful tours and two Edinburgh Fringe runs at the Pleasance Courtyard. Benny has Cerebral Palsy. He is the winner of the ND review Disabled Champions Award 2023, as heard on BBC Radio 4 and creator of the hit show Blue Badge Bunch.
-
-"Benny Shakes is a great comic, end of story” (Stageside UK). 
-
-“The honesty and humour cannot fail to endear the audience” (Theatre & Arts Review).
--->
-
-<!--
-
-### Andrew Lansley
-Title: Reshaping Representation: Music, Accessibility, and the Power of Collaboration
-
-Abstract and Bio TBC
-
--->
-
-<!-- 
-### Ouassima Bakkali Hassani
-Title: Exploring Audiovisual Translation: The Art and Techniques of Subtitling 
-
-Abstract and Bio TBC
-
-Quassima Bakkali Hassani holds a PhD in Audiovisual Translation from Pablo de Olavide University (Seville, Spain) and currently serves as a university lecturer at the King Fahd School of Translation (Tangier, Morocco). A dedicated language educator and expert in translation studies, she specializes in audiovisual translation, combining her academic expertise and practical experience to inspire and guide participants in mastering the art and craft of subtitling. -->
 
 <br>
 

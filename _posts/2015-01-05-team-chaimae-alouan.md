@@ -3,9 +3,9 @@ layout: post-team
 title:  Chaimae Alouan
 description: Project Officer
 date:   2015-01-04
-image:  '/images/team-chaimae-feature.jpg'
+image:  '/images/team-chaimae-feature.webp'
 image-alt: 'Photo of a Chaimae.'
-image-header: '/images/team-chaimae.jpg'
+image-header: '/images/team-chaimae.webp'
 tags:   [team, admin team]
 ---
 <!-- begin hero -->

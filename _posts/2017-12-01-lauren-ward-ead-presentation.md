@@ -3,7 +3,7 @@ layout: post
 title:  Lauren Ward at our Conference
 description: You can listen to the presentation Lauren gave at our conference in our 4th podcast titled Television Dialogue; Balancing Audibility, Attention and Accessibility.
 date:   2017-12-01
-image:  '/images/2017-12-01-lauren-ward-ead-presentation.jpg'
+image:  '/images/2017-12-01-lauren-ward-ead-presentation.webp'
 image-alt: 'A photo of Lauren presenting at our conference.'
 tags:   [event, conference, podcast, media]
 ---

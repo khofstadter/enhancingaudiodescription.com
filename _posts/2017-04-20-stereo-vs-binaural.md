@@ -3,7 +3,7 @@ layout: post
 title:  Stereo vs binaural
 description: Would you like to hear the difference between an binaural and a regular stereo soundtrack? Listen to these two audio clips from Pearl’s opening sequence.
 date:   2017-04-20
-image:  '/images/2017-04-20-stereo-vs-binaural.jpg'
+image:  '/images/2017-04-20-stereo-vs-binaural.webp'
 image-alt: 'A frame from the movie Pearl.'
 tags:   [binaural, listening test]
 ---

@@ -4,7 +4,7 @@ redirect_url: https://disabilityarts.online/magazine/opinion/audio-description-a
 title:  Press Publication
 description: On 11 November 2017, Disability Arts Online published Mariana's article titled Audio Description - An Art Form In Its Own Right.
 date:   2017-11-11 
-image:  '/images/2017-11-11-press-publication-disability-arts-online.jpg'
+image:  '/images/2017-11-11-press-publication-disability-arts-online.webp'
 image-alt: 'The logo of the Disability Arts Online channel.'
 tags:   [press]
 ---

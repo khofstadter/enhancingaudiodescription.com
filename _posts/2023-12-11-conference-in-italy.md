@@ -3,7 +3,7 @@ layout: post
 title: Conference in Italy
 description: Last September, Michael got the chance to present some of our research from the EAD project at the Immersive and 3D Audio conference, at Bologna Italy. 
 date: 2023-12-11
-image: '/images/2023-12-11-conference-in-italy.jpg'
+image: '/images/2023-12-11-conference-in-italy.webp'
 image-alt: ‘.’
 tags: [event]
 ---
@@ -18,7 +18,7 @@ There were several great talks, but a particular highlight was discovering the w
 
 I also have to say that this conference had the most impressive lunch spread I have ever seen. Ravioli cooked in a creamy sauce with several side salads is a welcome improvement from the Tesco meal deal I’m used to scoffing down between sessions. I also can’t say I’ve ever enjoyed a Theremin concert with dinner before.
 
-![Logo of the conference.](/images/2023-12-11-conference-in-italy-2.jpg)
+![Logo of the conference.](/images/2023-12-11-conference-in-italy-2.webp)
 
 I’d like to take this opportunity to thank the conference committee, especially our former University of York colleague, [Dr Cobi Van Tonder](https://it.linkedin.com/in/cvtonder). This was my first conference since lockdown, and it is always nice to see a familiar face after traveling so far. Looking forward to the next conference!
 

@@ -3,9 +3,9 @@ layout: post-team
 title:  Jerome Pek
 description: Student Intern (Summer 2023)
 date:   2015-01-04
-image:  '/images/team-jerome-feature.jpg'
+image:  '/images/team-jerome-feature.webp'
 image-alt: 'Photo of a Jerome.'
-image-header: '/images/team-jerome.jpg'
+image-header: '/images/team-jerome.webp'
 tags:   [team, intern]
 ---
 <!-- begin hero -->

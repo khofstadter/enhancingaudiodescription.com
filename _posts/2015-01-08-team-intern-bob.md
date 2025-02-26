@@ -5,7 +5,7 @@ description: Student Intern (Winter 2025)
 date:   2015-01-08
 image:  '/images/team-bob.webp'
 image-alt: 'Photo of a Bob.'
-image-header: '/images/team-bob-full.jpg'
+image-header: '/images/team-bob-full.webp'
 tags:   [team, intern]
 ---
 

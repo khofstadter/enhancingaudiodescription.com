@@ -3,9 +3,9 @@ layout: post-team
 title:  Jerry Gilbert
 description: Assistive Technology Specialist
 date:   2015-01-05
-image:  '/images/team-jerry-feature.jpg'
+image:  '/images/team-jerry-feature.webp'
 image-alt: 'Photo of a sound mixer.'
-image-header: '/images/team-jerry.jpg'
+image-header: '/images/team-jerry.webp'
 tags:   [team, advisory panel]
 ---
 <!-- begin hero -->

@@ -3,7 +3,7 @@ layout: post
 title:  Exciting Projects on Accessibility
 description: Whilst working on the EAD project we’ve been impressed by lots of exciting research studies, which share our aim of promoting accessibility and social inclusion. Here are just a few of them.
 date:   2017-02-16
-image:  '/images/2017-02-16-exciting-projects-on-accessibility.jpg'
+image:  '/images/2017-02-16-exciting-projects-on-accessibility.webp'
 image-alt: 'A hand holding a phone.'
 tags:   [other projects]
 ---

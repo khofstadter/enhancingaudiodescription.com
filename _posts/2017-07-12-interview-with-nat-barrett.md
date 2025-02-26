@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Nat Barrett
 date:   2017-07-12
-image:  '/images/2017-07-12-interview-with-nat-barrett.jpg'
+image:  '/images/2017-07-12-interview-with-nat-barrett.webp'
 image-alt: 'A photo of Nat.'
 tags:   [interview, people]
 ---

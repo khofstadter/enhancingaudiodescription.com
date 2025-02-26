@@ -3,7 +3,7 @@ layout: post
 title:  Exciting Projects On Accessibility Part 2
 description: We have encountered too many interesting projects to fit into our last blog post on exciting projects, so here is part two. 
 date:   2017-03-01
-image:  '/images/2017-03-01-exciting-projects-on-accessibility-2.jpg'
+image:  '/images/2017-03-01-exciting-projects-on-accessibility-2.webp'
 image-alt: 'A photo of a young girl cycling with a VR headset on her head.'
 tags:   [Hololens, Exsight, Chrome]
 ---

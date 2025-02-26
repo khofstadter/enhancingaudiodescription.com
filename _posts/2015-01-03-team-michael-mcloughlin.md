@@ -3,7 +3,7 @@ layout: post-team
 title:  Dr Michael McLoughlin
 description: Post-Doctoral Research Associate
 date:   2015-01-01
-image:  '/images/team-michael-feature.jpg'
+image:  '/images/team-michael-feature.webp'
 image-header: '/images/team-michael.png'
 image-alt: 'Michael smiling.'
 tags:   [team, research team]

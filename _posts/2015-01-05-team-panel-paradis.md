@@ -3,9 +3,9 @@ layout: post-team
 title:  Dr Matthew Paradis
 description: Lead R&D Engineer at BBC
 date:   2015-01-05
-image:  '/images/team-matthew-feature.jpg'
+image:  '/images/team-matthew-feature.webp'
 image-alt: 'Photo of a Matthew.'
-image-header: '/images/team-matthew.jpg'
+image-header: '/images/team-matthew.webp'
 tags:   [team, advisory panel]
 ---
 

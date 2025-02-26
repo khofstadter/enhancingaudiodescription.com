@@ -2,7 +2,7 @@
 layout: post-no-img-head
 title: Introducing Dr Monika Zabrocka
 description: In this post, Dr Monika Zabrocka, a visiting researcher in the School of Arts and Creative Technologies (University of York) summarises her work and how it is connected to our EAD project.
-image: '/images/2024-04-19-monika-zabrocka-research-2.jpg'
+image: '/images/2024-04-19-monika-zabrocka-research-2.webp'
 image-alt: 'Monika sitting by the table.'
 tags: [people]
 grid: true
@@ -18,7 +18,7 @@ Our findings revealed that emotionally tuned AD significantly improved comprehen
 
 We found that both autistic and neurotypical children benefited from emotionally tuned AD, with a more pronounced effect observed in autistic children. This highlights the inclusive potential of AD in improving cognitive audiovisual accessibility for all children. Therefore, supplementing audiovisual materials, especially those targeting children, with emotionally engaging AD tracks can enhance comprehension and engagement, fostering a more inclusive viewing experience for neurodiverse children.
 
-![Child watching TV.](../images/2024-04-19-monika-zabrocka-research-2.jpg)
+![Child watching TV.](../images/2024-04-19-monika-zabrocka-research-2.webp)
  
 Our research demonstrates that AD, particularly when emphasising emotional cues, has the potential to enhance audiovisual content processing in autistic children. By accentuating characters’ emotions, AD facilitates a deeper understanding of the content, making educational materials more accessible and inclusive for neurodivergent audiences.
 

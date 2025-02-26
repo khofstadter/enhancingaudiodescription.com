@@ -3,7 +3,7 @@ layout: post
 title: Sound Talking at Science Museum
 description: On 3 Nov 2017, at the Sound Talking event held in the London Science Museum, Mariana gave a talk titled The language of Sound - Creating Accessible Film Experiences For Visually Impaired Audiences. 
 date:   2017-11-23
-image:  '/images/feature-semantic-audio.jpg'
+image:  '/images/feature-semantic-audio.webp'
 image-alt: 'Logo of Semantic Audio with a buffalo on the left.'
 tags:   [event, presentation]
 ---

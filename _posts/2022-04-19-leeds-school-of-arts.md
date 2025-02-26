@@ -3,7 +3,7 @@ layout: post
 title:  Leeds School of Arts
 description: On 27 April 2022, Mariana gave a talk titled Enhanced Audio Description - Sound, Design, Creativity and Integrated Access at the Leeds School of Arts, now archived on YouTube.
 date:   2022-04-19
-image:  '/images/2022-04-27-leeds-school-of-arts.jpg'
+image:  '/images/2022-04-27-leeds-school-of-arts.webp'
 image-alt: 'Event logo.'
 tags:   [event, video, media]
 ---

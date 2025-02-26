@@ -3,7 +3,7 @@ layout: post
 title:  The Start of the AD movement in Scotland
 description: An interview with Susan Gibson, an early supporter of live AD in Scotland. 
 date:   2017-03-15
-image:  '/images/2017-03-15-start-of-the-ad-movement-in-scotland.jpg'
+image:  '/images/2017-03-15-start-of-the-ad-movement-in-scotland.webp'
 image-alt: 'A photo of the Citizens Theatre building.'
 tags:   [interview, history of AD, theatre]
 ---

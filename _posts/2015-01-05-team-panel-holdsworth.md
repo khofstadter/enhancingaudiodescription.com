@@ -3,9 +3,9 @@ layout: post-team
 title:  Lisa Holdsworth
 description: Writer and Scriptwriter
 date:   2015-01-05
-image:  '/images/team-lisa-feature.jpg'
+image:  '/images/team-lisa-feature.webp'
 image-alt: 'Photo of a Lisa.'
-image-header: '/images/team-lisa.jpg'
+image-header: '/images/team-lisa.webp'
 tags:   [team, advisory panel]
 ---
 <!-- begin hero -->

@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with María Olalla Luque and Silvia Soler
 date:   2017-07-14
-image:  '/images/2017-07-14-interview-with-maria-olalla-luque-and-silvia-soler.jpg'
+image:  '/images/2017-07-14-interview-with-maria-olalla-luque-and-silvia-soler.webp'
 image-alt: 'A photo of Maria and Silvia.'
 tags:   [interview, people]
 ---
@@ -36,4 +36,4 @@ On the research side, we continue to carry out descriptive studies of audio desc
 
 María took part in our [conference](conference-on-accessibility-in-film-television-and-interactive-media) in 2017.
 
-![María presenting](../images/2017-07-14-interview-with-maria-olalla-luque-and-silvia-soler-conference.jpg)
+![María presenting](../images/2017-07-14-interview-with-maria-olalla-luque-and-silvia-soler-conference.webp)

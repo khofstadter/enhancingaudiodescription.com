@@ -2,7 +2,7 @@
 layout: post-no-img-head
 title: The Mix Room Interview
 description: "The EAD methods featured in The Mix Room with Genelec podcast."
-image: '/images/2024-07-19-the-mix-room-interview.jpg'
+image: '/images/2024-07-19-the-mix-room-interview.webp'
 image-alt: ‘The logo of the Mix Room podcast with Mariana's face.’
 tags: [press, media, podcast]
 grid: true

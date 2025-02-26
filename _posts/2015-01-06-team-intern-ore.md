@@ -3,9 +3,9 @@ layout: post-team
 title:  Ore Yakubu
 description: Student Intern (Summer 2023)
 date:   2015-01-04
-image:  '/images/team-ore-feature.jpg'
+image:  '/images/team-ore-feature.webp'
 image-alt: 'Photo of a Ore.'
-image-header: '/images/team-ore.jpg'
+image-header: '/images/team-ore.webp'
 tags:   [team, intern]
 ---
 <!-- begin hero -->

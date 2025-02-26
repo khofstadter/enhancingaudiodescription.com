@@ -3,7 +3,7 @@ layout: post-no-img-head
 title: "Symposium Art: Painting with Sound"
 description: "We are delighted to announce that Painting with Sound will be part of our symposium, an audio and visual landscape work by Keith Salmon, Graham Byron & Drew Kirkland."
 date: 2024-04-16
-image: '/images/2024-04-16-symposium-artist-painting-with-sound.jpg'
+image: '/images/2024-04-16-symposium-artist-painting-with-sound.webp'
 image-alt: 'Painting capturing the scene looking into Glen Sannox.'
 tags: event
 grid: false
@@ -17,4 +17,4 @@ Keith has worked as an artist all of his adult life but since 1990 he has just t
 
 Most of the natural sounds are recorded while Keith is out walking with his wife Nita. On his return to Ayrshire, he takes the raw recordings to Graham’s studio where together they create the individual soundscapes. This is quite a time consuming process but even at an early stage Keith can play the sounds as he works on the painting, using them to help recall the place. Some of the soundscapes also have tonal elements added to them. These subtle and very beautiful additions are composed by Graham and they use them alongside the natural recordings to help convey mood.
 
-<center><img src="../images/2024-04-14-symposium-artist-painting-with-sound.jpg" width="600"></center>
+<center><img src="../images/2024-04-14-symposium-artist-painting-with-sound.webp" width="600"></center>

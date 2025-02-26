@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Josh Branson
 date:   2017-07-17
-image:  '/images/2017-07-18-interview-with-josh-branson.jpg'
+image:  '/images/2017-07-18-interview-with-josh-branson.webp'
 image-alt: 'A photo of Emily.'
 tags:   [interview, people]
 ---

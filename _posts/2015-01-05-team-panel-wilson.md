@@ -3,9 +3,9 @@ layout: post-team
 title:  Warren Wilson
 description: Community Connection Coordinator
 date:   2015-01-05
-image:  '/images/team-warren-feature.jpg'
+image:  '/images/team-warren-feature.webp'
 image-alt: 'Photo of a Warren.'
-image-header: '/images/team-warren.jpg'
+image-header: '/images/team-warren.webp'
 tags:   [team, advisory panel]
 ---
 

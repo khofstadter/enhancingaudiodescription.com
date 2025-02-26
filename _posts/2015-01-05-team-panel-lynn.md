@@ -3,9 +3,9 @@ layout: post-team
 title:  Mandi Lynn
 description: Photographer and Director
 date:   2015-01-05
-image:  '/images/team-mandi-feature.jpg'
+image:  '/images/team-mandi-feature.webp'
 image-alt: 'Photo of Mandi.'
-image-header: '/images/team-mandi.jpg'
+image-header: '/images/team-mandi.webp'
 tags:   [team, advisory panel]
 ---
 <!-- begin hero -->

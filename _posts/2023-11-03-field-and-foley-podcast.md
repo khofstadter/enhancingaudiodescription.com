@@ -3,7 +3,7 @@ layout: post
 title: Mariana's Interview on the Field & Foley Podcast
 description: Mariana had the pleasure of being interviewed by Ben Reichstein on his captivating podcast, Field & Foley.
 date:   2023-11-03
-image:  '/images/2023-11-03-field-and-foley-podcast-1.jpg'
+image:  '/images/2023-11-03-field-and-foley-podcast-1.webp'
 image-alt: 'Mariana sitting on hill with microphones.'
 tags:   [press, interview, podcast, media]
 ---
@@ -16,7 +16,7 @@ Mariana also discussed her expertise in acoustical heritage and historical sound
 
 Mariana also highlighted the work by Dr Lidia Álvarez Morales on [Cathedral Acoustics](https://www.cathedralacoustics.com/) and Dr Cobi van Tonder’s [Acoustic Atlas](https://www.acousticatlas.de/) work, both funded by the European Commission and who Mariana had the pleasure to work with during their fellowships at University of York.  
 
-![](/images/2023-11-03-field-and-foley-podcast-2.jpg)
+![](/images/2023-11-03-field-and-foley-podcast-2.webp)
 
 The conversation also highlighted her creative work, in particular her recent sound design for Pilot Theatre’s VR experience [Monoliths](https://pilot-theatre.com/immersive/monoliths/), produced by Lucy Hammond. For Monoliths Mariana did recordings of three Yorkshire sites: the Hole of Horcum in the North York Moors, the seaside in Scarborough and Bradford’s city centre. Mariana was very taken by the highland cows in the North York Moors, whose sound can be heard in the experience, and an example of how the sound design prompted the visual design - which also includes a cow as a result of the soundscape. 
 

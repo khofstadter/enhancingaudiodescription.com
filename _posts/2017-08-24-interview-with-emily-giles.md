@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Emily Giles
 date:   2017-08-24
-image:  '/images/2017-08-24-interview-with-emily-giles.jpg'
+image:  '/images/2017-08-24-interview-with-emily-giles.webp'
 image-alt: 'A photo of Emily.'
 tags:   [interview, people]
 ---
@@ -37,7 +37,7 @@ Emily also took part in our [conference](conference-on-accessibility-in-film-tel
 
 <br>
 
-![Emily presenting](../images/2017-08-24-interview-with-emily-giles-conference.jpg)
+![Emily presenting](../images/2017-08-24-interview-with-emily-giles-conference.webp)
 
 <br>
 

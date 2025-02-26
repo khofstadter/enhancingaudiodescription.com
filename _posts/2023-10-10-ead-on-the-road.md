@@ -3,7 +3,7 @@ layout: post
 title: EAD on the road
 description: Last July, Mariana had the challenge, but great satisfaction, of being able to present on the Enhanced Audio Description (EAD) methods at two international conferences in one week. 
 date:   2023-10-10
-image:  '/images/2023-10-10-ead-on-the-road-feature.jpg'
+image:  '/images/2023-10-10-ead-on-the-road-feature.webp'
 image-alt: 'A photo of train station.'
 tags:   [event]
 ---
@@ -14,7 +14,7 @@ You might be asking yourself what this has to do with accessibility and with the
 
 I presented a paper titled ‘Sonic Medievalisms in Audio Games: an exploration of design and accessibility strategies’ in which I explored the work I’ve been doing for a number of years in the field of audio games. Audio games focus on listening as a main game mechanic, identifying sounds and localising them is key to progressing and many of them use binaural audio. Although some audio games have minimal visuals (many don’t have any at all), the visuals won’t help the player win the game, and it’s the reliance on audio that does the trick. 
 
-![The presentation's first slide with the title and background image from a video game.](../images/2023-10-10-ead-on-the-road-SonicMedievalisms.jpg)
+![The presentation's first slide with the title and background image from a video game.](../images/2023-10-10-ead-on-the-road-SonicMedievalisms.webp)
 
 Audio games were a huge inspiration for my work back in 2008 when I worked on a format called audio films, in which I explored how a story could be told solely through sound without any visuals and without needing a narrator. It was that early work that evolved into EAD. The same as EAD, audio games tell the story of the game and allow engagement through sound and its spatialisation, with binaural often being used as a mechanic, and with first person mechanics being quite common as well. 
 

@@ -3,7 +3,7 @@ layout: post-no-img-head
 title: "Symposium Presentation: EAD"
 description: "Enhanced Audio Description (EAD): what it is, how it works and why it matters"
 date: 2024-04-15
-image: '/images/2024-04-15-symposium-ead-presentation.jpg'
+image: '/images/2024-04-15-symposium-ead-presentation.webp'
 image-alt: 'Dolby Studio with mixing desk and screen.'
 tags: event
 grid: false
@@ -13,6 +13,6 @@ This presentation will introduce attendees to the concept of Enhanced Audio Desc
 
 Throughout the presentation the research team will be discussing their latest work, including an insight on how they worked on different fiction and non-fiction projects to make them accessible, as well as in live action and animation projects. 	
 
-![Dolby Studio with mixing desk and screen.](../images/2024-04-15-symposium-ead-presentation.jpg)
+![Dolby Studio with mixing desk and screen.](../images/2024-04-15-symposium-ead-presentation.webp)
 
 Click [here](symposium-announcement) for the symposium page. 

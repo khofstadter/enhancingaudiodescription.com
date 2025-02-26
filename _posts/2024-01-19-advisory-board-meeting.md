@@ -3,7 +3,7 @@ layout: post
 title: Annual Advisory Board Meeting
 description: In December 2023 we hosted our annual Advisory Board Meeting online, an opportunity to update our board on what we’ve been up to as well as seek advice on ways forward. 
 date: 2024-01-19
-image: '/images/2024-01-19-advisory-board-meeting.jpg'
+image: '/images/2024-01-19-advisory-board-meeting.webp'
 image-alt: ‘A screenshot of our online meeting with people smiling.’
 tags: [event]
 grid: true

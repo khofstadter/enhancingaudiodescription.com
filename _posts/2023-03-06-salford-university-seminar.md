@@ -4,7 +4,7 @@ redirect_url: https://hub.salford.ac.uk/sirc-acoustics/2023/03/02/seminar-enhanc
 title: University of Salford
 description: On 8 Mar 2022, Mariana held a seminar for the University of Salford titled Enhanced Audio Description – The Convergence of Sound Design and Accessibility.
 date:   2023-03-08
-image:  '/images/2023-03-06-salford-university-seminar.jpg'
+image:  '/images/2023-03-06-salford-university-seminar.webp'
 image-alt: 'University of Salford'
 tags:   [event]
 ---

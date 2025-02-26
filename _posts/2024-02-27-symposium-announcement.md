@@ -3,14 +3,14 @@ layout: post-no-img-head
 title: Symposium on Disability and Accessibility
 description: "The EAD team is delighted to announce the symposium 'Removing barriers: disability and accessibility in the creative sector' taking place in Edinburgh on Saturday 18th May 2024."
 date: 2024-02-27
-image: '/images/2024-02-27-symposium-announcement.jpg'
+image: '/images/2024-02-27-symposium-announcement.webp'
 image-alt: ‘Photo of Edinburgh with old buildings.’
 tags: event
 grid: true
 post_big: true
 ---
 
-![Photo of Edinburgh with old buildings.](/images/2024-02-27-symposium-announcement.jpg)
+![Photo of Edinburgh with old buildings.](/images/2024-02-27-symposium-announcement.webp)
 
 The event will be at [Dovecot Studios](https://dovecotstudios.com/), be free of charge and will include presentations on the Enhancing Audio Description project among other contributions. 
 

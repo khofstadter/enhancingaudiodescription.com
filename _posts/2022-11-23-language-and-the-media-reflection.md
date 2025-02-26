@@ -3,7 +3,7 @@ layout: post
 title:  2022 Conference and Exhibition on Languages and the Media
 description: Mariana attended the Languages and the Media Conference in Berlin between 7th-9th November 2022 to deliver a pre-conference workshop and present a poster on the EAD project. 
 date:   2022-12-12
-image:  '/images/2022-11-07-language-and-media-conference.jpg'
+image:  '/images/2022-11-07-language-and-media-conference.webp'
 image-alt: 'Event logo.'
 tags:   [event]
 ---
@@ -12,7 +12,7 @@ tags:   [event]
 
 Mariana attended to lead a pre-conference workshop as well as present in the speed presentations/posters session.
 
-![](../images/2022-11-23-language-and-the-media-reflection-LAM_180.jpg) Photo credit: [ICWE GmbH](https://www.languages-media.com/) / [Dominik Tryba](https://introduce.berlin/)
+![](../images/2022-11-23-language-and-the-media-reflection-LAM_180.webp) Photo credit: [ICWE GmbH](https://www.languages-media.com/) / [Dominik Tryba](https://introduce.berlin/)
 
 <!-- 2. pre-conference workshop --> She led a half-day pre-conference workshop titled “Enhanced Audio Description: Inclusive Cinematic Experiences Through Sound Design” in which participants learnt about the ideas behind the EAD methods and how they relate to the fields of accessible filmmaking and integrated access. Participants were able to watch and talk about specific examples of EAD, and then in hands-on activities explore how they could use these methods to create outputs that are accessible.
 
@@ -20,7 +20,7 @@ Mariana attended to lead a pre-conference workshop as well as present in the spe
 
 You can access the poster [here](../assets/docs/papers/LopezHofstadterKearney2022EADTowardsConveyancePoster.pdf).  
 
-![](../images/2022-11-23-language-and-the-media-reflection-poster-with-mariana.jpg)
+![](../images/2022-11-23-language-and-the-media-reflection-poster-with-mariana.webp)
 
 
 

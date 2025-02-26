@@ -3,7 +3,7 @@ layout: post
 title: Roving Reporters Training Day
 description: Last June, MySight York, the Enhancing Audio Description project (represented by Krisztián), and Jane Bateman teamed up to introduce the basics of audio interviewing and creating podcasts to a group of visually impaired participants.
 date:   2023-01-04
-image:  '/images/2023-01-04-mysight-york-workshop-2.jpg'
+image:  '/images/2023-01-04-mysight-york-workshop-2.webp'
 image-alt: 'Krisztián demonstrating the use of a portable microphone.'
 tags:   [event]
 ---
@@ -22,7 +22,7 @@ In the first session, I outlined variations in types of podcasts and called atte
 
 In the second and third session, Jane first introduced methods that can help us become good interviewers and then gave us time to practise what we’ve learnt in small groups. A key concept she emphasised was that interviewers need to learn to become good listeners (‘super receivers’) by using open-ended questions starting with the words ‘what’, ‘when’, ‘which’ and ‘how’. She also discussed the importance of researching our subjects before the interviews so that we can ask informed questions and the creation of a hook at the very beginning of the interview to make sure our audiences carry on listening.
 
-![Jane and two participants practising interviewing by a desk.](../images/2023-01-04-mysight-york-workshop-2-jane-session.jpg)
+![Jane and two participants practising interviewing by a desk.](../images/2023-01-04-mysight-york-workshop-2-jane-session.webp)
 
 The usage of portable microphones was covered in the session that followed lunch, with a particular emphasis on the [Zoom H1n](https://zoomcorp.com/en/gb/handheld-recorders/handheld-recorders/h1n-handy-recorder/) device. First, I played a brief sound walk recorded the day before in the building to help demonstrate the use of settings on this device, effective adjustment of signal-to-mic distance, noise handling, tripod use, reduction of plosives and wind noise using a windscreen, and gaining benefits of using a boom stick.
 

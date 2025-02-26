@@ -3,7 +3,7 @@ layout: post
 title:  Daredevil
 description: You may remember that back in August we conducted online/telephone surveys on current accessibility measures and hopes for the future of Audio Description. We received 127 responses which have been invaluable to our research – but what encouraged participants to respond?
 date:   2017-02-10
-image:  '/images/2017-02-10-daredevil.jpg'
+image:  '/images/2017-02-10-daredevil.webp'
 image-alt: 'A comic figure with sunglasses and a cane.'
 tags:   [Netflix, Marvel]
 ---

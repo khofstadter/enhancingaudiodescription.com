@@ -3,9 +3,9 @@ layout: post-team
 title:  Nina Hartstone
 description: Supervising Sound Editor
 date:   2015-01-10
-image:  '/images/team-nina-feature.jpg'
+image:  '/images/team-nina-feature.webp'
 image-alt: 'Photo of Nina.'
-image-header: '/images/team-nina.jpg'
+image-header: '/images/team-nina.webp'
 tags:   [team, advisory panel]
 --- 
 <!-- begin hero -->

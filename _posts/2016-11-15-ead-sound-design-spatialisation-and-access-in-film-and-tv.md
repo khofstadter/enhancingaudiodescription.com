@@ -3,7 +3,7 @@ layout: post
 title: Reproduced Sound 2016
 description: On 15 November 2016, Mariana gave a presentation title Sound Design, Spatialisation and Accessibility in Film and Television at the Reproduced Sound 2016 – Sound with Pictures - Time is of Essence Conference. The event was held in Holiday Inn, Southampton.
 date:   2016-11-15 
-image:  '/images/feature-institute-of-acoustics.jpg'
+image:  '/images/feature-institute-of-acoustics.webp'
 image-alt: 'Logo of Institute of Acoustics.'
 tags:   [event, presentation]
 ---

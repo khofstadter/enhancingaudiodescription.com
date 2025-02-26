@@ -3,7 +3,7 @@ layout: post
 title: Ore's Internship Experience
 description: We are excited to have had Ore doing an internship with us. In just a few weeks, she immersed herself deeply into our project as well as helped us with our impact case study. In this post, she sums up her experience.
 date:   2023-09-19
-image:  '/images/team-ore-feature.jpg'
+image:  '/images/team-ore-feature.webp'
 image-alt: 'A photo of Ore.'
 tags:   [internship]
 ---

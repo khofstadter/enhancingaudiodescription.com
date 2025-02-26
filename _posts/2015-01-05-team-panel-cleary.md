@@ -3,9 +3,9 @@ layout: post-team
 title:  Matt Cleary
 description: Director of Production Scripted UK, ITV Studios
 date:   2015-01-05
-image:  '/images/team-matt-feature.jpg'
+image:  '/images/team-matt-feature.webp'
 image-alt: 'Photo of Matt.'
-image-header: '/images/team-matt.jpg'
+image-header: '/images/team-matt.webp'
 tags:   [team, advisory panel]
 ---
 

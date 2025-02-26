@@ -1,0 +1,12 @@
+<div class="article__content">
+
+  <span style="font-size: 0.8em;">{{ post.date | date_to_string }}</span>
+
+  
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
+  {% if post.summary %}
+  <p class="article__excerpt">{{ post.summary }}</p>
+  {% endif %}
+
+</div>

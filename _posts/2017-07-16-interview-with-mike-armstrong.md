@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Mike Armstrong
 date:   2017-07-16
-image:  '/images/2017-07-16-interview-with-mike-armstrong.jpg'
+image:  '/images/2017-07-16-interview-with-mike-armstrong.webp'
 image-alt: 'A photo of Mike.'
 tags:   [interview, people]
 ---
@@ -33,4 +33,4 @@ Mike took part in our [conference](conference-on-accessibility-in-film-televisio
 
 <br>
 
-![Mike's demonstration](../images/2017-07-16-interview-with-mike-armstrong-conference.jpg)
+![Mike's demonstration](../images/2017-07-16-interview-with-mike-armstrong-conference.webp)

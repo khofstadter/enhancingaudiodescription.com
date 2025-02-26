@@ -3,9 +3,9 @@ layout: post-team
 title:  Szu Jo Tsai
 description: Student Intern (Summer 2022)
 date:   2015-01-04
-image:  '/images/team-intern-jo-feature.jpg'
+image:  '/images/team-intern-jo-feature.webp'
 image-alt: 'Photo of a Jo.'
-image-header: '/images/team-intern-jo.jpg'
+image-header: '/images/team-intern-jo.webp'
 tags:   [team, intern]
 ---
 <!-- begin hero -->

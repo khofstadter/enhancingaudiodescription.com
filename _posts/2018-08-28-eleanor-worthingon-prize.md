@@ -3,7 +3,7 @@ layout: post
 title:  Eleanor Worthingon Prize
 description: Back in May, I had the honour to be invited to give a short introductory speech as part of the Associazione Premio Eleanor Worthington International Exhibition on Art and Disability that took place at York St. John University in York (UK).
 date:   2018-08-28
-image:  '/images/2018-08-28-eleanor-worthingon-prize.jpg'
+image:  '/images/2018-08-28-eleanor-worthingon-prize.webp'
 image-alt: 'Mariana speaking behind a lectern.'
 tags:   [event]
 ---

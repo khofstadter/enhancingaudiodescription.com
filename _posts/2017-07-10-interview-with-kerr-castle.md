@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Kerr Castle
 date:   2017-07-10
-image:  '/images/2017-07-10-interview-with-kerr-castle.jpg'
+image:  '/images/2017-07-10-interview-with-kerr-castle.webp'
 image-alt: 'A photo of Kerr.'
 tags:   [interview, people]
 ---
@@ -42,4 +42,4 @@ We are currently transcribing this podcast.
 
 <br>
 
-![Kerr presenting](../images/2017-12-05-kerr-castle-ead-presentation.jpg)
+![Kerr presenting](../images/2017-12-05-kerr-castle-ead-presentation.webp)

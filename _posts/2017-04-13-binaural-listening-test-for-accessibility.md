@@ -3,7 +3,7 @@ layout: post
 title:  Binaural Listening Tests for Accessibility
 description: Last month Lewis and Gavin tested binaural sound with 33 visually impaired participants. The two main objectives were to analyse participants’ difficulties in identifying the number of people in a scene and the perception of moving characters  when listening over a pair of headphones and see whether alternative methods of audio mixing could reduce these difficulties.
 date:   2017-04-13
-image:  '/images/2017-04-13-binaural-listening-test-for-accessibility.jpg'
+image:  '/images/2017-04-13-binaural-listening-test-for-accessibility.webp'
 image-alt: 'A photo of surround loudspeaker array.'
 tags:   [binaural, listening test]
 ---
@@ -18,7 +18,7 @@ The listening tests were split into three sections:
 ## 1 – Measurement
 In order to produce accurate 3D audio over headphones, we need to know how listeners normally pick up sounds. We can gather this information by placing small microphones in the ears of the listeners and playing sounds from surround speakers around their heads. For these initial measurements we used a computer generated signal, a sweep going from low to high frequencies. This signal is played over a surround sound system with fifty different speakers located around the participants. For each sound, the small binaural microphones record the Head Related Transfer Functions (HRTF). These HRTFs are important as they are different to every person due to our heads and ears having different sizes and shapes.
 
-![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0011.jpg)
+![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0011.webp)
 
 <br>
 
@@ -34,7 +34,7 @@ In the Spatial Discrimination test participants were asked to identify the numbe
 
 In the Distance Perception test, we assessed whether a change in distance can be perceived when the reverb is altered and mixed differently. In the real world, if someone walks further away from us, his/her voice will become quieter. However, in film and television, in order to keep characters intelligible, the fact that they are far away from the camera is sometimes ignored and they are made to sound just as loud as they would when they are closer to the camera. This has the potential to misinform listeners regarding the distance of characters in a scene.
 
-![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0012.jpg)
+![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0012.webp)
 
 Participants in our test were asked to listen to a character reading text. As the character spoke, they would either remain in their position, move towards the participant, move away from the participant or a combination of both. The participants were asked to state how many times they thought the character had moved. The volunteers were asked to listen to speech extracts sixty times, with each trial using a different direct sound to reverb ratio as well as different combinations of movement.
 
@@ -44,10 +44,10 @@ Now, we are analysing our data…
 
 Krisztian and Lewis
 
-![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0013.jpg)
+![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0013.webp)
 
-![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0019.jpg)
+![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0019.webp)
 
-![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0020.jpg)
+![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0020.webp)
 
-![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0043.jpg)
+![](../images/2017-04-13-binaural-listening-test-for-accessibility-IMG_0043.webp)

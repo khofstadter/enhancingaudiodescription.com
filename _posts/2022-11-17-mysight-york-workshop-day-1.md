@@ -3,7 +3,7 @@ layout: post-no-description-repeat
 title: Visual Impairment Awareness and Sighted Guiding Training
 description: Last June, we did two workshops with MySight York, a local organisation in York supporting visually impaired people. The first one was a whole day training session delivered by Vicky and Jade from MySight York.
 date:   2022-11-17
-image:  '/images/2022-11-17-mysight-york-workshop-1.jpg'
+image:  '/images/2022-11-17-mysight-york-workshop-1.webp'
 image-alt: MySight York's imformation booklet on a table.
 tags:   [event]
 ---
@@ -18,19 +18,19 @@ Since I had been working with Mariana and Gavin on the previous EAD project a fe
 
 Vicky and Jade brought a set of simulation glasses so that they could explain different conditions. For instance, macular degeneration makes it challenging to read and recognise faces. The illustration below demonstrates how this syndrome affects central vision.
 
-![Vicky standing in front of people sitting at desks. The image in the centre is blackened with a circular shape to simulate macular degeneration.](../images/2022-11-17-mysight-york-workshops-macular-degeneration.jpg)
+![Vicky standing in front of people sitting at desks. The image in the centre is blackened with a circular shape to simulate macular degeneration.](../images/2022-11-17-mysight-york-workshops-macular-degeneration.webp)
 
 Diabetic retinopathy also affects eyesight. Reading and driving become challenging since patches of vision loss emerge. See the example image below.
 
-![Vicky and Jade in the front of the room presenting. The image has large black patches simulating diabetic retinopathy.](../images/2022-11-17-mysight-york-workshops-diabetic-retinpathy.jpg)
+![Vicky and Jade in the front of the room presenting. The image has large black patches simulating diabetic retinopathy.](../images/2022-11-17-mysight-york-workshops-diabetic-retinpathy.webp)
 
 The workshop also explored glaucoma, which causes loss of peripheral vision, as shown in the image below.
 
-![Vicky and Jade standing next to each other. To simulate glaucoma, only the middle circle of the photo is visible the rest is darkened.](../images/2022-11-17-mysight-york-workshops-glaucome.jpg)
+![Vicky and Jade standing next to each other. To simulate glaucoma, only the middle circle of the photo is visible the rest is darkened.](../images/2022-11-17-mysight-york-workshops-glaucome.webp)
 
 Cataracts which result in blurred vision, were also discussed. See the image demonstration below.
 
-![Vicky and Jade standing in a room facing us with a whiteboard behind them, windows on their right, and tables on the left. The image is blurred.](../images/2022-11-17-mysight-york-workshops-cataract.jpg)
+![Vicky and Jade standing in a room facing us with a whiteboard behind them, windows on their right, and tables on the left. The image is blurred.](../images/2022-11-17-mysight-york-workshops-cataract.webp)
 
 <!-- We were warned that this experience could be upsetting. -->
 

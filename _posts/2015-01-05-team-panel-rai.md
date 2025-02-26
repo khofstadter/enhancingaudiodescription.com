@@ -3,9 +3,9 @@ layout: post-team
 title:  Sonali Rai
 description: Broadcast and Audio Description Manager
 date:   2015-01-05
-image:  '/images/team-sonali-feature.jpg'
+image:  '/images/team-sonali-feature.webp'
 image-alt: 'Photo of Sonali.'
-image-header: '/images/team-sonali.jpg'
+image-header: '/images/team-sonali.webp'
 tags:   [team, advisory panel]
 ---
 <!-- begin hero -->

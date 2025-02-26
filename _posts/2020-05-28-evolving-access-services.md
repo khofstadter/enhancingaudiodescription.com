@@ -4,7 +4,7 @@ redirect_url: https://event.on24.com/eventRegistration/EventLobbyServlet?target=
 title:  Evolving Access Services
 description: On 28 May 2020, Mariana gave a presentation titled EAD; Integrated Access, Sound Design and Binaural Audio at the Evolving Access Services - Content for All, Television for All online event organised by the DTG Accessibility Group.
 date:   2020-05-28
-image:  '/images/2020-11-07-dtg-summit.jpg'
+image:  '/images/2020-11-07-dtg-summit.webp'
 image-alt: 'The logo of the Digital Television Group.'
 tags:   [event]
 ---

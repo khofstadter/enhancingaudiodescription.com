@@ -3,13 +3,13 @@ layout: post-no-img-head
 title: "Symposium Speaker: Aby Watson"
 description: "We are delighted to announce Aby Watson, one of our symposium speakers in Edinburg this May. This post features the abstract of her presentation and her bio."
 date: 2024-04-02
-image: '/images/2024-04-02-symposium-speaker-aby-watson.jpg'
+image: '/images/2024-04-02-symposium-speaker-aby-watson.webp'
 image-alt: ‘Amy performing in an artistically lit room with gadgets around her.'
 tags: event
 grid: true
 ---
 
-![Amy performing in an artistically lit room with gadgets around her.](../images/2024-04-02-symposium-speaker-aby-watson.jpg)
+![Amy performing in an artistically lit room with gadgets around her.](../images/2024-04-02-symposium-speaker-aby-watson.webp)
 
 **A Dip into Disordering Dance: Riffing on Neurodivergent Choreography**
 

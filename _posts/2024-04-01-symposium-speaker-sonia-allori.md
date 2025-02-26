@@ -3,13 +3,13 @@ layout: post-no-img-head
 title: "Symposium Speaker: Sonia Allori"
 description: "We are delighted to announce Sonia Allori, another one of our symposium speakers in Edinburg this May. This post features the abstract of her presentation and her bio."
 date: 2024-04-01
-image: '/images/2024-04-01-symposium-speaker-sonia-allori.jpg'
+image: '/images/2024-04-01-symposium-speaker-sonia-allori.webp'
 image-alt: 'Sonia sitting in a classroom with a saxophone in her hands smiling.'
 tags: event
 grid: true
 ---
 
-<center><img src="../images/2024-04-01-symposium-speaker-sonia-allori.jpg" alt="Emily kneeling with an old camera on green grass outside. It's sunny." width="500"></center>
+<center><img src="../images/2024-04-01-symposium-speaker-sonia-allori.webp" alt="Emily kneeling with an old camera on green grass outside. It's sunny." width="500"></center>
 
 <br>
 

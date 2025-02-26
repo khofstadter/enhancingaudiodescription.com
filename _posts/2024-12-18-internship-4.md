@@ -3,7 +3,7 @@ layout: post
 title:  Internship
 description: We're excited to offer an internship opportunity titled 'Creative and Accessible Content Creation', focused on working to develop creative and accessible content to promote the EAD methods.
 date:   2024-12-18
-image:  '/images/2024-12-18-internship.jpg'
+image:  '/images/2024-12-18-internship.webp'
 image-alt: 'Computer screen with video editing software.'
 tags:   [internship, hiring]
 ---  

@@ -3,7 +3,7 @@ layout: post
 title:  Queen’s University Belfast 
 description: On 13 March 2017 Mariana gave a seminar at Queen’s University Belfast titled EAD - Digital Audio and Accessibility to Film and Television, in which she discussed the concepts behind the project as well as initial findings.
 date:   2017-03-13 
-image:  '/images/feature-queen-uni-belfast.jpg'
+image:  '/images/feature-queen-uni-belfast.webp'
 image-alt: 'A photo of Queens University Belfast.'
 tags:   [event, presentation]
 ---

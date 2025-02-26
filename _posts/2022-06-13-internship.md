@@ -3,7 +3,7 @@ layout: post
 title:  Internship
 description: We are excited to announce that our project will be supporting a third internship during the first year of the 4 year project. In conjunction with and funded by Yorkshire Consortium for Equity in Doctoral Education (YCEDE), we have a further internship which is now open for undergraduate student applications from Black, Asian and Minority Ethnic backgrounds.
 date:   2022-06-13
-image:  '/images/2022-06-13-internship.jpg'
+image:  '/images/2022-06-13-internship.webp'
 image-alt: 'Event logo.'
 tags:   [internship, hiring]
 ---  

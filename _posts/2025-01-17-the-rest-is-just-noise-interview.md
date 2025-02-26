@@ -2,7 +2,7 @@
 layout: post-no-img-head
 title: The Rest Is Just Noise Interview
 description: "In this interview with Hasina Begum, Mariana reflects on her academic journey while discussing her research projects, including EAD, and shares insights on her approaches to equality and diversity, work-life balance, and prioritising wellbeing."
-image: '/images/2024-11-26-the-rest-is-just-noise-interview.jpg'
+image: '/images/2024-11-26-the-rest-is-just-noise-interview.webp'
 image-alt: ‘The logo of The Rest Is Just Noise podcast.’
 tags: [press, media, podcast]
 grid: true

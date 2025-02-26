@@ -3,9 +3,9 @@ layout: post-team
 title:  Howard Bargroff
 description: Freelance Sound Engineer
 date:   2015-01-05
-image:  '/images/team-howard-feature.jpg'
+image:  '/images/team-howard-feature.webp'
 image-alt: 'Photo of a sound mixer.'
-image-header: '/images/team-howard.jpg'
+image-header: '/images/team-howard.webp'
 tags:   [team, advisory panel]
 ---
 

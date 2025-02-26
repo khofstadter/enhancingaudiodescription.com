@@ -2,7 +2,7 @@
 layout: post
 title:  Interview with Olga Davis
 date:   2017-07-17
-image:  '/images/2017-07-18-interview-with-olga-davis.jpg'
+image:  '/images/2017-07-18-interview-with-olga-davis.webp'
 image-alt: 'A photo of Josh.'
 tags:   [interview, people]
 ---
