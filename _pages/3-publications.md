@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Academic
-permalink: /outputs/
+title: Publications
+permalink: /publications/
 image: 
 ---
 
