@@ -35,7 +35,7 @@ School of Arts and Creative Technologies, University of York, York, UK
 
 The arts are central to human experiences. However, lack of access to creative and cultural experiences, and to creative practice marginalises disabled people, and limits their representation. Moreover, most work on accessibility still occurs outside of the creative and technical workflows involved in creative productions, limiting opportunities for transformative collaborations among creators, accessibility experts and disabled audiences. 
 
-The Conference on Disability, Accessibility and Representation in the Creative Industries (DARCI) welcomed contributions that approach research and practice in the fields of disability, accessibility and representation from diverse perspectives. We received submissions from all areas of the creative industries, including theatre, film, television, music, gaming and interactive media more generally, as well as those linked to heritage and other cultural sites. We are currently reviewing the submissions and will notify authors by end of February.
+The Conference on Disability, Accessibility and Representation in the Creative Industries (DARCI) welcomed contributions that approach research and practice in the fields of disability, accessibility and representation from diverse perspectives. We received submissions from all areas of the creative industries, including theatre, film, television, music, gaming and interactive media more generally, as well as those linked to heritage and other cultural sites.
 
 The conference will take place from Wednesday 10th September to Friday 12th September. Wednesday will be dedicated to pre-conference workshops and other events, whereas Thursday and Friday will be full conference days with a variety of activities. 
 
@@ -86,6 +86,8 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 - Andrew Lansley: Reshaping Representation: Music, Accessibility, and the Power of Collaboration
 - Ouassima Bakkali Hassani: Exploring Audiovisual Translation: The Art and Techniques of Subtitling 
 
+Abstracts and bios for these workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-2025-conference-pre-conference-workshops-v1.pdf). 
+
 <br>
 
 ## Deadlines
@@ -93,7 +95,7 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 
 ~~**Notification of outcome**: By end of February.~~
 
-**Registration opens**: 10th March 2025
+**Registration opens**: 14th March 2025
 
 **Submission of revised abstracts (if required)**: 2nd May 2025 9am (UK time)   
 
