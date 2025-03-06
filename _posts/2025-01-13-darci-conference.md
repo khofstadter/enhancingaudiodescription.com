@@ -15,6 +15,8 @@ grid: false
   - [Raymond Antrobus](#raymond-antrobus)
   - [Prof. Hannah Thompson](#prof-hannah-thompson)
 - [Pre-conference Workshops](#pre-conference-workshops)
+  - [Morning (10:00–13:00)](#morning-10001300)
+  - [Afternoon (14:30–17:30)](#afternoon-14301730)
 - [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Conference Roles](#conference-roles)
@@ -73,10 +75,12 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 <br>
 
 ## Pre-conference Workshops
-
+### Morning (10:00–13:00)
 - Joel Snyder: Audio Description: If Your Eyes Could Speak
 - Elizabeth Kuti: Making Inclusive Audio Drama
 - Michelle Duxbury: 'Nature: Sensory: an introduction to creative audio description through multi-sensory exploration of the landscape'
+
+### Afternoon (14:30–17:30)
 - Petra Kuppers: Planting Disabled Futures: a Community Performance/Virtual Reality Experience
 - Benny Shakes: Blue Badge Bunch
 - Andrew Lansley: Reshaping Representation: Music, Accessibility, and the Power of Collaboration

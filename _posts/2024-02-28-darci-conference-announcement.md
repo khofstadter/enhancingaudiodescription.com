@@ -24,6 +24,10 @@ grid: false
 
 <br>
 
+See most up to date information on the [main conference page](darci-conference).
+
+<br>
+
 ## Call for Papers
 
 **Wednesday 10th September – Friday 12th September 2025**  
