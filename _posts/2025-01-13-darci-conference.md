@@ -86,7 +86,7 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 - Andrew Lansley: Reshaping Representation: Music, Accessibility, and the Power of Collaboration
 - Ouassima Bakkali Hassani: Exploring Audiovisual Translation: The Art and Techniques of Subtitling 
 
-Abstracts and bios for these workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-2025-conference-pre-conference-workshops-v1.pdf). 
+Abstracts and bios for these workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-2025-conference-pre-conference-workshops-v1.pdf) and [this Word file](../assets/docs/2025-conference/darci-2025-conference-pre-conference-workshops-v1.docx).
 
 <br>
 
