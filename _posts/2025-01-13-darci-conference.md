@@ -77,14 +77,15 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 ## Pre-conference Workshops
 ### Morning (10:00–13:00)
 - Joel Snyder: Audio Description: If Your Eyes Could Speak
+- Benny Shakes: Blue Badge Bunch
 - Elizabeth Kuti: Making Inclusive Audio Drama
-- Michelle Duxbury: 'Nature: Sensory: an introduction to creative audio description through multi-sensory exploration of the landscape'
+- Ouassima Bakkali Hassani: Exploring Audiovisual Translation: The Art and Techniques of Subtitling 
 
 ### Afternoon (14:30–17:30)
 - Petra Kuppers: Planting Disabled Futures: a Community Performance/Virtual Reality Experience
-- Benny Shakes: Blue Badge Bunch
+- Michelle Duxbury: 'Nature: Sensory: an introduction to creative audio description through multi-sensory exploration of the landscape'
 - Andrew Lansley: Reshaping Representation: Music, Accessibility, and the Power of Collaboration
-- Ouassima Bakkali Hassani: Exploring Audiovisual Translation: The Art and Techniques of Subtitling 
+
 
 Abstracts and bios for these workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-2025-conference-pre-conference-workshops-v1.pdf) and [this Word file](../assets/docs/2025-conference/darci-2025-conference-pre-conference-workshops-v1.docx).
 
