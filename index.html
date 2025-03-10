@@ -24,7 +24,9 @@ Would you like to stay updated on our activities? Join our subscribers to get up
   {% if site.posts.size > 0 %}
     {% for post in paginator.posts %}
     {% if post.grid != false %}
+    {% if post.tags[0] != "newsletter" %}
       {% include article.html %}
+      {% endif %}
       {% endif %}
     {% endfor %}
   {% endif %}
