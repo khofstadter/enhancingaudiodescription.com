@@ -2,7 +2,7 @@
 layout: post-no-img-head
 title: Research by Monika Zabrocka (Part 2)
 description: Dr. Monika Zabrocka continues outlining her research with Mariana at our university's School of Arts and Creative Technologies.
-image: '/images/2024-11-28-monika-zabrocka-research-part-2.1-thumb.jpeg'
+image: '/images/2024-11-28-monika-zabrocka-research-part-2.1-thumb.webp'
 image-alt: 'A child in front of a computer with headphones.'
 tags: [people]
 grid: false
@@ -14,7 +14,7 @@ As noted in my [previous post](monika-zabrocka-research), a comprehensive study 
 
 The implementation of this project at the University of York brought together an interdisciplinary and international research team of experts from different fields. This team included a linguist, Dr Monika Zabrocka (lead researcher on the project, otherwise associated with the Jagiellonian University in Krakow), a sound design specialist, Professor Mariana López (based at the University of York), and two psychologists – Dr Nick Barraclough (also based at the University of York) and Dr Grzegorz Kata (affiliated with the WSEI University in Lublin).
 
-![A child in front of a computer with headphones.](../images/2024-11-28-monika-zabrocka-research-part-2.1.jpeg)
+![A child in front of a computer with headphones.](../images/2024-11-28-monika-zabrocka-research-part-2.1.webp)
 
 The study involved 36 children and adolescents (aged 5-18) with varying kinds and degrees of visual impairment. Participants were divided into three groups. Each of them was exposed to a 10-minute animated film featuring a unique stimulus, one of the following: a neutral AD, an emotionally tuned AD, or an Enhanced AD (EAD).
 
@@ -24,7 +24,7 @@ Despite the random nature of group assignment due to ongoing recruitment, partic
 
 Participants were presented with stimuli on a laptop screen and received various AD tracks delivered through built-in speakers (neutral and emotionally tuned AD) or headphones (EAD). To assess physiological responses, participants wore a non-invasive Shimmer3 GSR+ device that measured skin conductance. Their faces were ‘recorded’ with a digital camera, and the face expressions extracted using Noldus FaceReader 7. For participants with minor visual impairments, a Tobii eye tracker monitored visual attention and pupil dilation. These tools provided valuable insights into participants' emotional arousal and engagement. To evaluate their subjective experiences and opinions, a post-viewing questionnaire was administered. It included questions regarding comprehension, preferences, and overall impressions of the different AD formats.
 
-![Photo of the Shimmer3 interface next to a laptop.](../images/2024-11-28-monika-zabrocka-research-part-2.2.jpeg)
+![Photo of the Shimmer3 interface next to a laptop.](../images/2024-11-28-monika-zabrocka-research-part-2.2.webp)
 
 Overall, five hypotheses guided the study. First, both creative AD formats (emotionally tuned and EAD) were expected to be more appealing and engaging to viewers of all ages than the neutral AD. Second, plot comprehension was anticipated to vary based on AD type, with EAD potentially posing the greatest challenge, particularly for viewers with significant vision loss. Third, older viewers with greater film literacy and typically better vision were predicted to ex-hibit a preference for EAD. Fourth, emotionally tuned AD should facilitate better comprehension among the youngest viewers and those with intellectual disorders. Fifth, both neutral and emotionally tuned AD formats may be perceived as excessively fast-paced and/or text-heavy. The results of the study will be detailed in a separate paper published in an academic journal, planned for 2025. 
 
@@ -35,5 +35,3 @@ Monika
 - [LinkedIn](https://www.linkedin.com/in/monika-zabrocka-348752b3/)
 - [ORCID](https://orcid.org/my-orcid)
 - [Jagiellonian University](https://przeklad.filg.uj.edu.pl/en_GB/monika-zabrocka-sliwka) 
-
-

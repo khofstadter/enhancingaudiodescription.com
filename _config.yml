@@ -5,7 +5,7 @@ logo: /images/logo-ead-2024.png
 description: Enhancing Audio Description II - implementing accessible, personalised and inclusive film and television experiences for visually impaired audiences
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themselves.
 
 #-------------------------------
 # Author Settings
@@ -70,7 +70,7 @@ gallery:
 #-------------------------------
 # Contact Settings
 contact:
-  email: krisztian.hofstadter@york.ac.uk # Add your email for contant form
+  email: kris@krishofstadter.com # Add your email for contact form
   description: Thanks for your interest in our EAD project. Please get in touch if you have any questions about our work or have feedback on our website’s accessibility. # Add a description of your form
 
 # NOTE
@@ -95,7 +95,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 21
+paginate: 30
 paginate_path: "/page/:num"
 future: true # allows posts with future dates to be published
 
