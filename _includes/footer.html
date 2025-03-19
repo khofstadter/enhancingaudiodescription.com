@@ -13,8 +13,8 @@
               <ul class="social__list list-reset">
                 {% for social in site.social %}
                 <li class="social__item">
-                  <a class="social__link" href="{{social.link}}" rel="noopener"
-                    aria-label="{{social.label}} link"><i class="ion {{social.icon}}"></i></a>
+                  <span class="sr-only">{{ social.label }} ({{ social.icon }})</span>
+                  <a class="social__link" href="{{ social.link }}" rel="noopener" aria-label="{{ social.label }} link"><i class="ion {{ social.icon }}"></i></a>
                 </li>
                 {% endfor %} 
               </ul>
