@@ -96,7 +96,7 @@ Abstracts and bios for these workshops can be found in [this PDF file](../assets
 
 ~~**Notification of outcome**: By end of February.~~
 
-**Registration opens**: 14th March 2025
+**Registration opens**: 31st March 2025
 
 **Submission of revised abstracts (if required)**: 2nd May 2025 9am (UK time)   
 
