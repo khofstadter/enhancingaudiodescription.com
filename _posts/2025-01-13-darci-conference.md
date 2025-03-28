@@ -11,6 +11,7 @@ grid: false
 
 **TABLE OF CONTENTS**
 - [Introduction](#introduction)
+  - [Registration Open](#registration-open)
 - [Keynote Speakers](#keynote-speakers)
   - [Raymond Antrobus](#raymond-antrobus)
   - [Prof. Hannah Thompson](#prof-hannah-thompson)
@@ -38,6 +39,10 @@ The arts are central to human experiences. However, lack of access to creative a
 The Conference on Disability, Accessibility and Representation in the Creative Industries (DARCI) welcomed contributions that approach research and practice in the fields of disability, accessibility and representation from diverse perspectives. We received submissions from all areas of the creative industries, including theatre, film, television, music, gaming and interactive media more generally, as well as those linked to heritage and other cultural sites.
 
 The conference will take place from Wednesday 10th September to Friday 12th September. Wednesday will be dedicated to pre-conference workshops and other events, whereas Thursday and Friday will be full conference days with a variety of activities. 
+
+### Registration Open
+
+Registration is now open, with early bird registration closing on June 30th, 2025. Tickets can be booked on [Ticketsolve](https://tftv.ticketsolve.com/ticketbooth/shows/873670660).
 
 ![Large building with lake in front of it.](/images/2024-02-28-darci-conference-announcement.webp)
 
@@ -92,11 +97,11 @@ Abstracts and bios for these workshops can be found in [this PDF file](../assets
 <br>
 
 ## Deadlines
-~~Abstract submission deadline: 4th November 2024 5pm UK time~~.
+~~**Abstract submission deadline**: 4th November 2024 5pm UK time~~.
 
 ~~**Notification of outcome**: By end of February.~~
 
-**Registration opens**: 31st March 2025
+~~**Registration opens**: 31st March 2025~~
 
 **Submission of revised abstracts (if required)**: 2nd May 2025 9am (UK time)   
 
@@ -109,6 +114,9 @@ Abstracts and bios for these workshops can be found in [this PDF file](../assets
 <br>
 
 ##  Types of Registration and Fees
+
+Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ticketsolve.com/ticketbooth/shows/873670660).
+
 <table>
 <tbody>
 <tr>
