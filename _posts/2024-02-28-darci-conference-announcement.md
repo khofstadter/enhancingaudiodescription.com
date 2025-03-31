@@ -6,7 +6,7 @@ date: 2024-02-28
 image: '/images/2024-02-28-darci-conference-announcement.webp'
 image-alt: ‘Large building with lake in front of it.’
 tags: event
-grid: false
+grid: true
 ---
 
 **TABLE OF CONTENTS**
