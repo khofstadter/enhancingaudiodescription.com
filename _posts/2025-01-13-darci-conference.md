@@ -15,7 +15,9 @@ grid: false
 - [Keynote Speakers](#keynote-speakers)
   - [Raymond Antrobus](#raymond-antrobus)
   - [Prof. Hannah Thompson](#prof-hannah-thompson)
-- [Programme](#programme)
+- [Pre-conference Workshops](#pre-conference-workshops)
+  - [Morning (10:00–13:00)](#morning-10001300)
+  - [Afternoon (14:30–17:30)](#afternoon-14301730)
 - [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Conference Roles](#conference-roles)
@@ -76,11 +78,11 @@ Thompson will present the theoretical underpinnings behind the Sensational Museu
 Professor Hannah Thompson (Royal Holloway, University of London) is a partially blind academic and activist. Her research focuses on the intersections between Critical Disability Studies and French Studies and she has published 3 monographs and numerous papers on nineteenth-century French literature.  Hannah is currently working on creative audio description in museums, art galleries and theatres and her notion of ‘blindness gain’. She was Production Consultant for the Donmar Warehouse’s installation BLINDNESS in 2020 and worked with a range of theatres and audio describers during her AHRC 2021-2 EDI Fellowship ‘Inclusive Description for Equality and Access’. In April 2023 she became PI on a £1M AHRC-funded grant The Sensational Museum which aims to ‘use what we know about disability to change how museums work for everyone.’ Hannah writes about her place as a partially blind academic in a resolutely sighted world in her blog [Blind Spot](http://hannah-thompson.blogspot.com/).
 
 <br>
-
+<!--
 ## Programme
 The full 3-day programme, including the pre-conference day with workshops, can be found in [this PDF file](../assets/docs/2025-conference/darci-full-programme-v1.pdf) and [this Word file](../assets/docs/2025-conference/darci-full-programme-v1.docx).
+-->
 
-<!--
 ## Pre-conference Workshops
 ### Morning (10:00–13:00)
 - Joel Snyder: Audio Description: If Your Eyes Could Speak
@@ -92,7 +94,6 @@ The full 3-day programme, including the pre-conference day with workshops, can b
 - Petra Kuppers: Planting Disabled Futures: a Community Performance/Virtual Reality Experience
 - Michelle Duxbury: 'Nature: Sensory: an introduction to creative audio description through multi-sensory exploration of the landscape'
 - Andrew Lansley: Reshaping Representation: Music, Accessibility, and the Power of Collaboration
--->
 
 Abstracts and bios for the workshops can be found in [this PDF file](../assets/docs/2025-conference/pre-conference-workshops.pdf) and [this Word file](../assets/docs/2025-conference/pre-conference-workshops.docx).
 
