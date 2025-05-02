@@ -15,9 +15,7 @@ grid: false
 - [Keynote Speakers](#keynote-speakers)
   - [Raymond Antrobus](#raymond-antrobus)
   - [Prof. Hannah Thompson](#prof-hannah-thompson)
-- [Pre-conference Workshops](#pre-conference-workshops)
-  - [Morning (10:00–13:00)](#morning-10001300)
-  - [Afternoon (14:30–17:30)](#afternoon-14301730)
+- [Programme](#programme)
 - [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Conference Roles](#conference-roles)
@@ -79,11 +77,11 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 
 <br>
 
-<!--
+
 ## Programme
 The full 3-day programme, including the pre-conference day with workshops, can be found in [this PDF file](../assets/docs/2025-conference/darci-full-programme-v1.pdf) and [this Word file](../assets/docs/2025-conference/darci-full-programme-v1.docx).
--->
 
+<!--
 ## Pre-conference Workshops
 ### Morning (10:00–13:00)
 - Joel Snyder: Audio Description: If Your Eyes Could Speak
@@ -95,6 +93,8 @@ The full 3-day programme, including the pre-conference day with workshops, can b
 - Petra Kuppers: Planting Disabled Futures: a Community Performance/Virtual Reality Experience
 - Michelle Duxbury: 'Nature: Sensory: an introduction to creative audio description through multi-sensory exploration of the landscape'
 - Andrew Lansley: Reshaping Representation: Music, Accessibility, and the Power of Collaboration
+
+-->
 
 Abstracts and bios for the workshops can be found in [this PDF file](../assets/docs/2025-conference/pre-conference-workshops.pdf) and [this Word file](../assets/docs/2025-conference/pre-conference-workshops.docx).
 
