@@ -79,7 +79,7 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 
 
 ## Programme
-The full 3-day programme, including the pre-conference day with workshops, can be found in [this PDF file](../assets/docs/2025-conference/darci-full-programme-v1.pdf) and [this Word file](../assets/docs/2025-conference/darci-full-programme-v1.docx).
+The full 3-day programme, including the pre-conference day with workshops, can be found in [this PDF file](../assets/docs/2025-conference/darci-full-programme-v1.pdf) and [this Word file](../assets/docs/2025-conference/darci-full-programme-v1.1.docx).
 
 <!--
 ## Pre-conference Workshops
