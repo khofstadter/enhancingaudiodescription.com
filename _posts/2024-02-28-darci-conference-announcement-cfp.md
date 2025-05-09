@@ -13,7 +13,6 @@ grid: false
 - [Call for Papers](#call-for-papers)
 - [Submission Guidelines](#submission-guidelines)
 - [List of Topics](#list-of-topics)
-- [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Submission Portal](#submission-portal)
 - [Bursaries](#bursaries)
@@ -74,6 +73,7 @@ Submissions are through abstracts of no more than 300 words.
 
 DARCI is a hybrid conference with opportunities to present both in person in York and online. You will need to indicate your mode of attendance at the point of submission.
 
+<!-- 
 <br>
 
 ## Deadlines
@@ -88,6 +88,8 @@ DARCI is a hybrid conference with opportunities to present both in person in Yor
 **Early Bird Registration closes**: 30th June 2025 5pm UK time
 
 **All registrations close**: 8th August 2025 5pm UK time
+
+-->
 
 <br>
 

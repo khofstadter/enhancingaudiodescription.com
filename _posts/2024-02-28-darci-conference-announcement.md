@@ -13,7 +13,6 @@ grid: true
 - [Call for Papers](#call-for-papers)
 - [Submission Guidelines](#submission-guidelines)
 - [List of Topics](#list-of-topics)
-- [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Submission Portal](#submission-portal)
 - [Bursaries](#bursaries)
@@ -79,6 +78,8 @@ DARCI is a hybrid conference with opportunities to present both in person in Yor
 
 <br>
 
+<!--
+
 ## Deadlines
 **Abstract submission deadline**: 4th November 2024 5pm UK time.
 
@@ -93,6 +94,8 @@ DARCI is a hybrid conference with opportunities to present both in person in Yor
 **All registrations close**: 8th August 2025 5pm UK time
 
 <br>
+
+-->
 
 ##  Types of Registration and Fees
 <table>
