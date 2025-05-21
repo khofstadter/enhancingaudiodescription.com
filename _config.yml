@@ -1,90 +1,7 @@
 #-------------------------------
-# Site Settings
-title: Enhancing Audio Description
-logo: /images/logo-ead-2024.png
-description: Enhancing Audio Description II - implementing accessible, personalised and inclusive film and television experiences for visually impaired audiences
+# General Site Settings
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themselves.
-
-#-------------------------------
-# Author Settings
-author:
-  author__name: EAD
-  author__bio: Enhancing Audio Description II is funded by the Arts and Humanities Research Council, AH/V015583/1. The first instance of the project was also possible thanks to the funding provided by the AHRC AH/N003713/1, AH/N003713/2
-  author__avatar: '/images/logo-ead-2024.png'
-
-social:
-# - {icon: "ion-logo-twitter", link: "https://twitter.com/Mariana_J_Lopez"}
-# - {icon: "ion-logo-facebook", link: "https://facebook.com"}
-# - {icon: "ion-logo-instagram", link: "https://instagram.com"}
-# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-# - {icon: "ion-logo-youtube", link: "https://youtube.com"}
-
-# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-# Other icons can be found at https://ionicons.com/v4/
-
-
-#-------------------------------
-# Hero Settings
-hero:
-  hero__title: Hello!
-  hero__description: The Enhancing Audio Description II project seeks to explore the potential of sound design practices and spatial audio to provide accessible film and television experiences for visually impaired audiences. It fuses audio technology and creativity to widen the notion of media accessibility and increase the quality and quantity of provision, providing cutting edge techniques to the UK cultural sector.  
-  hero__image: '/images/2017-04-13-binaural-listening-test-for-accessibility.webp'
-  hero__image-alt: 'Binaural listening test room'
-
-#-------------------------------
-# Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: enhancingaudiodescription.us19.list-manage.com/subscribe/post?u=2cdffca65dbc9cad334f72cfa&amp;id=2367267bb7 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Your email address
-mailchimp__button__text: Subscribe to our mailinglist
-
-
-#-------------------------------
-# Gallery Footer Section
-gallery:
-  gallery__title: Gallery
-  gallery__columns: 3
-  gallery__images:
-    - alt: 'Focus group in Cambridge with Mariana'
-      url: '/images/2016-08-25-survey-and-focus-groups.webp'
-    - alt: 'Krisztian playing audio games'
-      url: '/images/2016-10-14-more-on-audio-games.webp'
-    - alt: 'Binaural listening test room'
-      url: '/images/2017-04-13-binaural-listening-test-for-accessibility.webp'
-    - alt: 'Screenshot from the Pearl short film'
-      url: '/images/2016-08-25-survey-and-focus-groups-pearl-screenshot.webp'
-    - alt: 'Conference hallway with people'
-      url: '/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-09-narrow.webp'
-    - alt: 'Conference poster presentations'
-      url: '/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-gallery-narrow-1.webp'
-    - alt: 'Conference activity'
-      url: '/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-gallery-narrow-2.webp'
-    - alt: 'Mariana talking to an audience'
-      url: '/images/2017-11-16-review-on-our-conference.webp'
-    - alt: 'Screenshot from the Shelf Life short film'
-      url: '/images/2018-03-29-shelf-life.webp'
-
-
-#-------------------------------
-# Contact Settings
-contact:
-  email: kris@krishofstadter.com # Add your email for contact form
-  description: Thanks for your interest in our EAD project. Please get in touch if you have any questions about our work or have feedback on our website’s accessibility. # Add a description of your form
-
-# NOTE
-# Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
-
-
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: # Add your shortname for Disqus Comment. For example demo-menca
-
-
-#-------------------------------
-# Google Analytics
-google-analytics: UA-79665981-1
 
 
 #-------------------------------
@@ -95,9 +12,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 30
+paginate: 20
 paginate_path: "/page/:num"
-future: true # allows posts with future dates to be published
 
 # Pages Path
 defaults:
@@ -111,5 +27,4 @@ include:
   - _pages
 
 sass:
-  sass_dir: _sass
   style: compressed

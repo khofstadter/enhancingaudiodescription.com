@@ -7,46 +7,34 @@
 
         <div class="col col-5 col-d-12">
           <div class="footer__author">
-            <h2>Contact</h2><p class="footer__author-bio">
+              <h2>Contact</h2><p class="footer__author-bio">
               Any questions, please feel free to email us on enhancingad@gmail.com.
-              Social media updates on the project are added on 
-              <a href="https://x.com/Mariana_J_Lopez" target="_blank">Twitter/X @Mariana_J_Lopez</a> 
-              and on 
-              <a href="https://bsky.app/profile/marianajlopez.bsky.social" target="_blank">Bluesky @marianajlopez.bsky.social</a>.
-            </p>
-            {% if site.social %}
+              Social media updates are on Mariana's accounts, see icons with links embedded below. 
+              {% if site.data.settings.social %}
             <div class="social">
               <ul class="social__list list-reset">
-                {% for social in site.social %}
+                {% for social in site.data.settings.social %}
                 <li class="social__item">
-                  <span class="sr-only">{{ social.label }} ({{ social.icon }})</span>
-                  <a class="social__link" href="{{ social.link }}" rel="noopener" aria-label="{{ social.label }} link"><i class="ion {{ social.icon }}"></i></a>
+                  <a class="social__link" href="{{ social.link }}" target="_blank" rel="noopener"
+                    aria-label="{{ social.name }} link"><i class="{{ social.icon }}"></i></a>
                 </li>
-                {% endfor %} 
+                {% endfor %}
               </ul>
             </div>
             {% endif %}
-            <!--
-              <div class="footer__author-avatar">
-              <img class="lazy" data-src="{{site.baseurl}}{{site.author.author__avatar}}" alt="{{site.author.author__name}}">
-            </div>
-            -->
-            <!-- <h2 class="footer__author-name">{{site.author.author__name}}</h2> -->
-            <br>
-            <p class="footer__author-bio">{{site.author.author__bio}}</p>
-            <br>
-          </div>
-          <br>
+          </div><br>
+          <center><img class="lazy" data-src="/images/team-panel-york.png" alt="logo"></center>
         </div>
 
-        {% if site.gallery %}
+
+        {% if site.data.settings.gallery.enable == true %}
         <div class="col col-6 push-1 col-d-12 push-d-0">
           <div class="footer__gallery">
-            <h3 class="footer__gallery-title">{{ site.gallery.gallery__title }}</h3>
-            {% if site.gallery %}
+            <h3 class="footer__gallery-title">{{ site.data.settings.gallery.gallery_title }}</h3>
+            {% if site.data.settings.gallery %}
             <div class="gallery-footer">
-              <div class="gallery" style="grid-template-columns: repeat({{site.gallery.gallery__columns}}, auto);">
-                {% for image in site.gallery.gallery__images %}
+              <div class="gallery" style="grid-template-columns: repeat({{site.data.settings.gallery.gallery_columns}}, auto);">
+                {% for image in site.data.settings.gallery.gallery_images %}
                 <div class="gallery__image">
                   <img src="{{site.baseurl}}{{image.url}}" alt="{{image.alt}}" loading="lazy">
                 </div>
@@ -60,8 +48,8 @@
 
       </div>
     </div>
-    <center><img class="lazy" data-src="/images/team-panel-york.png" alt="logo"></center>
   </div>
+
 
   <div class="footer__info">
     <div class="container">

@@ -1,0 +1,116 @@
+#-------------------------------
+# Site Settings
+title: Enhancing Audio Description
+description: Enhancing Audio Description II - implementing accessible, personalised and inclusive film and television experiences for visually impaired audiences
+logo: /images/logo-ead-2024.png
+logo_dark: /images/logo-ead-2024.png
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: "Home"
+      url: "/"
+    - title: "Events"
+      url: "/events/"
+    - title: "Symposium"
+      url: "/symposium/"
+    - title: "Conference"
+      url: "/conference/"
+    - title: "Publications"
+      url: "publications"
+    - title: "Media"
+      url: "/media/"
+    - title: "Press"
+      url: "/press/"
+    - title: "Team"
+      url: "/team/"
+    - title: "Newsletter"
+      url: "/newsletter/"
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_title: Hello!
+  hero_description: The Enhancing Audio Description II project seeks to explore the potential of sound design practices and spatial audio to provide accessible film and television experiences for visually impaired audiences. It fuses audio technology and creativity to widen the notion of media accessibility and increase the quality and quantity of provision, providing cutting edge techniques to the UK cultural sector.
+  hero_image: '/images/2017-04-13-binaural-listening-test-for-accessibility.webp'
+  hero__image-alt: 'Binaural listening test room'
+
+
+#-------------------------------
+# Newsletter
+mailchimp:
+  enable: true
+  mailchimp_identifier: enhancingaudiodescription.us19.list-manage.com/subscribe/post?u=2cdffca65dbc9cad334f72cfa&amp;id=2367267bb7 # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_input_text: Your email address
+  mailchimp_button_text: Subscribe to our mailinglist
+
+
+#-------------------------------
+# Author Settings
+author:
+  author_name: EAD
+  author_bio: Enhancing Audio Description II is funded by the Arts and Humanities Research Council, AH/V015583/1. The first instance of the project was also possible thanks to the funding provided by the AHRC AH/N003713/1, AH/N003713/2
+  author_avatar: '/images/logo-ead-2024.png'
+
+
+social:
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://x.com/Mariana_J_Lopez"}
+- {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/marianajlopez.bsky.social"}
+- {icon: "fa-brands fa-linkedin", name: "Pinterest", link: "https://www.linkedin.com/in/mariana-lopez-9a229096/"}
+
+# Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Gallery Footer Section
+gallery:
+  enable: true
+  gallery_title: Gallery
+  gallery_columns: 3
+  gallery_images:
+    - alt: 'Focus group in Cambridge with Mariana'
+      url: '/images/2016-08-25-survey-and-focus-groups.webp'
+    - alt: 'Krisztian playing audio games'
+      url: '/images/2016-10-14-more-on-audio-games.webp'
+    - alt: 'Binaural listening test room'
+      url: '/images/2017-04-13-binaural-listening-test-for-accessibility.webp'
+    - alt: 'Screenshot from the Pearl short film'
+      url: '/images/2016-08-25-survey-and-focus-groups-pearl-screenshot.webp'
+    - alt: 'Conference hallway with people'
+      url: '/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-09-narrow.webp'
+    - alt: 'Conference poster presentations'
+      url: '/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-gallery-narrow-1.webp'
+    - alt: 'Conference activity'
+      url: '/images/2017-11-14-conference-on-accessibility-in-film-television-and-interactive-media-selected-photos-gallery-narrow-2.webp'
+    - alt: 'Mariana talking to an audience'
+      url: '/images/2017-11-16-review-on-our-conference.webp'
+    - alt: 'Screenshot from the Shelf Life short film'
+      url: '/images/2018-03-29-shelf-life.webp'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  form_id: enhancingad@gmail.com # Add your form_id
+  description: Thanks for your interest in our EAD project. Please get in touch if you have any questions about our work or have feedback on our website’s accessibility. # Add a description of your form
+
+# NOTE
+# Menca theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus_identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: UA-79665981-1

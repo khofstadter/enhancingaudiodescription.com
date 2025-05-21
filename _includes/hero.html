@@ -1,44 +1,42 @@
+{% if site.data.settings.hero.enable == true %}
 <!-- begin hero -->
 <section class="hero">
   <div class="container">
     <div class="row">
       <div class="col col-12">
         <div class="hero__inner">
-          <div class="hero__left">
-            <h1 class="hero__title">{{ site.hero.hero__title }}</h1>
-            <p class="hero__description">{{ site.hero.hero__description }}</p>  
 
-            <!--
-              {% if site.mailchimp == "enable" %}
-            <div class="hero__subscribe">
-              <form class="subscribe-form validate"
-                action="{% if site.mailchimp__identifier %}//{{site.mailchimp__identifier}}{% else %}#{% endif %}" method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
-                <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-                <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL"
-                  placeholder="{% if site.mailchimp__input__text %}{{ site.mailchimp__input__text }}{% else %}Email address{% endif %}">
-                <button class="button button--primary subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.mailchimp__button__text }}</button>
-              </form>
-            </div>
+          <div class="hero__left">
+            {% if site.data.settings.hero.hero_title %}
+            <h1 class="hero__title">{{ site.data.settings.hero.hero_title }}</h1>
             {% endif %}
-          -->
+            {% if site.data.settings.hero.hero_description %}
+            <p class="hero__description">{{ site.data.settings.hero.hero_description }}</p>
+            {% endif %}
           </div>
+
           <div class="hero__right">
             <div class="hero__image">
-              <img class="lazy" data-src="{{site.baseurl}}{{site.hero.hero__image}}" alt="{{site.hero.hero__image-alt}}">
+              <img class="lazy" data-src="{{ site.data.settings.hero.hero_image }}" alt="{{ site.data.settings.author.author_name }}'s Picture">
             </div>
+          </div>
         </div>
+
+        <br><br>
+        
+        <details>
+          <summary>Click here to find out more.</summary>
+          <p>
+            <br>
+            Enhancing Audio Description II: implementing accessible, personalised and inclusive film and television experiences for visually impaired audiences, is a project that proposes a new paradigm in accessible experiences, in which there is not an overreliance on a narrator's spoken word, as in traditional Audio Description practices. Instead it utilises new accessibility features that include: the addition of sound effects, the spatialisation of dialogue and sounding objects, and first-person narration, to provide accessible experiences that are seamlessly integrated to the soundtrack of a film or television programme. These techniques are integrated into film and television workflows from the development phase up to final delivery.
+            <br>
+            <br>
+            The project builds up from previous research which demonstrated the success of these methods, and explores them even further, by concentrating on the conveyance of cinematographic elements through sound, the exploration of the intricacies of using first-person narration across different genres and different cast sizes, as well as exploring how spatialisation techniques can be adapted for multi-listener scenarios for a variety of loudspeaker formats. The exploration of these methods will be conducted with an end-user centred approach, in which visually impaired audiences are consulted from the design process up to delivery. Furthermore, the project explores the creation of guidelines that will allow the incorporation of these methods to professional broadcasting pipelines and film workflows, by collaborating with a <a href="/team/#advisory-panel" style="text-decoration: underline; font-weight: bold;"><u>Project Advisory Panel</u></a> representative of the different roles in film and television as well as end users.</p>
+        </details>
+
       </div>
-      <br><br>
-      <details>
-        <summary>Click here to find out more.</summary>
-        <p>
-          <br>
-          Enhancing Audio Description II: implementing accessible, personalised and inclusive film and television experiences for visually impaired audiences, is a project that proposes a new paradigm in accessible experiences, in which there is not an overreliance on a narrator's spoken word, as in traditional Audio Description practices. Instead it utilises new accessibility features that include: the addition of sound effects, the spatialisation of dialogue and sounding objects, and first-person narration, to provide accessible experiences that are seamlessly integrated to the soundtrack of a film or television programme. These techniques are integrated into film and television workflows from the development phase up to final delivery.
-          <br>
-          <br>
-          The project builds up from previous research which demonstrated the success of these methods, and explores them even further, by concentrating on the conveyance of cinematographic elements through sound, the exploration of the intricacies of using first-person narration across different genres and different cast sizes, as well as exploring how spatialisation techniques can be adapted for multi-listener scenarios for a variety of loudspeaker formats. The exploration of these methods will be conducted with an end-user centred approach, in which visually impaired audiences are consulted from the design process up to delivery. Furthermore, the project explores the creation of guidelines that will allow the incorporation of these methods to professional broadcasting pipelines and film workflows, by collaborating with a <a href="/team/#advisory-panel" style="text-decoration: underline; font-weight: bold;"><u>Project Advisory Panel</u></a> representative of the different roles in film and television as well as end users.</p>
-      </details>
     </div>
   </div>
 </section>
 <!-- end hero -->
+{% endif %}
