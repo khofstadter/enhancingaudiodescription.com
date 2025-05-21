@@ -18,7 +18,7 @@ menu_settings:
     - title: "Symposium"
       url: "/symposium/"
     - title: "Conference"
-      url: "/darci-conference/"
+      url: "/conference/"
     - title: "Publications"
       url: "publications"
     - title: "Media"
