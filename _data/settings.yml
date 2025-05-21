@@ -20,7 +20,7 @@ menu_settings:
     - title: "Conference"
       url: "/conference/"
     - title: "Publications"
-      url: "publications"
+      url: "/publications/"
     - title: "Media"
       url: "/media/"
     - title: "Press"
