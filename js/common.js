@@ -87,6 +87,7 @@ document.addEventListener("DOMContentLoaded", function() {
     resultsContainer: document.getElementById("js-results-container"),
     json: "/search.json",
     searchResultTemplate: '{article}',
+    limit: 100,
     noResultsText: '<h3 class="no-results">No results found</h3>'
   });
 
