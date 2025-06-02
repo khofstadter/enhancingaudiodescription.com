@@ -81,22 +81,7 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 ## Programme
 The full 3-day programme, including the pre-conference day with workshops, can be found in [this PDF file](../assets/docs/2025-conference/darci-full-programme.pdf) and [this Word file](../assets/docs/2025-conference/darci-full-programme.docx).
 
-<!--
-## Pre-conference Workshops
-### Morning (10:00–13:00)
-- Joel Snyder: Audio Description: If Your Eyes Could Speak
-- Benny Shakes: Blue Badge Bunch
-- Elizabeth Kuti: Making Inclusive Audio Drama
-- Ouassima Bakkali Hassani: Exploring Audiovisual Translation: The Art and Techniques of Subtitling 
-
-### Afternoon (14:30–17:30)
-- Petra Kuppers: Planting Disabled Futures: a Community Performance/Virtual Reality Experience
-- Michelle Duxbury: 'Nature: Sensory: an introduction to creative audio description through multi-sensory exploration of the landscape'
-- Andrew Lansley: Reshaping Representation: Music, Accessibility, and the Power of Collaboration
-
--->
-
-Abstracts and bios for the workshops can be found in [this PDF file](../assets/docs/2025-conference/pre-conference-workshops.pdf) and [this Word file](../assets/docs/2025-conference/pre-conference-workshops.docx).
+Abstracts and bios for the workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-pre-conference-workshops.pdf) and [this Word file](../assets/docs/2025-conference/darci-pre-conference-workshops.docx).
 
 <br>
 
