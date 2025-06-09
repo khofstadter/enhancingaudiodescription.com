@@ -1,7 +1,7 @@
 ---
 layout: post-no-img-head
 title: "Conveying Cinematography Through Sound"
-description: "In this blog post Kris updates us on the work his been doing as part of his research within the EAD team, where his focus has been on how to use sound to convey cinematographic elements."
+description: "In this blog post Kris updates us on the work he's been doing as part of his research within the EAD team, where his focus has been on how to use sound to convey cinematographic elements."
 date: 2025-05-16
 image: '/images/2023-06-16-york-studio-rq1-study.webp'
 image-alt:  'In a dim sound studio, we look at sound studio mixing desk and a screen with a black and white film clip.'
