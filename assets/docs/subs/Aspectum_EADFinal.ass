@@ -15,8 +15,9 @@ Audio File: ../../../../../doing/ead/Aspectrum/Aspectum_EADFinal.mp4
 Video File: ../../../../../doing/ead/Aspectrum/Aspectum_EADFinal.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Video Position: 259
+Video Zoom Percent: 0.500000
+Active Line: 278
+Video Position: 22649
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,17 +25,17 @@ Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.86,Default,,0,0,0,,[HEARTBEAT]
+Dialogue: 0,0:00:00.00,0:00:02.86,Default,,0,0,0,,[ HEARTBEAT ]
 Dialogue: 0,0:00:02.86,0:00:04.80,Default,,0,0,0,,NINA: {\i1}Abstract image of an eye.{\i}
 Dialogue: 0,0:00:05.77,0:00:09.00,Default,,0,0,0,,[ ♪ PERCUSSION AND SYNTH STARTS ♪ ]\NAm I crazy? Am I blind?
-Dialogue: 0,0:00:09.24,0:00:11.95,Default,,0,0,0,,Should I be hard or should I be kind
+Dialogue: 0,0:00:09.09,0:00:11.95,Default,,0,0,0,,Should I be hard or should I be kind
 Dialogue: 0,0:00:12.16,0:00:14.14,Default,,0,0,0,,as I stand and shake my head?
 Dialogue: 0,0:00:14.95,0:00:17.19,Default,,0,0,0,,For no one knows what I see,
 Dialogue: 0,0:00:17.59,0:00:19.98,Default,,0,0,0,,yet I am always there to please.
 Dialogue: 0,0:00:20.55,0:00:22.58,Default,,0,0,0,,{\i1}Colours wash over the screen.{\i}
-Dialogue: 0,0:00:23.02,0:00:25.31,Default,,0,0,0,,[ ♪ MUSIC RISES ♪ ]\NMILES: They're not real,
-Dialogue: 0,0:00:25.31,0:00:26.80,Default,,0,0,0,,or they're more real,
-Dialogue: 0,0:00:26.80,0:00:30.22,Default,,0,0,0,,should I say than,\Nmaybe a sighted person can imagine.
+Dialogue: 0,0:00:23.02,0:00:25.08,Default,,0,0,0,,[ ♪ MUSIC RISES ♪ ]\NMILES: They're not real,
+Dialogue: 0,0:00:25.08,0:00:26.02,Default,,0,0,0,,or they're more real,
+Dialogue: 0,0:00:26.02,0:00:30.52,Default,,0,0,0,,should I say than,\Nmaybe a sighted person can imagine.
 Dialogue: 0,0:00:31.32,0:00:33.30,Default,,0,0,0,,You probably do without realising,
 Dialogue: 0,0:00:33.30,0:00:35.63,Default,,0,0,0,,but you can feel when things are there,
 Dialogue: 0,0:00:35.63,0:00:37.60,Default,,0,0,0,,even if you're not touching them.
@@ -61,7 +62,7 @@ Dialogue: 0,0:01:35.37,0:01:38.58,Default,,0,0,0,,sat on the sofa with him\Nexpl
 Dialogue: 0,0:01:39.80,0:01:41.89,Default,,0,0,0,,When I was 18 months old,
 Dialogue: 0,0:01:41.98,0:01:46.02,Default,,0,0,0,,my mom noticed that the pupil in my right eye
 Dialogue: 0,0:01:46.69,0:01:49.11,Default,,0,0,0,,wasn't working properly\Nwhen she turned the lights on and off,
-Dialogue: 0,0:01:49.40,0:01:51.98,Default,,0,0,0,,and took me off down to the doctors.
+Dialogue: 0,0:01:49.11,0:01:51.86,Default,,0,0,0,,and took me off down to the doctors.
 Dialogue: 0,0:01:51.98,0:01:52.96,Default,,0,0,0,,[ CRACKLING NOISE ]\NThen...
 Dialogue: 0,0:01:52.96,0:01:54.28,Default,,0,0,0,,went straight down there
 Dialogue: 0,0:01:54.28,0:01:57.24,Default,,0,0,0,,and was diagnosed with Retina Blastoma,
@@ -77,8 +78,8 @@ Dialogue: 0,0:02:13.97,0:02:16.59,Default,,0,0,0,,and the brain\Nand that would 
 Dialogue: 0,0:02:16.59,0:02:18.30,Default,,0,0,0,,And that would be the end of stuff.
 Dialogue: 0,0:02:18.30,0:02:21.16,Default,,0,0,0,,[ STADIUM AMBIENCE AND SINE WAVE ]
 Dialogue: 0,0:02:21.24,0:02:27.34,Default,,0,0,0,,I did radiotherapy on my left eye\Nfor the next three years.
-Dialogue: 0,0:02:28.12,0:02:31.92,Default,,0,0,0,,Cobalt plaques on the back of the eyeball\Nand all that sort of stuff
-Dialogue: 0,0:02:31.92,0:02:34.80,Default,,0,0,0,,to try and fry the cancer.
+Dialogue: 0,0:02:28.12,0:02:30.85,Default,,0,0,0,,Cobalt plaques on the back of the eyeball\Nand all that sort of stuff
+Dialogue: 0,0:02:30.85,0:02:35.18,Default,,0,0,0,,to try and fry the cancer.
 Dialogue: 0,0:02:36.24,0:02:38.23,Default,,0,0,0,,But in the end, it didn't work.
 Dialogue: 0,0:02:38.23,0:02:39.60,Default,,0,0,0,,It was too resilient.
 Dialogue: 0,0:02:40.82,0:02:44.04,Default,,0,0,0,,So they took my left eye\Nwhen I was four and a half.
@@ -96,7 +97,7 @@ Dialogue: 0,0:03:14.00,0:03:16.66,Default,,0,0,0,,That morning I was taking too 
 Dialogue: 0,0:03:16.66,0:03:19.10,Default,,0,0,0,,[ KETTLE WHISTLING ]\Ndoing the payroll for the staff at the cafe,
 Dialogue: 0,0:03:19.10,0:03:21.83,Default,,0,0,0,,I was trying to get my son ready for school.
 Dialogue: 0,0:03:21.83,0:03:25.48,Default,,0,0,0,,I bent over,\Nbasically caught the corner of the TV
-Dialogue: 0,0:03:25.48,0:03:28.65,Default,,0,0,0,,and it burst a hole in the top of my eyeball.
+Dialogue: 0,0:03:25.48,0:03:27.98,Default,,0,0,0,,and it burst a hole in the top of my eyeball.
 Dialogue: 0,0:03:28.48,0:03:31.64,Default,,0,0,0,,And I knew straight away\Nthe site just, it went just black.
 Dialogue: 0,0:03:32.18,0:03:34.94,Default,,0,0,0,,There was just like lines of lightning.
 Dialogue: 0,0:03:34.94,0:03:38.70,Default,,0,0,0,,[ DRONE SWELLING ]\NAnd I just knew. I knew that the site had gone.
@@ -108,7 +109,7 @@ Dialogue: 0,0:03:52.08,0:03:54.64,Default,,0,0,0,,"I can see something\Nthey've 
 Dialogue: 0,0:03:55.10,0:03:58.28,Default,,0,0,0,,Doctor came back\Nand I remember these words,
 Dialogue: 0,0:03:58.70,0:04:01.84,Default,,0,0,0,,he said: "I can reassure you\Nwe haven't saved your sight,
 Dialogue: 0,0:04:01.84,0:04:04.45,Default,,0,0,0,,"it's just your mind playing tricks on you."
-Dialogue: 0,0:04:04.45,0:04:08.64,Default,,0,0,0,,So those words kind of haunted me\Nbecause I thought,
+Dialogue: 0,0:04:04.45,0:04:08.64,Default,,0,0,0,,So... those words kind of haunted me\Nbecause I thought,
 Dialogue: 0,0:04:08.64,0:04:11.98,Default,,0,0,0,,"Well, I can see something,\Nthere's something there for sure."
 Dialogue: 0,0:04:11.98,0:04:13.24,Default,,0,0,0,,[ SINE WAVES FADE IN ]
 Dialogue: 0,0:04:13.24,0:04:17.12,Default,,0,0,0,,Because he said that to me\NI was really scared to tell anybody.
@@ -126,7 +127,7 @@ Dialogue: 0,0:04:53.02,0:04:57.54,Default,,0,0,0,,I was just sat there crying,\N
 Dialogue: 0,0:04:57.54,0:04:59.78,Default,,0,0,0,,just scared of these zombies that were there.
 Dialogue: 0,0:05:00.18,0:05:02.74,Default,,0,0,0,,{\i1}Here's some artwork I made of the skulls.{\i}
 Dialogue: 0,0:05:02.74,0:05:06.64,Default,,0,0,0,,MILES: {\i1}We enter a doll's house recreation\Nof my childhood home.{\i}
-Dialogue: 0,0:05:06.64,0:05:09.12,Default,,0,0,0,,[ ♪ EERIE PIANO\NAND REVERSED SOUNDS STARTS ♪ ]
+Dialogue: 0,0:05:06.64,0:05:09.12,Default,,0,0,0,,[ ♪ EERIE PIANO AND \N REVERSED SOUNDS START ♪ ]
 Dialogue: 0,0:05:09.12,0:05:14.70,Default,,0,0,0,,So I first started getting hallucinations\Nwhen I was probably about four.
 Dialogue: 0,0:05:15.16,0:05:19.16,Default,,0,0,0,,I think it was just before\NI totally lost my sight.
 Dialogue: 0,0:05:20.00,0:05:23.02,Default,,0,0,0,,Mine have always been\Nwhat I've always called "monsters".
@@ -152,7 +153,7 @@ Dialogue: 0,0:06:15.76,0:06:18.52,Default,,0,0,0,,and they'd try and come throug
 Dialogue: 0,0:06:18.52,0:06:23.00,Default,,0,0,0,,So you might whip it open, shout, slam it,\Nand dive back into bed again...
 Dialogue: 0,0:06:23.57,0:06:25.44,Default,,0,0,0,,but you probably wouldn't.
 Dialogue: 0,0:06:25.44,0:06:29.48,Default,,0,0,0,,So you either just shouted a lot from there\Nor you bottled everything up
-Dialogue: 0,0:06:29.87,0:06:32.66,Default,,0,0,0,,and got under the duvet\Nwhere you couldn't see,
+Dialogue: 0,0:06:29.48,0:06:32.66,Default,,0,0,0,,and got under the duvet\Nwhere you couldn't see,
 Dialogue: 0,0:06:32.66,0:06:33.84,Default,,0,0,0,,metaphorically speaking.
 Dialogue: 0,0:06:33.84,0:06:35.42,Default,,0,0,0,,Because that works for me.
 Dialogue: 0,0:06:36.03,0:06:39.85,Default,,0,0,0,,If I'm seeing a monster,\Nif I cover my eyes, I can't see it.
@@ -167,13 +168,12 @@ Dialogue: 0,0:07:01.38,0:07:03.85,Default,,0,0,0,,it's there and I have\Nthem ba
 Dialogue: 0,0:07:04.02,0:07:08.55,Default,,0,0,0,,So for me,\NI experience them all day, every day.
 Dialogue: 0,0:07:08.97,0:07:12.60,Default,,0,0,0,,So from the moment I waked,\Nto the moment I get to sleep
 Dialogue: 0,0:07:12.60,0:07:16.77,Default,,0,0,0,,or when I get to sleep\Nbecause that is one thing that I struggle with,
-Dialogue: 0,0:07:17.87,0:07:22.17,Default,,0,0,0,,getting to sleep\Nbecause when the hallucinations are there,
+Dialogue: 0,0:07:17.87,0:07:22.17,Default,,0,0,0,,getting to sleep\Nbecause... when the hallucinations are there,
 Dialogue: 0,0:07:22.17,0:07:25.40,Default,,0,0,0,,they're there when I close my eyes,\Nthey don't go away.
-Dialogue: 0,0:07:26.02,0:07:29.34,Default,,0,0,0,,It drives me insane sometimes. \N[LAUGHS]
+Dialogue: 0,0:07:26.02,0:07:29.34,Default,,0,0,0,,[ LAUGHS ]\NIt drives me insane sometimes.
 Dialogue: 0,0:07:29.34,0:07:34.44,Default,,0,0,0,,I just, like... I know it sounds,\Nand I probably shouldn't say this in front of everyone
 Dialogue: 0,0:07:34.44,0:07:37.52,Default,,0,0,0,,but it sounds like some days,
-Dialogue: 0,0:07:38.40,0:07:39.64,Default,,0,0,0,,and especially it's more at nighttime
-Dialogue: 0,0:07:39.64,0:07:41.37,Default,,0,0,0,,when I'm trying to get to sleep, but...
+Dialogue: 0,0:07:38.40,0:07:41.37,Default,,0,0,0,,and especially it's more at nighttime\Nwhen I'm trying to get to sleep, but...
 Dialogue: 0,0:07:43.44,0:07:46.29,Default,,0,0,0,,I smack myself on the head.
 Dialogue: 0,0:07:46.29,0:07:47.13,Default,,0,0,0,,I shake.
 Dialogue: 0,0:07:48.16,0:07:52.11,Default,,0,0,0,,You know, I lie there in bed crying,\Nbegging for it to go away
@@ -198,12 +198,12 @@ Dialogue: 0,0:08:41.07,0:08:41.95,Default,,0,0,0,,It was just there.
 Dialogue: 0,0:08:41.95,0:08:43.52,Default,,0,0,0,,I told a friend of mine  
 Dialogue: 0,0:08:43.52,0:08:48.88,Default,,0,0,0,,about them probably when I was about\Nseven, six, seven, something like that.
 Dialogue: 0,0:08:48.92,0:08:53.01,Default,,0,0,0,,Not “Oh, I see these monsters”,\Nit was just: “There are these monsters”.
-Dialogue: 0,0:08:53.04,0:08:56.83,Default,,0,0,0,,And I suspect at that age he probably
-Dialogue: 0,0:08:56.84,0:08:59.11,Default,,0,0,0,,[ BIRDS CHIRPING ]\Ntook it as a game.
-Dialogue: 0,0:08:59.24,0:09:04.76,Default,,0,0,0,,But also I think he probably\Nknew to a point there was something.
-Dialogue: 0,0:09:04.96,0:09:07.04,Default,,0,0,0,,Because he would ask, he'd say
-Dialogue: 0,0:09:07.04,0:09:11.61,Default,,0,0,0,,"What monsters are there today?\NWhich ones are they? Let's get them!"
-Dialogue: 0,0:09:11.86,0:09:14.29,Default,,0,0,0,,[ BIRDS CHIRPING; DOG WHINING ]\NAnd we'd charge down the corridor,
+Dialogue: 0,0:08:53.04,0:08:55.98,Default,,0,0,0,,And I suspect at that age he probably
+Dialogue: 0,0:08:56.83,0:08:58.89,Default,,0,0,0,,[ BIRDS CHIRPING ]\Ntook it as a game.
+Dialogue: 0,0:08:58.89,0:09:03.72,Default,,0,0,0,,But also I think he probably\Nknew to a point there was something.
+Dialogue: 0,0:09:04.96,0:09:06.71,Default,,0,0,0,,Because he would ask, he'd say
+Dialogue: 0,0:09:07.04,0:09:10.92,Default,,0,0,0,,"What monsters are there today?\NWhich ones are they? Let's get them!"
+Dialogue: 0,0:09:11.98,0:09:14.29,Default,,0,0,0,,[ BIRDS CHIRPING; DOG WHINING ]\NAnd we'd charge down the corridor,
 Dialogue: 0,0:09:14.38,0:09:16.19,Default,,0,0,0,,we’d attack these things,
 Dialogue: 0,0:09:16.19,0:09:18.33,Default,,0,0,0,,and it actually felt quite good,
 Dialogue: 0,0:09:18.41,0:09:21.10,Default,,0,0,0,,just to actually be on the front foot,\Nfelt…
@@ -212,9 +212,9 @@ Dialogue: 0,0:09:23.39,0:09:24.62,Default,,0,0,0,,[ DOG WHINING ]
 Dialogue: 0,0:09:26.52,0:09:29.72,Default,,0,0,0,,[ WATER FLOWING ]\NNINA: {\i1}Reflections of images through water.{\i}
 Dialogue: 0,0:09:29.72,0:09:32.75,Default,,0,0,0,,[ ♪ MELANCHOLIC SYNTHS ♪ ]\NFrom the moment I was told
 Dialogue: 0,0:09:32.75,0:09:35.77,Default,,0,0,0,,that it was just my mind,\Nand I saw those wavy colours,
-Dialogue: 0,0:09:37.43,0:09:39.93,Default,,0,0,0,,it was probably about five or six weeks that I
-Dialogue: 0,0:09:39.93,0:09:40.98,Default,,0,0,0,,kept it to myself,
-Dialogue: 0,0:09:41.56,0:09:45.03,Default,,0,0,0,,which is... doesn't seem \Nthat long but for me, it felt like...
+Dialogue: 0,0:09:37.43,0:09:39.50,Default,,0,0,0,,it was probably about five or six weeks that I
+Dialogue: 0,0:09:39.50,0:09:40.98,Default,,0,0,0,,kept it to myself,
+Dialogue: 0,0:09:41.56,0:09:45.03,Default,,0,0,0,,which is... Doesn't seem \Nthat long but for me, it felt like...
 Dialogue: 0,0:09:45.03,0:09:46.02,Default,,0,0,0,,months.
 Dialogue: 0,0:09:46.72,0:09:50.63,Default,,0,0,0,,And it got to the point where I just,\Nlike, I can't do this alone anymore.
 Dialogue: 0,0:09:50.64,0:09:52.12,Default,,0,0,0,,I have to speak to somebody.
@@ -226,7 +226,7 @@ Dialogue: 0,0:10:04.27,0:10:06.48,Default,,0,0,0,,“Are you going crazy? You're
 Dialogue: 0,0:10:06.48,0:10:09.58,Default,,0,0,0,,They're gonna think\Nthat I'm having a nervous breakdown,
 Dialogue: 0,0:10:09.60,0:10:12.49,Default,,0,0,0,,because I've lost my sight,\Nand I've lost my business
 Dialogue: 0,0:10:12.52,0:10:15.11,Default,,0,0,0,,and I've lost, you know…
-Dialogue: 0,0:10:15.13,0:10:18.76,Default,,0,0,0,,stick me on a load of tablets,\Nand I'm just going to become a vegetable
+Dialogue: 0,0:10:15.11,0:10:18.76,Default,,0,0,0,,stick me on a load of tablets,\Nand I'm just going to become a vegetable
 Dialogue: 0,0:10:18.76,0:10:19.98,Default,,0,0,0,,in the corner of the room.
 Dialogue: 0,0:10:20.59,0:10:25.00,Default,,0,0,0,,So, I was really scared\Nto tell anyone. So I told my mom and husband
 Dialogue: 0,0:10:25.00,0:10:30.60,Default,,0,0,0,,and they didn't have a clue, but they were\Nreally understanding and patient and  
@@ -238,12 +238,12 @@ Dialogue: 0,0:10:41.19,0:10:43.97,Default,,0,0,0,,and she replied and said
 Dialogue: 0,0:10:44.00,0:10:48.52,Default,,0,0,0,,"Yeah, you've got Charles Bonnet syndrome."\NAnd I was like "Wooh, what's that?"
 Dialogue: 0,0:10:48.52,0:10:52.90,Default,,0,0,0,,It just felt amazing that\Nshe's told me that I have this condition.
 Dialogue: 0,0:10:52.90,0:10:57.67,Default,,0,0,0,,It's got a name. Wow!\NEven though I had no idea what it was,
-Dialogue: 0,0:10:58.02,0:11:03.88,Default,,0,0,0,,I had something that had a name,\Nand a partial explanation.
-Dialogue: 0,0:11:03.88,0:11:05.52,Default,,0,0,0,,[ ♪ ORCHESTRAL MUSIC ♪ ]\NMILES: {\i1}Back in the doll's house,{\i}
-Dialogue: 0,0:11:05.57,0:11:07.00,Default,,0,0,0,,{\i1}a documentary is playing on TV.{\i}
+Dialogue: 0,0:10:58.02,0:11:03.00,Default,,0,0,0,,I had something that had a name,\Nand a partial explanation.
+Dialogue: 0,0:11:03.88,0:11:05.02,Default,,0,0,0,,[ ♪ TV MUSIC ♪ ]\NMILES: {\i1}Back in the doll's house,{\i}
+Dialogue: 0,0:11:05.02,0:11:07.00,Default,,0,0,0,,{\i1}a documentary is playing on TV.{\i}
 Dialogue: 0,0:11:07.00,0:11:12.00,Default,,0,0,0,,{\i1}We hear from Judith Potts, Prof{\i}\N{\i1}Mariya Moosajee, and Prof Dominic Ffytche.{\i}
-Dialogue: 0,0:11:12.00,0:11:16.33,Default,,0,0,0,,JUDITH ON TV: {\i1}When you full sight, there\Nare messages which run all the time{\i0}
-Dialogue: 0,0:11:16.33,0:11:20.35,Default,,0,0,0,,{\i1}from the retina in the eye\Nto the visual cortex in the brain.{\i0}
+Dialogue: 0,0:11:12.00,0:11:15.98,Default,,0,0,0,,JUDITH ON TV: {\i1}When you full sight, there\Nare messages which run all the time{\i0}
+Dialogue: 0,0:11:16.14,0:11:19.40,Default,,0,0,0,,{\i1}from the retina in the eye\Nto the visual cortex in the brain.{\i0}
 Dialogue: 0,0:11:20.48,0:11:26.44,Default,,0,0,0,,{\i1}The eye acting like a camera and the brain\Ninterpreting what it is you're seeing.{\i0}
 Dialogue: 0,0:11:26.44,0:11:30.08,Default,,0,0,0,,{\i1}When sight diminishes,\Nthose messages slow down{\i0}
 Dialogue: 0,0:11:30.08,0:11:31.95,Default,,0,0,0,,{\i1}or stop entirely.{\i0}
@@ -277,8 +277,8 @@ Dialogue: 0,0:13:07.17,0:13:09.49,Default,,0,0,0,,{\i1}A white bird moving in t
 Dialogue: 0,0:13:09.72,0:13:12.32,Default,,0,0,0,,[ ♪ SOFT SYNTH ♪ ]\NSo, they're here right now with me
 Dialogue: 0,0:13:12.32,0:13:15.06,Default,,0,0,0,,[ WATER FLOWING ]\NI've got kind of yellow clouds,
 Dialogue: 0,0:13:15.08,0:13:16.75,Default,,0,0,0,,and it's a kind of like
-Dialogue: 0,0:13:16.80,0:13:19.94,Default,,0,0,0,,[ SEAGULLS SQUAWKING ]\Nwhite little bird floating here at the side,
-Dialogue: 0,0:13:20.07,0:13:23.58,Default,,0,0,0,,and clouds are moving just gracefully.
+Dialogue: 0,0:13:16.80,0:13:19.94,Default,,0,0,0,,white little bird floating here at the side,
+Dialogue: 0,0:13:20.07,0:13:23.58,Default,,0,0,0,,[ SEAGULLS SQUAWKING ]\Nand clouds are moving just gracefully.
 Dialogue: 0,0:13:23.64,0:13:26.52,Default,,0,0,0,,Yeah, I can't shift them.
 Dialogue: 0,0:13:26.52,0:13:29.66,Default,,0,0,0,,Yesterday, I had\Na bit of a meltdown with my technology,
 Dialogue: 0,0:13:29.87,0:13:33.18,Default,,0,0,0,,and it wasn't doing what I needed it to do
@@ -295,10 +295,11 @@ Dialogue: 0,0:14:01.25,0:14:05.11,Default,,0,0,0,,which, which I think\Nhas made
 Dialogue: 0,0:14:05.26,0:14:07.25,Default,,0,0,0,,I think it's my experience that
 Dialogue: 0,0:14:07.98,0:14:14.80,Default,,0,0,0,,in the eight months\Nsince I’ve actually started talking about them,
 Dialogue: 0,0:14:14.95,0:14:19.48,Default,,0,0,0,,I don’t think they’re as intrusive,\Nnot as aggressive.
-Dialogue: 0,0:14:19.98,0:14:25.12,Default,,0,0,0,,They’re still always there\Nand they still do have their times,
+Dialogue: 0,0:14:19.48,0:14:23.98,Default,,0,0,0,,They’re still always there\Nand they still do have their times,
 Dialogue: 0,0:14:25.12,0:14:32.12,Default,,0,0,0,,[ BIRDS CHIRPING ]\Nbut the times are currently less frequent,
-Dialogue: 0,0:14:32.24,0:14:36.51,Default,,0,0,0,,so maybe,\NI won't say talking about them
-Dialogue: 0,0:14:36.52,0:14:38.82,Default,,0,0,0,,has cured them at all,\Nbecause like I said,
+Dialogue: 0,0:14:32.24,0:14:33.20,Default,,0,0,0,,so maybe,
+Dialogue: 0,0:14:34.58,0:14:36.71,Default,,0,0,0,,I won't say talking about them
+Dialogue: 0,0:14:36.71,0:14:38.82,Default,,0,0,0,,has cured them at all,\Nbecause like I said,
 Dialogue: 0,0:14:38.82,0:14:42.78,Default,,0,0,0,,they're still there every time,\Njust all the time, they are there.
 Dialogue: 0,0:14:43.98,0:14:50.52,Default,,0,0,0,,But maybe it has, in some way,\Nenabled me not to be so worried about them.
 Dialogue: 0,0:14:50.56,0:14:53.91,Default,,0,0,0,,NINA: {\i1}Shimmering animations of hallucinations{\i0}
@@ -308,7 +309,7 @@ Dialogue: 0,0:14:59.02,0:15:01.04,Default,,0,0,0,,I would just like to say “W
 Dialogue: 0,0:15:01.06,0:15:05.40,Default,,0,0,0,,Our journey has been a turbulent one\Nand I was unsure of which way it would go.
 Dialogue: 0,0:15:05.40,0:15:09.10,Default,,0,0,0,,I can now safely say you're a part of me,\Nand I welcome
 Dialogue: 0,0:15:09.10,0:15:10.40,Default,,0,0,0,,all of you.
-Dialogue: 0,0:15:11.36,0:15:16.84,Default,,0,0,0,,MILES: Dear monsters of Charles Bonnet syndrome.\NSince I was five, you have intruded into my life 
+Dialogue: 0,0:15:11.36,0:15:16.84,Default,,0,0,0,,MILES: Dear monsters of Charles Bonnet syndrome.\NSince I was five, you have intruded into my life
 Dialogue: 0,0:15:16.84,0:15:18.61,Default,,0,0,0,,without so much as a by-your-leave.
 Dialogue: 0,0:15:19.65,0:15:21.95,Default,,0,0,0,,When I was four and a half\Nand lost my sight
 Dialogue: 0,0:15:21.96,0:15:24.92,Default,,0,0,0,,you lost not a second\Nstepping into the void.
@@ -324,7 +325,7 @@ Dialogue: 0,0:16:05.20,0:16:07.60,Default,,0,0,0,,I finally found out what you a
 Dialogue: 0,0:16:08.60,0:16:11.14,Default,,0,0,0,,and in the eight months since then,
 Dialogue: 0,0:16:11.29,0:16:13.62,Default,,0,0,0,,I've begun to be able to\Ndo the hardest thing  
 Dialogue: 0,0:16:13.72,0:16:16.56,Default,,0,0,0,,and tell people about you.\N[ ♪ SNARE DRUMMING STOPS ♪ ]
-Dialogue: 0,0:16:16.56,0:16:24.80,Default,,0,0,0,,NINA: Then, that moment came in a second,\Nwhen, sat there alone, that I am in control.
+Dialogue: 0,0:16:16.56,0:16:24.80,Default,,0,0,0,,NINA: Then, that moment came in a second,\Nwhen sat there alone, that I am in control.
 Dialogue: 0,0:16:24.80,0:16:28.98,Default,,0,0,0,,[ ♪ SOFT SYNTHS ADDED ♪ ]\NI began to share and tell people more of you.
 Dialogue: 0,0:16:29.00,0:16:32.26,Default,,0,0,0,,And as I did,\Nyou became a part of me.
 Dialogue: 0,0:16:33.04,0:16:38.56,Default,,0,0,0,,I learned about you. I found out\Nwho you were and why you existed.
@@ -346,12 +347,10 @@ Dialogue: 0,0:17:42.36,0:17:45.52,Default,,0,0,0,,MILES: In short,\Nyour days ar
 Dialogue: 0,0:17:45.52,0:17:48.28,Default,,0,0,0,,You will be understood.
 Dialogue: 0,0:17:48.28,0:17:50.08,Default,,0,0,0,,And with understanding  
 Dialogue: 0,0:17:50.08,0:17:52.96,Default,,0,0,0,,comes acceptance and ownership.
-Dialogue: 0,0:17:52.97,0:17:55.99,Default,,0,0,0,,And with acceptance\Nand ownership comes freedom.
+Dialogue: 0,0:17:52.96,0:17:55.99,Default,,0,0,0,,And with acceptance\Nand ownership comes freedom.
 Dialogue: 0,0:17:56.05,0:17:57.56,Default,,0,0,0,,[ ♪ MUSIC STOPS ♪ ]
 Dialogue: 0,0:17:57.57,0:18:01.44,Default,,0,0,0,,NINA: On that note, Charles Bonnet\Nsyndrome, I thank you.
 Dialogue: 0,0:18:01.44,0:18:03.96,Default,,0,0,0,,I am not so scared anymore. 
-Dialogue: 0,0:18:10.24,0:18:17.48,Default,,0,0,0,,{\i1}NARRATOR: One in five people with sight loss{\i}\N{\i1}experience some degree of Charles Bonnet syndrome.{\i}
-Dialogue: 0,0:18:17.48,0:18:21.44,Default,,0,0,0,,{\i1}With as many as 1 million in the UK alone.{\i}
 Dialogue: 0,0:18:39.52,0:18:43.36,Default,,0,0,0,,[ ♪ PERCUSSION MUSIC ♪ ]
-Dialogue: 0,0:19:13.60,0:19:15.60,Default,,0,0,0,,[ ♪ PERCUSSION MUSIC FADES ♪ ]
+Dialogue: 0,0:19:13.60,0:19:15.60,Default,,0,0,0,,[ ♪ PERCUSSION MUSIC STOPS ♪ ]
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
