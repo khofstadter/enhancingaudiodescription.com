@@ -18,6 +18,7 @@ grid: true
 - [Performance by Amble Skuse](#performance-by-amble-skuse)
   - [Frequencies of Being: Sounding the Unspoken](#frequencies-of-being-sounding-the-unspoken)
 - [Programme](#programme)
+- [Accessibility Information](#accessibility-information)
 - [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Conference Roles](#conference-roles)
@@ -95,6 +96,22 @@ The concert offers an opportunity to connect with fellow delegates ahead of the 
 The full 3-day programme, including the pre-conference day with workshops, can be found in [this PDF file](../assets/docs/2025-conference/darci-full-programme.pdf) and [this Word file](../assets/docs/2025-conference/darci-full-programme.docx).
 
 Abstracts and bios for the workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-pre-conference-workshops.pdf) and [this Word file](../assets/docs/2025-conference/darci-pre-conference-workshops.docx).
+
+<br>
+
+## Accessibility Information
+
+We aim to make the DARCI Conference as accessible as possible and we are working on adding accessibility features. In the meantime we can confirm the following:
+
+- All rooms used as part of the conference are wheelchair accessible.
+
+- All presenters have been asked to make sure that any crucial visual material in their presentations is described as part of their presentations. If they display something we have asked them to talk about it. 
+
+- In addition to this, we have asked all presenters to send slides in advance of the conference and to make sure all images have ALT text included. Those slides will be uploaded to our website in advance of the conference so they can be used with screen readers or magnified as needed. 
+
+- All presenters have been asked to caption any audio-visual material included in their presentations. 
+
+We will be updating this information on a weekly basis. We are currently working on confirming the way in which live captioning will be provided and looking into providing BSL interpreters. If you have any questions please contact enhancingad@gmail.com. 
 
 <br>
 
