@@ -57,6 +57,6 @@ image:
         {% endif %}
       {% endfor %}
     {% endif %}
-    <p>Our podcast can also be enjoyed via our playlist on our <a href="https://soundcloud.com/user-351945045">Soundcloud account</a>.</p>
+    <!-- <p>Our podcast can also be enjoyed via our playlist on our <a href="https://soundcloud.com/user-351945045">Soundcloud account</a>.</p>-->
   </div>
 </div>

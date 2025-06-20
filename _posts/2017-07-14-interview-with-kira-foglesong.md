@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Interview with Kira Foglesong
+description: "Read our pre-conference interview with Kira Foglesong."
 date:   2017-07-14
 image:  '/images/2017-07-14-interview-with-kira-foglesong.webp'
 image-alt: 'A photo of Kira and her colleagues.'

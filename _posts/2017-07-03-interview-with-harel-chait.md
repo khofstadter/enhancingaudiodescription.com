@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Interview with Harel Chait
+description: "Read our pre-conference interview with Harel Chait."
 date:   2017-07-03
 image:  '/images/2017-07-03-interview-with-harel-chait.webp'
 image-alt: 'A photo of Harel.'

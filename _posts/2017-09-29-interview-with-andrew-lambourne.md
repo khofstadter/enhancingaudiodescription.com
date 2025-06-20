@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Interview with Andrew Lambourne
+description: "Read our pre-conference interview with Andrew Lambourne."
 date:   2017-09-29
 image:  '/images/2017-09-29-interview-with-andrew-lambourne.webp'
 image-alt: 'A photo of Andrew.'

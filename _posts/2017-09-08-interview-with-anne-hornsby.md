@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Interview with Anne Hornsby
+description: "Read our pre-conference interview with Anna Hornsby."
 date:   2017-09-08
 image:  '/images/2017-09-08-interview-with-anne-hornsby.webp'
 image-alt: 'A photo of Anne.'

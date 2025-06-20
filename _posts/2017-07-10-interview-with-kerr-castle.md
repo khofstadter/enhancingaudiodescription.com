@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Interview with Kerr Castle
+description: "Read our pre-conference interview with Kerr Castle."
 date:   2017-07-10
 image:  '/images/2017-07-10-interview-with-kerr-castle.webp'
 image-alt: 'A photo of Kerr.'

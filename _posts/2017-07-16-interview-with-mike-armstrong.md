@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Interview with Mike Armstrong
+description: "Read our pre-conference interview with Mike Armstrong."
 date:   2017-07-16
 image:  '/images/2017-07-16-interview-with-mike-armstrong.webp'
 image-alt: 'A photo of Mike.'

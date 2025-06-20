@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Interview with Alex Drioli
+description: "Read our pre-conference interview with Alex Drioli."
 date:   2017-07-17
 image:  '/images/2017-07-17-interview-with-axel-drioli.webp'
 image-alt: 'A photo of Olga.'

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Interview with Emily Giles
+description: "Read our pre-conference interview with Emily Giles."
 date:   2017-08-24
 image:  '/images/2017-08-24-interview-with-emily-giles.webp'
 image-alt: 'A photo of Emily.'
