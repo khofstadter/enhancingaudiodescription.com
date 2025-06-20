@@ -19,7 +19,7 @@ image:
 <div class="container">
   <h2>Selected Videos</h2>
   <h3>Aspectum</h3>
-  <p>Documentary filmmakers James Edward Kilpatrick and Jack Morris collaborated with our EAD team to create an accessible version of Aspectum, a documentary exploring Charles Bonnet Syndrome. You can now watch the full film.In this interview, filmmakers James Edward Kilpatrick and Jack Morris, share their experiences of working with the EAD team to make their film 'Aspectum' accessible for visually impaired audiences, while also sharing their perspectives on accessibility and hopes for the future.</p>
+  <p>Documentary filmmakers James Edward Kilpatrick and Jack Morris collaborated with our EAD team to create an accessible version of Aspectum, a documentary exploring Charles Bonnet Syndrome. You can now watch the full film.In this interview, filmmakers James Edward Kilpatrick and Jack Morris, share their experiences of working with the EAD team to make their film 'Aspectum' accessible for visually impaired audiences, while also sharing their perspectives on accessibility and hopes for the future. Please note that this documentary includes mention of topics that some people might find sensitive, these are surrounding specific aspects of sight loss including the mention of accidents and medical conditions. The soundtrack is best experienced over headphones!</p>
     <article class="post">
     <div class="post__content">
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/1094359094?h=f2e111cb32" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
