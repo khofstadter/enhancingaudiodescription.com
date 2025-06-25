@@ -128,7 +128,7 @@ We will be updating this information on a weekly basis. We are currently looking
 
 ~~**Submission of revised abstracts (if required)**: 2nd May 2025 9am (UK time)~~   
 
-**Early Bird Registration closes**: 30th June 2025 5pm UK time
+**Early Bird registration closes**: 30th June 2025 5pm UK time
 
 <!-- **Final submission deadline**: 11th July 2025 5pm UK time. -->
 
