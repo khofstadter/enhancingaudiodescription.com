@@ -101,7 +101,7 @@ Abstracts and bios for the workshops can be found in [this PDF file](../assets/d
 
 ## Accessibility and Inclusion Information
 
-We are working on making the conference conference as accessible and inclusive and as possible. In the meantime we can confirm the following:
+We are working on making the conference as accessible and inclusive and as possible. In the meantime we can confirm the following:
 
 - All rooms used as part of the conference are wheelchair accessible.
 
