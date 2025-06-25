@@ -18,7 +18,7 @@ grid: true
 - [Performance by Amble Skuse](#performance-by-amble-skuse)
   - [Frequencies of Being: Sounding the Unspoken](#frequencies-of-being-sounding-the-unspoken)
 - [Programme](#programme)
-- [Accessibility Information](#accessibility-information)
+- [Accessibility and Inclusion Information](#accessibility-and-inclusion-information)
 - [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Conference Roles](#conference-roles)
@@ -99,9 +99,9 @@ Abstracts and bios for the workshops can be found in [this PDF file](../assets/d
 
 <br>
 
-## Accessibility Information
+## Accessibility and Inclusion Information
 
-We aim to make the DARCI Conference as accessible as possible and we are working on adding accessibility features. In the meantime we can confirm the following:
+We aim to make the DARCI Conference as accessible and inclusive as possible and we are working on adding as many features as possible. In the meantime we can confirm the following:
 
 - All rooms used as part of the conference are wheelchair accessible.
 
@@ -111,7 +111,11 @@ We aim to make the DARCI Conference as accessible as possible and we are working
 
 - All presenters have been asked to caption any audio-visual material included in their presentations. 
 
-We will be updating this information on a weekly basis. We are currently working on confirming the way in which live captioning will be provided and looking into providing BSL interpreters. If you have any questions please contact enhancingad@gmail.com. 
+- Live captioning will be provided over Zoom in the rooms and over the webinars.
+
+- A prayer room will be available in the Rob Cooke Hub, two minutes away from the main building. 
+
+We will be updating this information on a weekly basis. We are currently looking into providing BSL interpreters. If you have any questions please contact enhancingad@gmail.com. 
 
 <br>
 
@@ -128,7 +132,9 @@ We will be updating this information on a weekly basis. We are currently working
 
 <!-- **Final submission deadline**: 11th July 2025 5pm UK time. -->
 
-**All registrations close**: 8th August 2025 5pm UK time
+**Speaker registrations closes**: 8th August 2025 5pm UK time
+
+**All registrations closes**: 27th August 2025 5pm UK time
 
 <br>
 
