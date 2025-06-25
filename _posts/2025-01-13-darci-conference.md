@@ -113,7 +113,7 @@ We are working on making the conference conference as accessible and inclusive a
 
 - Live captioning will be provided over Zoom in the rooms and over the webinars.
 
-- A prayer room will be available in the Rob Cooke Hub, two minutes away from the main building. 
+- Male and female prayer rooms will be available in the Rob Cooke Hub, three minutes away from the main building. 
 
 We will be updating this information on a weekly basis. We are currently looking into providing BSL interpreters. If you have any questions please contact enhancingad@gmail.com. 
 
