@@ -101,21 +101,21 @@ Abstracts and bios for the workshops can be found in [this PDF file](../assets/d
 
 ## Accessibility and Inclusion Information
 
-We are working on making the conference as accessible and inclusive and as possible. In the meantime we can confirm the following:
+We are working on making the conference as accessible and inclusive and as possible, and we will continue to update this information. In the meantime we can confirm the following:
 
 - All rooms used as part of the conference are wheelchair accessible.
 
 - All presenters have been asked to make sure that any crucial visual material in their presentations is described as part of their presentations. If they display something we have asked them to talk about it. 
 
-- In addition to this, we have asked all presenters to send slides in advance of the conference and to make sure all images have ALT text included. Those slides will be uploaded to our website in advance of the conference so they can be used with screen readers or magnified as needed. 
+- In addition to this, we have asked all presenters to send slides in advance of the conference and to make sure all images have ALT text included. Those slides will be uploaded to our website in advance of the conference so they can be used with screen readers or magnified as needed.
 
 - All presenters have been asked to caption any audio-visual material included in their presentations. 
 
-- Live captioning will be provided via Zoom in the rooms and over webinars.
+- Live captioning will be provided both for in person and online attendees by using the Zoom captioning system.
 
-- Male and female prayer rooms will be available in the Rob Cooke Hub, three minutes away from the main building. 
+- Male and female Prayer rooms will be available in the Rob Cooke Hub, a short walking distance from the main conference building<!-- and it is wheelchair accessible-->. 
 
-We will be updating this information on a weekly basis. We are currently looking into providing BSL interpreters. If you have any questions please contact enhancingad@gmail.com. 
+We will be updating this information on a weekly basis. We are currently looking into providing BSL interpreters and hearing loops. If you have any questions please contact enhancingad@gmail.com. 
 
 <br>
 
