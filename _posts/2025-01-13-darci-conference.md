@@ -111,7 +111,7 @@ We are working on making the conference as accessible and inclusive and as possi
 
 - All presenters have been asked to caption any audio-visual material included in their presentations. 
 
-- Live captioning will be provided over Zoom in the rooms and over the webinars.
+- Live captioning will be provided via Zoom in the rooms and over webinars.
 
 - Male and female prayer rooms will be available in the Rob Cooke Hub, three minutes away from the main building. 
 
