@@ -8,7 +8,7 @@ image-alt: 'Event logo.'
 tags:   [internship, hiring]
 ---  
 
-## Internship 3
+## Internship
 We are seeking an intern to investigate specific case studies of pre-existing sound design strategies utilised in audio games, headphone theatre productions, radio plays and podcasts, as well as other creative experiences. Specifically your work will involve:
 
 - selection of a number of case studies, which should include work from artists and creatives from different ethnicities.
