@@ -20,5 +20,6 @@ Closing Date : **17th July**
 
 <br><br>
 
-Photo by <a href="https://unsplash.com/@mattykwong1?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Matthew Kwong</a> on <a href="https://unsplash.com/photos/person-using-macbook-pro-turned-on-qJgW5ewKCO8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
+Photo by <a href="https://unsplash.com/@jhjowen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">James Owen</a> on <a href="https://unsplash.com/photos/man-sitting-in-front-of-computer-MuIvHRJbjA8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 
