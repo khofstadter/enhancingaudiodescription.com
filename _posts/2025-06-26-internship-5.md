@@ -18,7 +18,7 @@ Please see full details of this internship on our [Handshake Page](https://york.
 
 Applications close at **23:55 on 9 July**. 
 
-Virtual interviews are expected to take place **on 17 July**
+Virtual interviews are expected to take place **on 17 July**.
 
 ## Link
 
