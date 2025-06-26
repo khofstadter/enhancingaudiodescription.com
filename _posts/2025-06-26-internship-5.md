@@ -16,7 +16,9 @@ Open to all University of York students.
 
 Please see full details of this internship on our [Handshake Page](https://york.joinhandshake.co.uk/jobs/186998/share_preview).
 
-Closing Date : **23:55 on 9 July**
+Applications close at **23:55 on 9 July**. 
+
+Virtual interviews are expected to take place **on 17 July**
 
 ## Link
 
