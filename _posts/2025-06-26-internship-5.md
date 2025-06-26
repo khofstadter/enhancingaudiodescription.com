@@ -4,7 +4,7 @@ title:  Internship
 description: We're excited to offer an internship opportunity titled 'Post-Production Sound Intern', with Nina Hartstone, an Academy Award-winning sound supervisor. 
 date:   2025-06-25
 image:  '/images/2025-06-26-internship-5.webp'
-image-alt: 'Computer screen with video editing software.'
+image-alt: 'Computer screen with sound editing software and speakers on the side.'
 tags:   [internship, hiring]
 ---  
 
@@ -20,6 +20,6 @@ Closing Date : **17th July**
 
 <br><br>
 
-Photo by <a href="https://unsplash.com/@jhjowen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">James Owen</a> on <a href="https://unsplash.com/photos/man-sitting-in-front-of-computer-MuIvHRJbjA8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@jhjowen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">James Owen</a> on <a href="https://unsplash.com/photos/man-sitting-in-front-of-computer-MuIvHRJbjA8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
       
 
