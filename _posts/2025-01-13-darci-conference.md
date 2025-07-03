@@ -151,7 +151,7 @@ Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ti
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">Standard Early Bird (before 1st July 2025)</span></p>
+<p><span style="font-weight: 400;">Standard Early Bird</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">&pound;170</span></p>
@@ -159,7 +159,7 @@ Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ti
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">Standard (after 1st July 2025)</span></p>
+<p><span style="font-weight: 400;">Standard</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">&pound;200</span></p>
@@ -175,7 +175,7 @@ Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ti
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">*Concessionary (after 1st July 2025)</span></p>
+<p><span style="font-weight: 400;">*Concessionary</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">&pound;100</span></p>
@@ -188,7 +188,7 @@ Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ti
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">Standard Early Bird (before 1st July 2025)</span></p>
+<p><span style="font-weight: 400;">Standard Early Bird</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">&pound;120</span></p>
@@ -196,7 +196,7 @@ Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ti
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">Standard (after 1st July 2025)</span></p>
+<p><span style="font-weight: 400;">Standard</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">&pound;150</span></p>
@@ -204,7 +204,7 @@ Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ti
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">*Concessionary Early Bird (before 1st July 2025)</span></p>
+<p><span style="font-weight: 400;">*Concessionary Early Bird</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">&pound;60</span></p>
@@ -212,7 +212,7 @@ Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ti
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">*Concessionary (after 1st July 2025)</span></p>
+<p><span style="font-weight: 400;">*Concessionary</span></p>
 </td>
 <td>
 <p><span style="font-weight: 400;">&pound;75</span></p>
