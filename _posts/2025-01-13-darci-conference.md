@@ -24,6 +24,10 @@ grid: true
 - [Conference Roles](#conference-roles)
   - [Conference Committee](#conference-committee)
   - [Reviewing Committee](#reviewing-committee)
+- [Transport Information](#transport-information)
+  - [Maps](#maps)
+  - [Parking](#parking)
+  - [Buses](#buses)
 - [Contact](#contact)
 - [Links](#links)
 
@@ -142,6 +146,7 @@ We will be updating this information on a weekly basis. We are currently looking
 
 Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ticketsolve.com/ticketbooth/shows/873670660).
 
+
 <table>
 <tbody>
 <tr>
@@ -252,6 +257,26 @@ Pre-conference workshops on Wednesday 10th September will cost £30 each and wil
 - [Kulnaree Sueroj](darci-06)
 - [Monika Zabrocka](monika-zabrocka-research)
 - Xizi (Sylvia) Zeng
+
+<br>
+
+## Transport Information
+
+### Maps
+
+- [Our building on Google Maps - School of Arts and Creative Technologies](https://www.google.co.uk/maps/place/School+of+Arts+and+Creative+Technologies/@53.9473342,-1.0304933,18.25z/data=!3m1!5s0x48792fd5aeb4e02f:0x38043b4b44bf05fc!4m6!3m5!1s0x48792f895fd162bf:0x5ef239c1b9ebc71d!8m2!3d53.946916!4d-1.0318834!16s%2Fg%2F11ssz5vphf?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D).
+
+<!--I think we will need a section of the conference site that clearly indicates the venue, maybe with a Google Maps direct link and also gives information on how to get to the building in terms of possible means of transport. At the minute there's no information and I have already received a couple of queries.-->
+
+- The university's [Interactive Campus Map](https://www.york.ac.uk/map/#locid260). 
+
+### Parking
+
+The car parks available on campus include Field Lane Car Park. If this is full, then Kimberlow Lane Car Park is just down the road. If you need an accessible parking space, there are spaces available closer to our building. A full list can be found through [this link](https://www.york.ac.uk/about/transport-maps-parking/accessible-travel/).
+
+### Buses
+
+More information on bus routes to the university can be found [here](https://www.york.ac.uk/about/transport-maps-parking/bus-rail-taxi/). 
 
 <br>
 
