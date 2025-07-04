@@ -55,6 +55,19 @@ image:
   </div>
 </div>
 
+## Audiolab Associates
+<div class="container">
+  <div class="row animate">
+    {% if site.posts.size > 0 %}
+      {% for post in site.posts reversed %}
+        {% if post.tags contains "audiolab-team"%}
+        {% include article-no-date.html %}
+         {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
 ## Interns
 <div class="container">
   <div class="row animate">
