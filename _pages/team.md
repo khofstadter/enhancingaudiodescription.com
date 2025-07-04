@@ -55,7 +55,7 @@ image:
   </div>
 </div>
 
-## Audiolab Associates
+## AudioLab Associates
 <div class="container">
   <div class="row animate">
     {% if site.posts.size > 0 %}
