@@ -24,6 +24,8 @@ tags:   [team, audiolab-team]
           <br><br>Before joining the University of York, Mario worked as Chief Engineer at two professional studios in Mexico, contributing to one Latin Grammy-nominated project and productions streamed almost two billion times. He has also taught university-level courses in recording and mixing. His current research explores the perceptual limits of reverberation and digital emulations in audio processing.
           <br><br>
           <a href = "mailto: mario.vallejo@york.ac.uk">mario.vallejo@york.ac.uk</a>
+          <br>
+          <a href="https://mariovallejoacademic.com">mariovallejoacademic.com</a>
           </p>
            </div>
           <div class="hero2__right">

@@ -26,7 +26,7 @@ tags:   [team, research team]
           <br><br>
           <a href = "mailto: krisztian.hofstadter@york.ac.uk">krisztian.hofstadter@york.ac.uk</a>
           <br>
-          <a href="https://krishofstadter.com/">https://krishofstadter.com</a>
+          <a href="https://krishofstadter.com/">krishofstadter.com</a>
           </p>
            </div>
           <div class="hero2__right">
