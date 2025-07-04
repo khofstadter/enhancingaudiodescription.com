@@ -1,7 +1,7 @@
 ---
 layout: post-team
 title: Mario Alberto Vallejo Reyes
-description: Technical Specialist
+description: Research Trainee
 date:   2014-12-03
 image:  '/images/team-mario-feature.webp'
 image-header: '/images/team-mario.webp'
