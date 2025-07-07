@@ -276,7 +276,7 @@ The car parks available on campus include Field Lane Car Park. If this is full, 
 
 ### Buses
 
-More information on bus routes to the university can be found [here](https://www.york.ac.uk/about/transport-maps-parking/bus-rail-taxi/). 
+More information on bus routes to the university can be found [here](https://www.york.ac.uk/about/transport-maps-parking/bus-rail-taxi/). The bus that comes to our campus is number 6. From the bus station, it takes around five minutes to walk to our building once you arrive on campus. If you arrive in York by train, get on the number 6 bus at the bus station located in front of the train station. Taxis are also available at the train station as an alternative to the bus.
 
 <br>
 
