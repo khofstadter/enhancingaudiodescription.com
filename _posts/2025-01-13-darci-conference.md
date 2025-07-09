@@ -237,7 +237,7 @@ Pre-conference workshops on Wednesday 10th September will cost £30 each and wil
 - Conference Chairs: [Mariana López](team-mariana-lopez) and [Gavin Kearney](team-gavin-kearney)
 - Conference Manager: [Chaimae Alouan](team-chaimae-alouan)
 - Pre-conference workshops chairs: [Krisztián Hofstädter](team-krisztian-hofstadter) and [Monika Zabrocka](monika-zabrocka-research)
-- Sponsorship Manager: [Michael McLoughlin](team-michael-mcloughlin)
+- Sponsorship Manager: [Krisztián Hofstädter](team-krisztian-hofstadter) and [Michael McLoughlin](team-michael-mcloughlin)
 
 ### Reviewing Committee
 - [Chaimae Alouan](team-chaimae-alouan)
