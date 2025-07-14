@@ -99,7 +99,9 @@ The concert offers an opportunity to connect with fellow delegates ahead of the 
 ## Programme
 The full 3-day programme, including the pre-conference day with workshops, can be found in [this PDF file](../assets/docs/2025-conference/darci-full-programme.pdf) and [this Word file](../assets/docs/2025-conference/darci-full-programme.docx).
 
-Abstracts and bios for the workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-pre-conference-workshops.pdf) and [this Word file](../assets/docs/2025-conference/darci-pre-conference-workshops.docx).
+Abstracts and bios for the Wednesday workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-pre-conference-workshops.pdf) and [this Word file](../assets/docs/2025-conference/darci-pre-conference-workshops.docx).
+
+Abstracts and bios for the conference (Thursday and Friday) can be found in [this PDF file](../assets/docs/2025-conference/darci-abstract-booklet.pdf) and [this Word file](../assets/docs/2025-conference/darci-abstract-booklet.docx).
 
 <br>
 
