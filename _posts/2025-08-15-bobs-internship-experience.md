@@ -5,8 +5,8 @@ description: 'We are excited to have had Bob doing an internship with us. In thi
 image: '/images/team-bob.webp'
 image-alt: 'Headshot phot of Bob with dark background.'
 tags: [internship]
-date: 2025-06-15
-grid: false
+date: 2025-08-15
+grid: true
 ---
 
 <center><img src="/images/team-bob.webp" alt="Headshot of Bob."  width="700"></center><br><br>

@@ -6,7 +6,7 @@ image: '/images/2024-11-28-monika-zabrocka-research-part-2.1-thumb.webp'
 image-alt: 'A child in front of a computer with headphones.'
 tags: [people]
 date: 2025-07-18
-grid: false
+grid: true
 ---
 
 **Can Audio Description (AD) do more than simply describe the visual elements? The growing appreciation for creative AD formats suggests that they might replace the filmic images with truly impactful auditory content for visually impaired audiences. Crucially, these formats can be equally, if not more, informative than standard AD.**
