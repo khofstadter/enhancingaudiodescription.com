@@ -34,4 +34,4 @@ Monika Zabrocka
 - E-mail: <a href="mailto:monika.zabrocka@york.ac.uk">monika.zabrocka@york.ac.uk</a> or <a href="mailto:monika.zabrocka@uj.edu.pl">monika.zabrocka@uj.edu.pl</a>
 - [LinkedIn](https://www.linkedin.com/in/monika-zabrocka-348752b3/)
 - [ORCID](https://orcid.org/my-orcid)
-- [Jagiellonian University](https://przeklad.filg.uj.edu.pl/en_GB/monika-zabrocka-sliwka) 
+- [Jagiellonian University](https://przeklad.filg.uj.edu.pl/en_GB/monika-zabrocka-sliwka)
