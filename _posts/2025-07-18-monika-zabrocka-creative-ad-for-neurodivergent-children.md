@@ -1,6 +1,6 @@
 ---
 layout: post-no-img-head
-title: Research by Monika Zabrocka (Part 2)
+title: "Continuing the Work: Creative AD for Neurodivergent Children"
 description: Dr. Monika Zabrocka continues outlining her research with Mariana at our university's School of Arts and Creative Technologies.
 image: '/images/2024-11-28-monika-zabrocka-research-part-2.1-thumb.webp'
 image-alt: 'A child in front of a computer with headphones.'
