@@ -119,7 +119,9 @@ We are working on making the conference as accessible and inclusive as possible,
 
 - Live captioning will be provided both for in person and online attendees by using the Zoom captioning system.
 
-- Prayer rooms will be available in the Rob Cooke Hub, a short walking distance from the main conference building<!-- and it is wheelchair accessible-->. 
+- Prayer rooms will be available in the Rob Cooke Hub, a short walking distance from the main conference building<!-- and it is wheelchair accessible-->.
+
+- A quiet room and a sensory room will be available to allow for guests to self-regulate if needed. The quiet room will be a calm and silent space for guests. The sensory room will be a space with creative and non-creative sensory options, such as headphone stations and drawing tables.
 
 We will be updating this information on a weekly basis. We are currently looking into providing BSL interpreters and hearing loops. If you have any questions please contact enhancingad@gmail.com. 
 
