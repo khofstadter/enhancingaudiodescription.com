@@ -3,7 +3,7 @@ layout: post-team
 title:  Case Howard
 description: Student Intern (Summer 2025)
 date:   2015-01-09
-image:  '/images/team-intern-case-feature.webp'
+image:  '/images/team-intern-case.webp'
 image-alt: 'Photo of a Case.'
 image-header: '/images/team-intern-case.webp'
 tags:   [team, intern]
