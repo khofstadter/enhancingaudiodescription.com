@@ -7,7 +7,6 @@ image: '/images/2023-06-16-york-studio-rq1-study.webp'
 image-alt:  'In a dim sound studio, we look at sound studio mixing desk and a screen with a black and white film clip.'
 tags: research
 grid: true
-canonical_url: 'https://krishofstadter.com/conveying-cinematography-through-sound'
 ---
 
 ![In a dim sound studio, we look at sound studio mixing desk and a screen with a black and white film clip.](/images/2023-06-16-york-studio-rq1-study.webp)
