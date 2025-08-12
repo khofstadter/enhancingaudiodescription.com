@@ -67,7 +67,8 @@ Raymond Antrobus is the author of three poetry titles: The Perseverance (Penned 
 
 <br>
 
-### Prof. Hannah Thompson 
+### Prof. Hannah Thompson
+
 Title: The Sensational Museum: Disability Gain and the Journey from Access to Inclusion
 
 [The Sensational Museum](https://sensationalmuseum.org/) is a 27-month AHRC-funded research project which runs between April 2023 and July 2025. Underpinned by specialisms in design, digital heritage, disability studies, psychology, public history, and professional experience in the heritage sector, TSM rejects the ‘look and learn’ approach that has influenced both how museums construct and store collections information and how this information is communicated to audiences. 
@@ -85,7 +86,9 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 <br>
 
 ## Performance by Amble Skuse
+
 ### Frequencies of Being: Sounding the Unspoken
+
 (90-minute session followed by Networking/Drinks event)
 
 Delve into an evening of musical discovery as we present a curated programme of works by composers Amble Skuse, Sonia Allori, Ailís Ní Ríain, and Walter Kadiki. These pioneering artists challenge conventional boundaries, employing spoken word, instrumental composition, improvisation, and electronics to articulate the rich tapestry of human experience.
@@ -128,6 +131,7 @@ We will be updating this information on a weekly basis. We are currently looking
 <br>
 
 ## Deadlines
+
 ~~**Abstract submission deadline**: 4th November 2024 5pm UK time~~.
 
 ~~**Notification of outcome**: By end of February.~~
@@ -140,16 +144,15 @@ We will be updating this information on a weekly basis. We are currently looking
 
 <!-- **Final submission deadline**: 11th July 2025 5pm UK time. -->
 
-**Speaker registrations closes**: 8th August 2025 5pm UK time
+**Speaker registrations closes**: ~~8th August 2025 5pm UK time~~
 
-**All registrations closes**: 27th August 2025 5pm UK time
+**All registrations closes**: ~~27th August~~ 3rd September 2025 5pm UK time
 
 <br>
 
-##  Types of Registration and Fees
+## Types of Registration and Fees
 
 Registration is now open. Tickets can be booked on [Ticketsolve](https://tftv.ticketsolve.com/ticketbooth/shows/873670660).
-
 
 <table>
 <tbody>
@@ -237,13 +240,16 @@ Pre-conference workshops on Wednesday 10th September will cost £30 each and wil
 <br>
 
 ## Conference Roles
+
 ### Conference Committee
+
 - Conference Chairs: [Mariana López](team-mariana-lopez) and [Gavin Kearney](team-gavin-kearney)
 - Conference Manager: [Chaimae Alouan](team-chaimae-alouan)
 - Pre-conference workshops chairs: [Krisztián Hofstädter](team-krisztian-hofstadter) and [Monika Zabrocka](monika-zabrocka-research)
 - Sponsorship Manager: [Krisztián Hofstädter](team-krisztian-hofstadter) and [Michael McLoughlin](team-michael-mcloughlin)
 
 ### Reviewing Committee
+
 - [Chaimae Alouan](team-chaimae-alouan)
 - Lacey Allen
 - Alice Bennett 
@@ -285,7 +291,8 @@ More information on bus routes to the university can be found [here](https://www
 <br>
 
 ## Contact
-If you have any questions please email enhancingad@gmail.com
+
+If you have any questions please email enhancingad@gmail.com.
 
 <br>
 
