@@ -114,11 +114,11 @@ We are working on making the conference as accessible and inclusive as possible,
 
 - All rooms used as part of the conference are wheelchair accessible.
 
-- All presenters have been asked to make sure that any crucial visual material in their presentations is described as part of their presentations. If they display something we have asked them to talk about it. 
+- All presenters have been asked to make sure that any crucial visual material in their presentations is described as part of their presentations. If they display something we have asked them to talk about it.
 
 - We have asked all presenters to send slides in advance of the conference and to make sure all images have ALT text included. Those slides will be uploaded to our website in advance of the conference so they can be used with screen readers or magnified as needed.
 
-- All presenters have been asked to caption any audio-visual material included in their presentations. 
+- All presenters have been asked to caption any audio-visual material included in their presentations.
 
 - Live captioning will be provided both for in person and online attendees by using the Zoom captioning system.
 
@@ -126,7 +126,9 @@ We are working on making the conference as accessible and inclusive as possible,
 
 - A quiet room and a sensory room will be available to allow for guests to self-regulate if needed. The quiet room will be a calm and silent space for guests. The sensory room will be a space with creative and non-creative sensory options, such as headphone stations and drawing tables.
 
-We will be updating this information on a weekly basis. We are currently looking into providing BSL interpreters and hearing loops. If you have any questions please contact enhancingad@gmail.com. 
+- We will have BSL interpreters for as many sessions as possible throughout the event, please check the programme for an indication of the sessions which have BSL interpreters confirmed.
+
+We will be updating this information on a weekly basis. We are currently looking into hearing loops provision. If you have any questions please contact enhancingad@gmail.com.
 
 <br>
 
