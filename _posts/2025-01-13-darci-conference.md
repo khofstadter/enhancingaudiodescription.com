@@ -101,6 +101,7 @@ Experience these intricate sound worlds and engage with ideas that resonate beyo
 The concert offers an opportunity to connect with fellow delegates ahead of the conference, and to frame discussions around different approaches to sound and production.
 
 ## Programme
+
 The full 3-day programme, including the pre-conference day with workshops, can be found in [this PDF file](../assets/docs/2025-conference/darci-full-programme.pdf) and [this Word file](../assets/docs/2025-conference/darci-full-programme.docx).
 
 Abstracts and bios for the Wednesday workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-pre-conference-workshops.pdf) and [this Word file](../assets/docs/2025-conference/darci-pre-conference-workshops.docx).
@@ -140,7 +141,7 @@ The DARCI Conference, as well as the Enhancing Audio Description project the con
 - All catering at the conference will be vegetarian/vegan.
 - No disposable plates or cups will be used, everything will be reusable. There will be no coffee cups that you can take to places but if you'd prefer to pour the coffee we provide into a travel mug you are welcome to do so. Do note though that most of our conference spaces don't allow any food and drink other than water. For water we will have glasses available, but there is also a water fountain you can use to refill your reusable water bottle.  
 - We will provide you with a specially designed lanyard with a name badge. No plastic holders, just a card that can be recycled.
-- We won't be providing you with freebies, totes or anything of the sort. Most conference attendees might attend one or two conferences a year, if we all hand out totes, we end up with too many of them, do they then end in landfill... probably. Let's avoid that.
+- We won't be providing you with freebies, totes or anything of the sort. Most conference attendees might attend one or two conferences a year, if we all hand out totes, we end up with too many of them, do they then end in landfill... ? Probably. Let's avoid that.
 - The programme won't be printed but it's available in an accessible format online. If you need to access a hard copy please visit our registration desk and we can lend you one. We encourage you as much as possible to use your mobile devices to access the programme.
 - Are you travelling to the conference using more environmentally friendly forms of transport? Maybe an electric car? Or maybe you travelled from another country by train to avoid flying? Do let us know, we'd love to be able to celebrate your decision to support the environment.
 
