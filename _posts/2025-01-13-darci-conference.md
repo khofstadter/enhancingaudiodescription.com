@@ -19,6 +19,7 @@ grid: true
   - [Frequencies of Being: Sounding the Unspoken](#frequencies-of-being-sounding-the-unspoken)
 - [Programme](#programme)
 - [Accessibility and Inclusion Information](#accessibility-and-inclusion-information)
+- [Environmental Sustainability Statement](#environmental-sustainability-statement)
 - [Deadlines](#deadlines)
 - [Types of Registration and Fees](#types-of-registration-and-fees)
 - [Conference Roles](#conference-roles)
@@ -129,6 +130,19 @@ We are working on making the conference as accessible and inclusive as possible,
 - We will have BSL interpreters for as many sessions as possible throughout the event, please check the programme for an indication of the sessions which have BSL interpreters confirmed.
 
 We will be updating this information on a weekly basis. We are currently looking into hearing loops provision. If you have any questions please contact enhancingad@gmail.com.
+
+<br>
+
+## Environmental Sustainability Statement
+
+The DARCI Conference, as well as the Enhancing Audio Description project the conference is part of, have environmental sustainability at their centre. As a result, DARCI might not be your 'typical' conference as we are trying to set an example of what a sustainable event should be like. Here is a list of some of the things to expect:
+
+- All catering at the conference will be vegetarian/vegan.
+- No disposable plates or cups will be used, everything will be reusable. There will be no coffee cups that you can take to places but if you'd prefer to pour the coffee we provide into a travel mug you are welcome to do so. Do note though that most of our conference spaces don't allow any food and drink other than water. For water we will have glasses available, but there is also a water fountain you can use to refill your reusable water bottle.  
+- We will provide you with a specially designed lanyard with a name badge. No plastic holders, just a card that can be recycled.
+- We won't be providing you with freebies, totes or anything of the sort. Most conference attendees might attend one or two conferences a year, if we all hand out totes, we end up with too many of them, do they then end in landfill... probably. Let's avoid that.
+- The programme won't be printed but it's available in an accessible format online. If you need to access a hard copy please visit our registration desk and we can lend you one. We encourage you as much as possible to use your mobile devices to access the programme.
+- Are you travelling to the conference using more environmentally friendly forms of transport? Maybe an electric car? Or maybe you travelled from another country by train to avoid flying? Do let us know, we'd love to be able to celebrate your decision to support the environment.
 
 <br>
 
