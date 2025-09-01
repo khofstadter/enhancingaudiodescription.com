@@ -1,6 +1,6 @@
 ---
 layout: post-team
-title:  Martha Stephenson
+title:  Martha Steventon
 description: Student Intern (Summer 2025)
 date:   2015-01-10
 image:  '/images/team-intern-martha.webp'
