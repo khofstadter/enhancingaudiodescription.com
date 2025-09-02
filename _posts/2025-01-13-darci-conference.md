@@ -15,7 +15,7 @@ grid: true
 - [Keynote Speakers](#keynote-speakers)
   - [Raymond Antrobus](#raymond-antrobus)
   - [Prof. Hannah Thompson](#prof-hannah-thompson)
-- [Performance by Amble Skuse](#performance-by-amble-skuse)
+- [Guided Screening by Amble Skuse](#guided-screening-by-amble-skuse)
   - [Frequencies of Being: Sounding the Unspoken](#frequencies-of-being-sounding-the-unspoken)
 - [Programme](#programme)
 - [Accessibility and Inclusion Information](#accessibility-and-inclusion-information)
@@ -86,19 +86,19 @@ Professor Hannah Thompson (Royal Holloway, University of London) is a partially 
 
 <br>
 
-## Performance by Amble Skuse
+## Guided Screening by Amble Skuse
 
 ### Frequencies of Being: Sounding the Unspoken
 
-(90-minute session followed by Networking/Drinks event)
+(Guided Screening followed by Networking/Drinks)
 
 Delve into an evening of musical discovery as we present a curated programme of works by composers Amble Skuse, Sonia Allori, Ailís Ní Ríain, and Walter Kadiki. These pioneering artists challenge conventional boundaries, employing spoken word, instrumental composition, improvisation, and electronics to articulate the rich tapestry of human experience.
 
-This concert offers multifaceted perspectives on existence, artistic creation, and the very nature of sound. Drawing inspiration from disability philosophy, the works presented illuminate universal truths about embodiment and perception—inviting us to reconsider what it means to be human in a complex world.
+This guided screening offers multifaceted perspectives on existence, artistic creation, and the very nature of sound. Drawing inspiration from disability philosophy, the works presented illuminate universal truths about embodiment and perception—inviting us to reconsider what it means to be human in a complex world.
 
 Experience these intricate sound worlds and engage with ideas that resonate beyond the concert hall. These compositions invite you into a deeper understanding of how we inhabit our bodies, create meaning, and perceive the world through sound.
 
-The concert offers an opportunity to connect with fellow delegates ahead of the conference, and to frame discussions around different approaches to sound and production.
+The networking after the screening offers an opportunity to connect with fellow delegates ahead of the conference, and to frame discussions around different approaches to sound and production.
 
 ## Programme
 
