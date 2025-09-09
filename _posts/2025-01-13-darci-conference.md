@@ -17,6 +17,7 @@ grid: true
   - [Prof. Hannah Thompson](#prof-hannah-thompson)
 - [Guided Screening by Amble Skuse](#guided-screening-by-amble-skuse)
   - [Frequencies of Being: Sounding the Unspoken](#frequencies-of-being-sounding-the-unspoken)
+  - [Audio Introduction](#audio-introduction)
 - [Programme](#programme)
 - [Accessibility and Inclusion Information](#accessibility-and-inclusion-information)
 - [Environmental Sustainability Statement](#environmental-sustainability-statement)
@@ -100,6 +101,14 @@ Experience these intricate sound worlds and engage with ideas that resonate beyo
 
 The networking after the screening offers an opportunity to connect with fellow delegates ahead of the conference, and to frame discussions around different approaches to sound and production.
 
+### Audio Introduction
+
+With the audio player below, you can play the audio introduction to Amble's video, which we will screen on Wednesday evening at the conference.
+
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2167699437&color=%2360390d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-351945045" title="Enhancing Audio Description" target="_blank" style="color: #cccccc; text-decoration: none;">Enhancing Audio Description</a>.</div>
+
+<br>
+
 ## Programme
 
 The full 3-day programme, including the pre-conference day with workshops, can be found in [this PDF file](../assets/docs/2025-conference/darci-full-programme.pdf) and [this Word file](../assets/docs/2025-conference/darci-full-programme.docx).
@@ -130,7 +139,7 @@ We are working on making the conference as accessible and inclusive as possible,
 
 - We will have BSL interpreters for as many sessions as possible throughout the event, please check the programme for an indication of the sessions which have BSL interpreters confirmed.
 
-- All rooms are equipped with hearing loops. 
+- All rooms are equipped with hearing loops.
 
 We will be updating this information on a weekly basis. If you have any questions please contact enhancingad@gmail.com.
 
