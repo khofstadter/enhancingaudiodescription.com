@@ -130,7 +130,9 @@ We are working on making the conference as accessible and inclusive as possible,
 
 - We will have BSL interpreters for as many sessions as possible throughout the event, please check the programme for an indication of the sessions which have BSL interpreters confirmed.
 
-We will be updating this information on a weekly basis. We are currently looking into hearing loops provision. If you have any questions please contact enhancingad@gmail.com.
+- All rooms are equipped with hearing loops. 
+
+We will be updating this information on a weekly basis. If you have any questions please contact enhancingad@gmail.com.
 
 <br>
 
