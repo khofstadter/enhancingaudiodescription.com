@@ -105,7 +105,7 @@ The networking after the screening offers an opportunity to connect with fellow 
 
 With the audio player below, you can play the audio introduction to Amble's video, which we will screen on Wednesday evening at the conference.
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2168112774&color=%2360390d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-351945045" title="Enhancing Audio Description" target="_blank" style="color: #cccccc; text-decoration: none;">Enhancing Audio Description</a> · <a href="https://soundcloud.com/user-351945045/darci2025-amble-performance" title="darci2025-amble-performance-audio-intro" target="_blank" style="color: #cccccc; text-decoration: none;">darci2025-amble-performance-audio-intro</a></div>
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2168112774&color=%2360390d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-351945045" title="Enhancing Audio Description" target="_blank" style="color: #cccccc; text-decoration: none;">Enhancing Audio Description</a>· <a href="https://soundcloud.com/user-351945045/darci2025-amble-performance" title="darci2025-amble-performance-audio-intro" target="_blank" style="color: #cccccc; text-decoration: none;">darci2025-amble-performance-audio-intro</a></div>
 
 <br>
 
@@ -116,6 +116,8 @@ The full 3-day programme, including the pre-conference day with workshops, can b
 Abstracts and bios for the Wednesday workshops can be found in [this PDF file](../assets/docs/2025-conference/darci-pre-conference-workshops.pdf) and [this Word file](../assets/docs/2025-conference/darci-pre-conference-workshops.docx).
 
 Abstracts and bios for the conference (Thursday and Friday) can be found in [this PDF file](../assets/docs/2025-conference/darci-abstract-booklet.pdf) and [this Word file](../assets/docs/2025-conference/darci-abstract-booklet.docx).
+
+The full 3‑day programme, with links to most presentation slides, can be found in [this Word file](https://docs.google.com/document/d/1YHXBiDT8ek-vOeWk1b4HhXCvXNWs6gY6/edit?usp=drive_link&ouid=115311523561796113275&rtpof=true&sd=true). The URLs in this file lead to the PDF versions of the authors' presentations. If you have any issues reading these PDF files with your screen reader, please get in touch and we will try to help you ASAP.
 
 <br>
 
