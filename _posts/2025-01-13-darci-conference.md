@@ -105,7 +105,7 @@ The networking after the screening offers an opportunity to connect with fellow 
 
 With the audio player below, you can play the audio introduction to Amble's video, which we will screen on Wednesday evening at the conference.
 
-TBA soon.
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2168112774&color=%2360390d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-351945045" title="Enhancing Audio Description" target="_blank" style="color: #cccccc; text-decoration: none;">Enhancing Audio Description</a> · <a href="https://soundcloud.com/user-351945045/darci2025-amble-performance" title="darci2025-amble-performance-audio-intro" target="_blank" style="color: #cccccc; text-decoration: none;">darci2025-amble-performance-audio-intro</a></div>
 
 <br>
 
