@@ -117,7 +117,7 @@ Abstracts and bios for the Wednesday workshops can be found in [this PDF file](.
 
 Abstracts and bios for the conference (Thursday and Friday) can be found in [this PDF file](../assets/docs/2025-conference/darci-abstract-booklet.pdf) and [this Word file](../assets/docs/2025-conference/darci-abstract-booklet.docx).
 
-The full 3‑day programme, with links to most presentation slides, can be found in [this Word file](https://docs.google.com/document/d/1YHXBiDT8ek-vOeWk1b4HhXCvXNWs6gY6/edit?usp=drive_link&ouid=115311523561796113275&rtpof=true&sd=true). The URLs in this file lead to the PDF versions of the authors' presentations. If you have any issues reading these PDF files with your screen reader, please get in touch and we will try to help you ASAP.
+The full 3‑day programme, with links to most presentation slides, can be found in [this Word file](https://docs.google.com/document/d/1YHXBiDT8ek-vOeWk1b4HhXCvXNWs6gY6/edit?usp=drive_link&ouid=115311523561796113275&rtpof=true&sd=true). The URLs in this file open the PDF versions of the authors' presentations. If you have any issues reading these PDF files with your screen reader, please get in touch and we will try to help you ASAP.
 
 <br>
 
