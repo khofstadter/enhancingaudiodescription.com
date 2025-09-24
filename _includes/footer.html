@@ -7,9 +7,10 @@
 
         <div class="col col-5 col-d-12">
           <div class="footer__author">
-              <h2>Contact</h2><p class="footer__author-bio">
+            <h2>Contact</h2>
+            <p class="footer__author-bio">
               Any questions, please feel free to email us on enhancingad@gmail.com.
-              Social media updates are on Mariana's accounts, see icons with links embedded below. 
+              Social media updates are on Mariana's accounts, see icons with links embedded below.
               {% if site.data.settings.social %}
             <div class="social">
               <ul class="social__list list-reset">
@@ -23,6 +24,8 @@
             </div>
             {% endif %}
           </div><br>
+          <center><img class="lazy" data-src="/images/logo-ahrc.webp" alt="logo" width="300"></center>
+          <br>
           <center><img class="lazy" data-src="/images/team-panel-york.png" alt="logo"></center>
         </div>
 
@@ -33,7 +36,8 @@
             <h3 class="footer__gallery-title">{{ site.data.settings.gallery.gallery_title }}</h3>
             {% if site.data.settings.gallery %}
             <div class="gallery-footer">
-              <div class="gallery" style="grid-template-columns: repeat({{site.data.settings.gallery.gallery_columns}}, auto);">
+              <div class="gallery"
+                style="grid-template-columns: repeat({{site.data.settings.gallery.gallery_columns}}, auto);">
                 {% for image in site.data.settings.gallery.gallery_images %}
                 <div class="gallery__image">
                   <img src="{{site.baseurl}}{{image.url}}" alt="{{image.alt}}" loading="lazy">
@@ -56,7 +60,8 @@
       <div class="row">
         <div class="col col-12">
           <div class="footer__info-box">
-            <div class="copyright">{{site.time | date: '%Y'}} &copy; EAD. Web design by <a href="https://krishofstadter.com">krishofstadter</a> with Sheludko's Menca.</div>
+            <div class="copyright">{{site.time | date: '%Y'}} &copy; EAD. Web design by <a
+                href="https://krishofstadter.com">krishofstadter</a> with Sheludko's Menca.</div>
             <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
           </div>
         </div>
