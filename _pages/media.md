@@ -17,12 +17,12 @@ image:
 </head>
 
 <div class="container">
-  <h2>Selected Videos</h2>
-  <h3>Aspectum</h3>
-  <p>Documentary filmmakers James Edward Kilpatrick and Jack Morris collaborated with our EAD team to create an accessible version of Aspectum, a documentary exploring Charles Bonnet Syndrome. You can now watch the full film.In this interview, filmmakers James Edward Kilpatrick and Jack Morris, share their experiences of working with the EAD team to make their film 'Aspectum' accessible for visually impaired audiences, while also sharing their perspectives on accessibility and hopes for the future. Please note that this documentary includes mention of topics that some people might find sensitive, these are surrounding specific aspects of sight loss including the mention of accidents and medical conditions. The soundtrack is best experienced over headphones!</p>
+  <h2>Selected Video</h2>
+  <h3>EAD Promo</h3>
+  <p>A short video introducing the Enhanced Audio Description (EAD) methods, featuring Mariana López, Gavin Kearney, Warren Wilson and Samantha Moore. A short description for accessibility: Shots of Mariana López (Principal Investigator) are in a mixing studio, with a mixing desk, audio monitoring speakers on the wall, and software on screens. Sections with Gavin Kearney (Co-Investigator) are focused on a multi-speaker listening room showing a dense array of audio speakers and cables. Sometimes we also see Mariana testing some equipment, including headphones with antennae, and we see shots of Mariana and Gavin talking inside the listening room. Warren Wilson (Community Connection Coordinator) and Samantha Moore (Director of Visible Mending) are seen in two different spaces. Warren in a small room and Samantha in her studio, with some shots showing her as she works at her computer. We also see extracts from the film Visible Mending which is an animated documentary featuring knitted characters. Captions are available.</p>
     <article class="post">
     <div class="post__content">
-    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1094359094?h=f2e111cb32" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1122160731?fl=pl&fe=sh" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
     <br></div>
     </article>
   <!--<h3>Visible Mending</h3>
