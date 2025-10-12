@@ -6,12 +6,12 @@ date: 2025-10-10
 image: '/images/2025-10-10-darci-conference-reflection.webp'
 image-alt: 'TBC'
 tags: [conference, reflection]
-grid: false
+grid: true
 ---
 
 Back in April 2020, without any shortage of anxieties (for obvious reasons), I sat down and started writing the grant application for Enhancing Audio Description II in collaboration with Gavin. Somewhere within the 51-page document we wrote:
 
-> We also plan to organise a 2-day conference on accessibility in the cultural sector. Participants will be able to opt between a live or virtual experience, allowing for participation of those with mobility restrictions, increasing the impact of the event and reducing the carbon footprint. The PI and Co-I will chair an organising committee, and will open up opportunities to doctoral students.
+"We also plan to organise a 2-day conference on accessibility in the cultural sector. Participants will be able to opt between a live or virtual experience, allowing for participation of those with mobility restrictions, increasing the impact of the event and reducing the carbon footprint. The PI and Co-I will chair an organising committee, and will open up opportunities to doctoral students."
 
 This turned into the DARCI Conference on Disability, Accessibility and Representation in the Creative Industries, taking the same name as our podcast and as a module I helped design, and teach. As sound designers, we tend to be short on name ideas and ‘Mr Darcy’ is popular in the UK, so it seemed like a catchy choice. But the DARCI Conference, thankfully, ended up being much more inspiring than our rather sterile explanation of it evoked. So do bear with me while I tell you with an excruciating level of detail what it was all about. Just joking, I’ll just provide you with some highlights.
 
