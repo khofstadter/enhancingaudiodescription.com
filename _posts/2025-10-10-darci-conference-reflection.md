@@ -2,11 +2,11 @@
 layout: post-no-img-head
 title: Reflecting on the DARCI Conference
 description: "On beautiful, creative and thought-provoking access and representation: reflecting on the DARCI Conference."
-date: 2025-10-10
+date: 2025-10-13
 image: '/images/2025-10-10-darci-conference-reflection.webp'
 image-alt: 'TBC'
 tags: [conference, reflection]
-grid: false
+grid: true
 ---
 
 Back in April 2020, without any shortage of anxieties (for obvious reasons), I sat down and started writing the grant application for Enhancing Audio Description II in collaboration with Gavin. Somewhere within the 51-page document we wrote:
