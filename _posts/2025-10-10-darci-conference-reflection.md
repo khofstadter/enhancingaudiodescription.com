@@ -4,7 +4,7 @@ title: Reflecting on the DARCI Conference
 description: "On beautiful, creative and thought-provoking access and representation: reflecting on the DARCI Conference."
 date: 2025-10-13
 image: '/images/2025-10-10-darci-conference-reflection.webp'
-image-alt: 'TBC'
+image-alt: 'People sitting with headphones in the theatre.'
 tags: [conference, reflection]
 grid: true
 ---
