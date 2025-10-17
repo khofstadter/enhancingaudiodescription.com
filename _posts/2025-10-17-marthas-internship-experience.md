@@ -3,13 +3,13 @@ layout: post-no-img-head
 title: Reflecting on the DARCI Conference
 description: "We are excited to have had Martha doing an internship with us. In this post she sums up her experience on working on the DARCI Conference."
 date: 2025-10-17
-image: '/images/team-intern-martha.webp'
-image-alt: 'TBC'
+image: '/images/2025-10-17-marthas-internship-experience.webp'
+image-alt: 'Martha engaging with a performance.'
 tags: [conference, reflection]
 grid: true
 ---
 
-<center><img src="/images/team-intern-martha-cropped.webp" alt="Headshot of Martha."  width="500"></center><br>
+<center><img src="/images/2025-10-17-marthas-internship-experience.webp" alt="Martha engaging with a performance."  width="700"></center><br>
 
 Interning with the School of Arts and Creative Technologies for the DARCI conference was a hands-on experience that immersed me in the multifaceted nature of inclusive event planning. Each day brought new challenges and opportunities, deepening my understanding of what it means to create a truly accessible event and equipping me with a range of transferable skills.
 
@@ -26,4 +26,4 @@ Naturally, organising a large-scale event came with challenges. Last-minute prog
 Beyond technical skills, I gained a deeper awareness of accessibility as a lived experience. Seeing how small adjustments, like captions or flexible scheduling, could transform someone’s ability to participate was moving. The most rewarding aspect of the internship was witnessing the impact of our efforts. Attendees expressed heartfelt gratitude for the inclusive environment we had created. The hybrid format allowed individuals with mobility challenges or chronic health conditions to participate without barriers, and the thoughtful accommodations made them feel genuinely considered. It was affirming to see how intentional planning could foster a space where people felt safe, respected, and empowered to share their experiences. This confirmed the career path I want to pursue and reinforced my commitment to inclusive practice.
 Reflecting on the value of completing this internship at this stage in my academic journey, I can confidently say it was transformative. It taught me to be more resilient and to act more decisively. It bridged the gap between theory and practice, allowing me to apply sociological concepts to real-world scenarios. It also provided clarity and courage as I consider future career paths, particularly in event management and socially driven work. The experience has equipped me with the skills, confidence, and insight to pursue these goals with conviction.
 
-<center><img src="/images/2025-10-17-marthas-internship-experience-team.webp" alt="Team photo"  width="700"><br><small>Team photo with Gavin, Mariana, Chaimae and Martha (from left to right).</small></center><br>
+<!-- <center><img src="/images/2025-10-17-marthas-internship-experience-team.webp" alt="Team photo"  width="700"><br><small>Team photo with Gavin, Mariana, Chaimae and Martha (from left to right).</small></center><br> -->
