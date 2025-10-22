@@ -1,7 +1,7 @@
 ---
 layout: post-no-img-head
 title: "Designing Spaces for Neurodivergent Attendees at the DARCI Conference"
-description: "We are delighted to have had Eden helping us design a sensory and a quite room for us at the DARCI conference. In this post Eden sum up their experience."
+description: "We are delighted to have had Eden design a sensory and a quite room for the DARCI conference. In this post Eden sums up their experience."
 date: 2025-10-21
 image: '/images/2025-11-24-edens-darci-rooms-sensor.webp'
 image-alt: '/images/2025-11-24-edens-darci-rooms-quiet.webp" alt="Photo of the room sign'
@@ -35,11 +35,9 @@ Compared to the quiet room, this room could be used as a solo or collaborative s
 
 There was also a box in the room filled with various stim-toys, stimulation-focussed sensory objects/ toys that promote calm and self-regulation. Such toys were available for guests to take around the conference as required to support their sensory needs. Available stim-toys included tangles, soft/ squishy toys, and a wide variety of different tactile toys.
 
-## Feedback
+## Reflections
 
 The comments I have gotten from these rooms have been overwhelmingly positive. Allowing DARCI attendees who had had their social battery drained, were experiencing lowered attention span or were feeling overwhelmed to relax and regulate themselves so that they could re-enter the conference with the same energy they started with, was felt to be a great addition to the event. It was commented to be a space free of disturbances. The fact the room was also not an overly popular space was a massive benefit, as the goal was not to have a large quantity of attendees in the rooms at once as that would defeat the intended purpose of them. The availability of the rooms served the purpose they were created for, to support the needs of the few attendees who would need a space to go to in order to regulate themselves, and the availability of the rooms being far enough from the conference main area that they were a good space to take a break in but also close enough to still be usable worked out excellently.
-
-## Acknowledgment and Conclusion
 
 I would like to thank Megan Russell from the Humanities Research Centre at the University of York, for providing many of the available sensory supplies for the conference.
 
