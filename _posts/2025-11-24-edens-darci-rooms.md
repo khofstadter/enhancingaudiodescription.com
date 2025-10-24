@@ -2,11 +2,11 @@
 layout: post-no-img-head
 title: "Designing Spaces for Neurodivergent Attendees at the DARCI Conference"
 description: "We are delighted to have had Eden design a sensory and a quite room for the DARCI conference. In this post Eden sums up their experience."
-date: 2025-10-21
+date: 2025-10-24
 image: '/images/2025-11-24-edens-darci-rooms-sensor.webp'
 image-alt: '/images/2025-11-24-edens-darci-rooms-quiet.webp" alt="Photo of the room sign'
 tags: [conference, reflection]
-grid: false
+grid: true
 ---
 
 I was approached by Mariana to design a quiet room and a sensory room in order to improve the accessibility of the DARCI conference to support access needs for neurodivergent attendees.
@@ -25,7 +25,9 @@ This room was designed as a space attendees could place themselves in if they ne
 
 The room was situated away from the foyer area to ensure it remained as quiet as possible. The blinds were also lowered to dim the room, and the lights were left off.
 
-In case attendees needed additional ways to regulate, this room also had headphone stations that provided a selection of soundscapes to further allow anyone using the space to control their own environment, to assist in self-regulating any overstimulation they may be experiencing. Tracks taken from BBC Sound Effects were loaded onto portable recorders and connected to headphones, to allow users to take the soundscapes wherever they needed. The selected tracks were all nature tracks, recorded from various artists but mostly from Nigel Tucker, but were kept varied on what they were in order to provide relaxation to any attendee, no matter what type of sounds calmed them. 
+In case attendees needed additional ways to regulate, this room also had headphone stations that provided a selection of soundscapes to further allow anyone using the space to control their own environment, to assist in self-regulating any overstimulation they may be experiencing. Tracks taken from BBC Sound Effects were loaded onto portable recorders and connected to headphones, to allow users to take the soundscapes wherever they needed. The selected tracks were all nature tracks, recorded from various artists but mostly from Nigel Tucker, but were kept varied on what they were in order to provide relaxation to any attendee, no matter what type of sounds calmed them.
+
+[Here is one of Nigel Tucker’s tracks](https://sound-effects.bbcrewind.co.uk/search?q=NHU05043026), a personal favorite of the tracks that I used in one of the headphone stations, called *Lakeside*. The description reads “Late winter/Early spring, early morning, pond-pool. Mallard, pintail, mandarin ducks dabbling and calling while feeding. Prominent mistle thrush in background. Woodpigeons, robins and other woodland birds, calls from moorhen and coot.” Have a listen for yourself here!
 
 ## The Sensory Room
 
