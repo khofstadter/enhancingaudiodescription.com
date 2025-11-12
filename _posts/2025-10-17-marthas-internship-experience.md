@@ -1,6 +1,6 @@
 ---
 layout: post-no-img-head
-title: Reflecting on the DARCI Conference
+title: Reflecting on the DARCI Conference Internship
 description: "We are excited to have had Martha doing an internship with us. In this post she sums up her experience on working on the DARCI Conference."
 date: 2025-10-17
 image: '/images/2025-10-17-marthas-internship-experience.webp'

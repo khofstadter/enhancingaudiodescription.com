@@ -1,7 +1,7 @@
 ---
 layout: post-no-img-head
 title: Reflecting on the DARCI Conference
-description: "On beautiful, creative and thought-provoking access and representation: reflecting on the DARCI Conference."
+description: "On beautiful, creative and thought-provoking access and representation: reflecting on the DARCI Conference (by Mariana)."
 date: 2025-10-13
 image: '/images/2025-10-10-darci-conference-reflection.webp'
 image-alt: 'People sitting with headphones in the theatre.'
