@@ -18,12 +18,11 @@ image:
 
 <div class="container">
   <h2>Selected Video</h2>
-  <h3>EAD Promo</h3>
-  <p>A short video introducing the Enhanced Audio Description (EAD) methods, featuring Mariana López, Gavin Kearney, Warren Wilson and Samantha Moore. Captions and a short video description available on Vimeo.</p>
+  <h3>EAD Demo</h3>
+  <p>A quick demonstration of the work we do and how it adapts to different types of productions. We have set it up in an A/B format, so you can watch the 'original' clip first and then it's followed by the EAD version. Please listen with headphones to hear the binaural audio. Captions and a short video description available on Vimeo.</p>
     <article class="post">
     <div class="post__content">
-    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1122160731?fl=pl&fe=sh" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-    <br></div>
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1139009191?h=c6ac26d2b2" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe><br></div>
     </article>
   <!--<h3>Visible Mending</h3>
   <p>Our latest production, the BAFTA-nominated Visible Mending, can be played with the embedded video player below. You can access the full film through the embedded video player below. There are two soundtracks available and you can select which one to listen to by going to the settings symbol (the cog) and selecting the soundtrack you'd like to listen to. By default, the video is set to the original soundtrack, so please change it to the EAD version before playing which is called 'English UK Audio Descriptions'.</p>
