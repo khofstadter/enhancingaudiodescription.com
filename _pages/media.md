@@ -19,7 +19,7 @@ image:
 <div class="container">
   <h2>Selected Video</h2>
   <h3>EAD Demo</h3>
-  <p>A quick demonstration of the work we do and how it adapts to different types of productions. We have set it up in an A/B format, so you can watch the 'original' clip first and then it's followed by the EAD version. Please listen with headphones to hear the binaural audio. Captions and a short video description available on Vimeo.</p>
+  <p>A demonstration of the work we do and how it adapts to different types of productions. We have set it up in an A/B format, so you can watch the 'original' clip first and then it's followed by the EAD version. Our EAD work uses binaural audio, please listen over headphones to experience the audio spatialisation. Captions are available.</p>
     <article class="post">
     <div class="post__content">
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/1139009191?h=c6ac26d2b2" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe><br></div>

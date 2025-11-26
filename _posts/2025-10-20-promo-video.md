@@ -13,4 +13,4 @@ grid: true
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/1122160731?fl=pl&fe=sh" width="640" height="360" frameborder="0" allowfullscreen></iframe>
     <br></div>
 
-The producer of this promo video is Bob, one of our previous student interns. You can read about his internship experience in [this blog post](bobs-internship-experience).
+The producer of this promo video is Bob Tsang, one of our previous student interns. You can read about his internship experience in [this blog post](bobs-internship-experience).
