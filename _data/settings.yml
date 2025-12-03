@@ -59,10 +59,13 @@ author:
 
 
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://x.com/Mariana_J_Lopez"}
-- {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/marianajlopez.bsky.social"}
 - {icon: "fa-brands fa-linkedin", name: "Pinterest", link: "https://www.linkedin.com/in/mariana-j-l%C3%B3pez-9a229096/"}
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://www.instagram.com/mariana_j_lopez"}
+- {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/marianajlopez.bsky.social"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://x.com/Mariana_J_Lopez"}
+- {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://open.spotify.com/show/1GXirNuAD2vLYMp0vcLBq1"}
+- {icon: "fa-brands fa-apple", name: "Apple Podcast", link: "https://podcasts.apple.com/us/podcast/darci/id1798513207"}
+
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://fontawesome.com/icons
