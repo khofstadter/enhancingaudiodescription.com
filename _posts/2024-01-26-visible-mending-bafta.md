@@ -9,7 +9,9 @@ tags: [media, video, event]
 grid: true
 ---
 
-<div style="padding:52.73% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/827066711?h=b05611ccb9" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><br>
+<div class="post__content">
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/827066711?h=b05611ccb9" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+    <br></div>
 
 We are excited to announce that Visible Mending, a project we hold close to our hearts, has been nominated for the Best British Animated Short at the [British Academy Film and Television Arts (BAFTA) awards](https://www.bafta.org/media-centre/press-releases/2024-ee-bafta-film-awards-nominations-announced).
 
