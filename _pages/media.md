@@ -18,7 +18,7 @@ image:
 
 <div class="container">
   <h2>Selected Video</h2>
-  <h3>EAD Demo</h3>
+  <h3>Mami Fatale</h3>
   <p>Back in 2022 we welcomed Dr Monika Zabrocka to the University of York on a 2-year fellowship. As part of that fellowship, Monika and Mariana collaborated on a project that resulted in the creation, in 2024, of an EAD track for an episode of GS Animation's Mami Fatale. This was the first time we worked on a children's animation.</p>
     <article class="post">
     <div class="post__content">
