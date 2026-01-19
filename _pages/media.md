@@ -19,10 +19,10 @@ image:
 <div class="container">
   <h2>Selected Video</h2>
   <h3>EAD Demo</h3>
-  <p>A demonstration of the work we do and how it adapts to different types of productions. We have set it up in an A/B format, so you can watch the 'original' clip first and then it's followed by the EAD version. Our EAD work uses binaural audio, please listen over headphones to experience the audio spatialisation. Captions are available.</p>
+  <p>Back in 2022 we welcomed Dr Monika Zabrocka to the University of York on a 2-year fellowship. As part of that fellowship, Monika and Mariana collaborated on a project that resulted in the creation, in 2024, of an EAD track for an episode of GS Animation's Mami Fatale. This was the first time we worked on a children's animation.</p>
     <article class="post">
     <div class="post__content">
-    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1139009191?h=c6ac26d2b2" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe><br></div>
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1153411908?h=e703c41a48" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe></div>
     </article>
   <!--<h3>Visible Mending</h3>
   <p>Our latest production, the BAFTA-nominated Visible Mending, can be played with the embedded video player below. You can access the full film through the embedded video player below. There are two soundtracks available and you can select which one to listen to by going to the settings symbol (the cog) and selecting the soundtrack you'd like to listen to. By default, the video is set to the original soundtrack, so please change it to the EAD version before playing which is called 'English UK Audio Descriptions'.</p>
