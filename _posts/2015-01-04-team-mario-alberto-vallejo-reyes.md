@@ -1,7 +1,7 @@
 ---
 layout: post-team
 title: Mario Alberto Vallejo Reyes
-description: Research Trainee
+description: Research Trainee (Mar - Sep 2025)
 date:   2014-12-03
 image:  '/images/team-mario-feature.webp'
 image-header: '/images/team-mario.webp'

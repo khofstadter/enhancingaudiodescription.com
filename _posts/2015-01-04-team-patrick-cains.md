@@ -1,7 +1,7 @@
 ---
 layout: post-team
 title:  Patrick Cairns
-description: Technical Specialist
+description: Technical Specialist (Mar - Sep 2025)
 date:   2014-12-04
 image:  '/images/team-patrick-feature.webp'
 image-header: '/images/team-patrick.webp'
