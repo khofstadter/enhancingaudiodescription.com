@@ -19,7 +19,7 @@ image:
 <div class="container">
   <h2>Selected Video</h2>
   <h3>Mami Fatale</h3>
-  <p>Back in 2022 we welcomed Dr Monika Zabrocka to the University of York on a 2-year fellowship. As part of that fellowship, Monika and Mariana collaborated on a project that resulted in the creation, in 2024, of an EAD track for an episode of GS Animation's Mami Fatale. This was the first time we worked on a children's animation.</p>
+  <p>Back in 2022 we welcomed Dr Monika Zabrocka to the University of York on a 2-year fellowship. As part of that fellowship, Monika and Mariana collaborated on a project that resulted in the creation, in 2024, of an EAD track for an episode of GS Animation's Mami Fatale. This was the first time we worked on a children's animation. The video is best experienced over headphones.</p>
     <article class="post">
     <div class="post__content">
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/1153411908?h=e703c41a48" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe></div>
@@ -32,7 +32,7 @@ image:
     <br></div>
     </article>-->
   <h2>All Videos</h2>
-  <p>This section contains a list of blog posts featuring our videos.</p>
+  <p>This section contains a list of blog posts featuring our videos. The videos are best experienced over headphones.</p>
 
   <div class="row animate">
     {% if site.posts.size > 0 %}
