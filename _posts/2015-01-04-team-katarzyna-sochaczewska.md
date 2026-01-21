@@ -2,10 +2,10 @@
 layout: post-team
 title:  Katarzyna Sochaczewska
 description: Technical Specialist (Jan - May 2026)
-date:   2014-12-04
+date:   2014-12-02
 image:  '/images/team-katarzyna-feature.webp'
 image-header: '/images/team-katarzyna.webp'
-image-alt: 'Patrick smiling.'
+image-alt: 'Katarzyna smiling.'
 tags:   [team, audiolab-team]
 ---
 
