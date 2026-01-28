@@ -4,7 +4,7 @@ title: "Designing Spaces for Neurodivergent Attendees at the DARCI Conference"
 description: "We are delighted to have had Eden design a sensory and a quiet room for the DARCI conference. In this post Eden sums up their experience."
 date: 2025-10-24
 image: '/images/2025-11-24-edens-darci-rooms-sensor.webp'
-image-alt: '/images/2025-11-24-edens-darci-rooms-quiet.webp" alt="Photo of the room sign'
+image-alt: 'Photo of the room sign.'
 tags: [conference, reflection]
 grid: true
 ---
