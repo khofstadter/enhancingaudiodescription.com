@@ -6,7 +6,7 @@ date: 2026-01-28
 image: '/images/2026-01-28-case-internship.webp'
 image-alt: 'Photo of mixer with knobs and buttons.'
 tags: [internship]
-grid: false
+grid: true
 ---
 
 My internship within the Enhancing Audio Description project involved working as a ‘Post-Production Sound Intern’ with Academy Award-winning Sound Supervisor Nina Hartstone. My work centred around organising and editing audio from three separate audio devices used on a shoot without knowing the context of the film. The three microphone recordings provided a live field journal of the shoot day, letting three separate audio engineers roam and collect everything from wild tracks to character acting segments, general crew and backstage sounds. The aim: to build up a rich world without explicitly giving away the script or plot of the film to me while still providing consistent timings across the three sessions for when key events happened.
