@@ -1,7 +1,7 @@
 ---
 layout: post-no-img-head
-title: "Working with Nina Hartstone"
-description: "We are excited to have had Case doing an internship with our advisory board member, Nina Hartstone. In this post Case sums up their experience of working in Nina's studio."
+title: "Worlds of Sound"
+description: "We were delighted to offer an internship with Nina Hartstone as part of the project. In this blog post, Case reflects on their experience."
 date: 2026-01-28
 image: '/images/2026-01-28-case-internship.webp'
 image-alt: 'Photo of mixer with knobs and buttons.'
@@ -16,3 +16,5 @@ Audio alone can carry so much of the narrative, and this is something that came 
 The audio editing and Pro Tools skills I developed during my degree were essential, while also forcing me to scale up both the session size (the amount of audio data within the file) and my independence as an editor. Most notably, this work pushed me to examine how organisation affects workflow between different sound departments and how to pitch my own ideas while still taking on feedback and edits and sessions from my mentors. Being able to reflect on how to streamline audio for searchability, as well as the flexibility of the industry standards, opened up really interesting ideas on what I considered the most ‘essential’ parts of an audio clip when I had no frame of reference for the scene. I wondered if it was similar to the work done in captioning, assessing what audio is most notable for each segment and how that contributes to the world building for D/deaf and Hard of Hearing audiences. Thinking about audio organisation in this way could lead to much closer collaboration across the film sector and accessibility experts. Here I’m particularly thinking about the EAD methods, the possibility of easily and accurately searching and finding audio extracts that were recorded by the film sound recordists to then apply to the EAD track would ensure the fit of those sound effects to the style of the production as well as its more cost-effective application.
 
 On a less abstract level, working with just the audio allowed me to focus more closely on the contents of the recordings and picking up minute details that I would have skipped over in favour of just aligning the sound with the visuals presented. In working out my own categories for clips I was able to get extremely specific with dissecting or even duplicating clips to fit under multiple notes, allowing others to search for specific sounds without having to prioritise one audio part over another. This approach could be interesting for an EAD sound library as so much of recording exists in context and cross-labelling could push to consider beyond the ‘main’ or ‘essential’ sound of the scene and curate a richer audio experience for visually impaired audiences. For example, a beach scene could go beyond “footsteps on sand” to include descriptions of seabirds calling, waves crashing, or comments by other beach dwellers, elements that could be picked up during the first pass of editing by just focusing on the audio, and highlighted for later notation - allowing the sounds to be more easily used for EAD creation.
+
+Case Howard
