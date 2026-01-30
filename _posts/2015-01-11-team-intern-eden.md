@@ -20,7 +20,7 @@ tags:   [team, intern]
             {{ page.description }}
           {% endif %}
           <br><br>
-          <p>I am an FTP graduate from York, where I specialised my skills in sound for film (production and post), and have gone onto work on some low budget short and feature films. I began working on audio accessibility for autistic audiences, and using audio to represent autistic listening experiences in my 3rd year research project. Continued this onto a masters at York, and will be starting a PhD in audio accessibility for autistic audiences this coming September.
+          <p>I'm a graduate from the BSc in Film and Television Production at York, where I specialised my skills in sound for film (production and post), and have gone onto work on some low budget short and feature films. I began working on audio accessibility for autistic audiences, and using audio to represent autistic listening experiences in my 3rd year research project. Continued this onto a masters at York, and will be starting a PhD in audio accessibility for autistic audiences this coming September. I also worked to support the running of the DARCI conference, as well as <a href="https://enhancingaudiodescription.com/edens-darci-rooms">designed a quiet room and sensory room to support the self-regulation of neurodivergent attendees</a>.
           </p>
            </div>
           <div class="hero2__right">
