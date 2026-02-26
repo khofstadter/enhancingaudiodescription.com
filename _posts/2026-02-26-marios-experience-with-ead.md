@@ -3,7 +3,7 @@ layout: post-no-img-head
 title: The Role of Reverb, Space, and Perception in EAD
 description: "In this post, Mario shares an update on the work he carried out as part of the EAD project. His research focuses on how changes in reverberation can be better understood and used to support accessible film sound for visually impaired audiences."
 date: 2026-02-06
-image: '/images/2026-02-26-marios-experience-with-ead.webp'
+image: '/images/2026-02-26-marios-experience-with-ead-flags.webp'
 image-alt: 'Mario presenting his poster with research results at the Tonmeistertagung conference in Germany.'
 tags: []
 grid: true
@@ -24,5 +24,3 @@ These findings were presented at Tonmeistertagung 2025 in Germany this past Nove
 Future work will look into whether the same results are found when working with visually impaired people.
 
 [Mario Alberto Vallejo Reyes](team-mario-alberto-vallejo-reyes)
-
-<center><img src="/images/2026-02-26-marios-experience-with-ead-larger.webp" alt="Mario presenting his poster with research results at the Tonmeistertagung conference in Germany."></center>
